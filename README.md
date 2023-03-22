@@ -11,4 +11,4 @@ Electrocardiograma
 * **Jhoisymar Ttito** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Josue Lachira** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Adrian Hernandez** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Rodolfo Huacasi** - *Collaborator* - [PurpleBooth](https://github.com/berenidur)
+* **Rodolfo Huacasi** - *Collaborator* - [berenidur](https://github.com/berenidur)
