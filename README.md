@@ -34,9 +34,6 @@ Electrocardiograma
 * **Mariana Leon Prado** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
 * **Jhoisymar Ttito** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
 * **Josue Lachira** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
-<<<<<<< HEAD
-* **Adrian Hernandez** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
-=======
 * **Adrian Hernandez** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
 =======
 >>>>>>> eef5390fb8479293c949f4b921f5771195bc398d
