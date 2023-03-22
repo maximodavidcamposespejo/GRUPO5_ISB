@@ -21,7 +21,7 @@ Electrocardiograma
 
 https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4
 
-![VIDEO](.mp4)
+![](VIDEO.mp4)
 
 # Participantes
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
