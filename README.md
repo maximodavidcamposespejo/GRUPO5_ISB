@@ -19,6 +19,7 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 
 Electrocardiograma
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -28,6 +29,9 @@ Electrocardiograma
 =======
 ![](.mp4)
 >>>>>>> 1d2c4757df469bc5fd56a4d5cf84cde637349f1c
+=======
+![VIDEO](.mp4)
+>>>>>>> 69a3f630ced7c6f133d89652c668ee85006315d4
 
 # Participantes
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
