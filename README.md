@@ -14,16 +14,24 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 - [Tematica de proyecto](#Tematica-de-proyecto)
 - [Participantes](#Participantes)
 
-# Tematica de proyecto
+# ¿Qué es una Bioseñal? (Mariana)
+---
+Una bioseñal se define como un tipo señal generada por los seres vivos.
+
+# Materiales (pegar imagenes) (david) (Josue)
+---
+
+# Metodología (poner lo de las unidades del silabo) (jhoisymar)
+---
+
+# Tematica de proyecto ( imagenes, texto, videos ) (Adrian y Rodolfo)
 ---
 
 Electrocardiograma
-<div align="center">
-  <video src="https://user-images.githubusercontent.com/128626554/226993203-f1298f2c-61c3-4423-9b7b-cf99a7bc9c97.mp4" width=400/>
-<div/>
 
-
-
+[![Alt ] (https://youtu.be/CV1scq4s4CI)](https://youtu.be/CV1scq4s4CI)
+![https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4)
+(https://youtu.be/CV1scq4s4CI)
 # Participantes
 ---
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
