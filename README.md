@@ -22,6 +22,7 @@ Electrocardiograma
 ![https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4)
 
 # Participantes
+---
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
 * **Mariana Leon Prado** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
 * **Jhoisymar Ttito** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
