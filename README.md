@@ -26,7 +26,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica.
 |     | Materiales |
 | --- | --- |
 | Electrodos | <div align="center"> ![alt text](https://images.app.goo.gl/oqz7jTWYSiii9iwo9) |
-| Amplificadores | <div align="center"> ![alt text] (https://images.app.goo.gl/PTxYHmdvnZ4LTrJE7)|
+| Amplificadores | <div align="center"> ![alt text](https://images.app.goo.gl/PTxYHmdvnZ4LTrJE7)|
 
 ##  Metodologia (jhoisymar)
 ---
