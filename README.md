@@ -21,6 +21,7 @@ Electrocardiograma
 
 ![VIDEO.mp4](VIDEO.mp4)
 
+---
 # Participantes
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
 * **Mariana Leon Prado** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
