@@ -18,12 +18,16 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 ---
 
 Electrocardiograma
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
 
 =======
 >>>>>>> eef5390fb8479293c949f4b921f5771195bc398d
+=======
+![](.mp4)
+>>>>>>> 1d2c4757df469bc5fd56a4d5cf84cde637349f1c
 
 # Participantes
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
