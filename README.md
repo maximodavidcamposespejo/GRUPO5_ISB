@@ -19,8 +19,9 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 
 Electrocardiograma
 
+[![Alt ] (https://youtu.be/CV1scq4s4CI)](https://youtu.be/CV1scq4s4CI)
 ![https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4)
-
+(https://youtu.be/CV1scq4s4CI)
 # Participantes
 ---
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
