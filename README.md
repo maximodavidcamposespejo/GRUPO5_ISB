@@ -1,6 +1,6 @@
 # GRUPO5_ISB
 ---
-Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biomedicas¨
+Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨
 
 *ANALIZANDO ECG*
 
@@ -11,10 +11,11 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 ## Tabla de contenidos:
 ---
 
+- [¿Qué es una bioseñal?](#¿Qué-es-una-bioseñal?)
 - [Tematica de proyecto](#Tematica-de-proyecto)
 - [Participantes](#Participantes)
 
-## ¿Que es una bioseñal? (mariana)
+## ¿Qué es una bioseñal? (mariana)
 ---
 Una bioseñal es una señal biologica que puede ser medida y controlada continuamente.Esta refleja la naturaleza y actividad de cada proceso biologico generado por los diversos subsistemas del cuerpo humano.
 
