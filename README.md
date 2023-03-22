@@ -46,3 +46,4 @@ Electrocardiograma
 * **Jhoisymar Ttito** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
 * **Josue Lachira** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
 * **Adrian Hernandez** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
+* **Rodolfo Huacasi** - *Collaborator* - [berenidur](https://github.com/berenidur)
