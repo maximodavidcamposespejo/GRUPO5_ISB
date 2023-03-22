@@ -23,6 +23,10 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica.
 
 ## Materiales (David Josue)
 ---
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 ##  Metodologia (jhoisymar)
 ---
