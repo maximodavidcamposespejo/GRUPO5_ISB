@@ -1,5 +1,7 @@
 # GRUPO5_ISB
 Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biomedicas¨
+---
+
 
 ## Tabla de contenidos:
 ---
@@ -8,11 +10,12 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 - [Participantes](#Participantes)
 
 # Tematica de proyecto
+---
+
 Electrocardiograma
 
-
-
 # Participantes
+---
 * **Maximo Campos** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Mariana Leon Prado** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Jhoisymar Ttito** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
