@@ -18,6 +18,9 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 ---
 Una bioseñal es una señal biologica que puede ser medida y controlada continuamente.Esta refleja la naturaleza y actividad de cada proceso biologico generado por los diversos subsistemas del cuerpo humano.
 
+Una bioseñal puede ser tanto eléctrica como mecánica o bioquímica.
+
+
 ## Materiales (David Josue)
 ---
 
