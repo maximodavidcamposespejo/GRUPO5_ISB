@@ -14,7 +14,16 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 - [Tematica de proyecto](#Tematica-de-proyecto)
 - [Participantes](#Participantes)
 
-# Tematica de proyecto
+## ¿Que es una bioseñal? (mariana)
+---
+
+## Materiales (David Josue)
+---
+
+##  Metodologia (jhoisymar)
+---
+
+# Tematica de proyecto (rodolfo y adrian)
 ---
 
 Electrocardiograma
