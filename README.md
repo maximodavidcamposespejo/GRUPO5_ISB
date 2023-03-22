@@ -15,7 +15,7 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 - [Tematica de proyecto](#Tematica-de-proyecto)
 - [Participantes](#Participantes)
 
-## ¿Qué es una bioseñal? (mariana)
+## ¿Qué es una bioseñal?
 ---
 Una bioseñal es una señal biologica que puede ser medida y controlada continuamente.Esta refleja la naturaleza y actividad de cada proceso biologico generado por los diversos subsistemas del cuerpo humano.
 
