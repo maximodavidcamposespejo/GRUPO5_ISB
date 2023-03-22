@@ -19,15 +19,9 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 
 Electrocardiograma
 
-[![Alt text]
-(https://youtu.be/CV1scq4s4CI .jpg)]
-(https://youtu.be/CV1scq4s4CI)
-
-https://user-images.githubusercontent.com/128626554/226993203-f1298f2c-61c3-4423-9b7b-cf99a7bc9c97.mp4
+<p align="center">https://user-images.githubusercontent.com/128626554/226993203-f1298f2c-61c3-4423-9b7b-cf99a7bc9c97.mp4
 
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CV1scq4s4CI/0.jpg)](https://www.youtube.com/watch?v=CV1scq4s4CI)
 
 
 # Participantes
