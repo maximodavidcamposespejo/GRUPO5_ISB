@@ -19,9 +19,6 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 
 Electrocardiograma
 
-<<<<<<< HEAD
-
-<<<<<<< HEAD
 
 =======
 
@@ -32,12 +29,3 @@ Electrocardiograma
 * **Josue Lachira** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
 * **Adrian Hernandez** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
 =======
-# Participantes
----
-* **Maximo Campos** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Mariana Leon Prado** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Jhoisymar Ttito** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Josue Lachira** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Adrian Hernandez** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Rodolfo Huacasi** - *Collaborator* - [berenidur](https://github.com/berenidur)
->>>>>>> 9d4f09bb8a0396d1d0e0bb61f75c5e312360dda8
