@@ -23,6 +23,9 @@ Electrocardiograma
 (https://youtu.be/CV1scq4s4CI .jpg)]
 (https://youtu.be/CV1scq4s4CI)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CV1scq4s4CI/0.jpg)](https://www.youtube.com/watch?v=CV1scq4s4CI)
+
+
 # Participantes
 ---
 * **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
