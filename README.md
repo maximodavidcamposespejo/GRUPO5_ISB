@@ -1,10 +1,10 @@
-## GRUPO5_ISB
+# GRUPO5_ISB
 Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biomedicas¨
 
-## Tematica de proyect
+# Tematica de proyect
 Electrocardiograma
 
-## Participantes
+# Participantes
 
 * **Maximo Campos** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Mariana Leon Prado** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
