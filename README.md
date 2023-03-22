@@ -17,9 +17,9 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 
 ## ¿Qué es una bioseñal?
 ---
-Una bioseñal es una señal biologica que puede ser medida y controlada continuamente.Esta refleja la naturaleza y actividad de cada proceso biologico generado por los diversos subsistemas del cuerpo humano.
+Una bioseñal es una señal biologica que puede ser medida y controlada continuamente. Esta señal refleja la naturaleza y actividad de cada proceso biologico generado por los diversos subsistemas del cuerpo humano.
 
-Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico generado en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversad enfermedsdes o transtornos.
+Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversad enfermedsdes y transtornos.
 
 
 
