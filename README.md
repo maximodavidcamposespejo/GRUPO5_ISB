@@ -1,20 +1,10 @@
 # GRUPO5_ISB
 Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biomedicas¨
 
-Tematica de proyecto: Electrocardiograma
+# Tematica de proyect
+Electrocardiograma
 
-Integrantes: 
-- Maximo Campos
-- Josue Lachira 
-- Mariana Leon Prado
-- Jhoisymar Ttito
-- Adrian Hernandez
-- Rodolfo Huacasi
-# Project Title
-
-One Paragraph of project description goes here
-
-## Participantes
+# Participantes
 
 * **Maximo Campos** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Mariana Leon Prado** - *Collaborator* - [PurpleBooth](https://github.com/PurpleBooth)
