@@ -19,13 +19,8 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introduccion a Señales Biom
 
 Electrocardiograma
 
-=======
-
-=======
-=======
 https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4
 
-=======
 ![VIDEO](.mp4)
 
 # Participantes
@@ -34,5 +29,3 @@ https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/VIDEO.mp4
 * **Jhoisymar Ttito** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
 * **Josue Lachira** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
 * **Adrian Hernandez** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
-=======
->>>>>>> eef5390fb8479293c949f4b921f5771195bc398d
