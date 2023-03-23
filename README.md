@@ -48,7 +48,7 @@ Electrocardiograma
   <video src="https://user-images.githubusercontent.com/128626554/226993203-f1298f2c-61c3-4423-9b7b-cf99a7bc9c97.mp4" width=400/>[label](VIDEO.mp4)
 </div>
 <p align="center">
-  ![gif](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif)
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
 </p>
 
 
