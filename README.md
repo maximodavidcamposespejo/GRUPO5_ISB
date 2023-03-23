@@ -26,7 +26,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 ## Materiales (David Josue)
 ---
 
-|  Material  | Imagen referencial |
+|  **Material**  | **Imagen referencial** |
 | --- | --- |
 | **Arduino nano 33 IoT:** Es una mini placa que se caracteriza principalmente por tener una alta eficiencia energetica y baja potencia. Asimismo, integra las capacidades basicas de un procesador de señales y datos |<div align="center"> <img src="http://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00027_03.front_804x603.jpg?v=1626445295" width="50%" height="50%"> |
 | **Fluke ProSim 4 :** De la marca FLUKE, el ProSim 4 es un simulador de bioseñales humanas tales como: Frecuencia cardiaca, presion arterial y respiracion. Se usa principalmente en la validacion de equipos medicos, asi como en pruebas de desarollo de softwares de procesamiento de bioseñales. |<div align="center"> <img src="http://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png" width="50%" height="50%"> |
