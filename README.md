@@ -46,7 +46,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
   
 ## Temática del proyecto 
 ---
-(rodolfo y adrian hacen esto)
+Nos enfocaremos en señales de electrocardiograma. Estas son aquellas que se obtienen a partir del pulso cardiaco. Con esta se puede ver su actividad eléctrica con el paso del tiempo. Esta es una herramienta muy importante para  la detección de enfermedades del corazón, ya que anomalías en estas ondas son una señal de que hay alguna complicación en este órgano.
 
 Electrocardiograma
 <p align="center">
@@ -63,12 +63,12 @@ Electrocardiograma
 
 ## Participantes
 ---
-* **Maximo Campos** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
-* **Adrian Hernandez** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
-* **Rodolfo Huacasi** - *Collaborator* - [berenidur](https://github.com/berenidur)
-* **Josue Lachira** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
-* **Mariana Leon Prado** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
-* **Jhoisymar Ttito** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
+* **Maximo David Campos Espejo** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
+* **Adrián Ismael Hernández Vega** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
+* **Rodolfo Roger Huacasi Turpo** - *Collaborator* - [berenidur](https://github.com/berenidur)
+* **Josue Daniel Lachira Arellano** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
+* **Mariana Leon Prado Martínez** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
+* **Jhoisymar Eliana Ttito Herrera** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
 
 ## Docentes del curso
 ---
