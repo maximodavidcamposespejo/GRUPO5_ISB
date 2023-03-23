@@ -36,12 +36,13 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 | **Arduino Tiny Machine Learning Kit :** Es un kit de herramientas de la marca ARDUINO que permite el desarrollo de Machine Learning para el reconocimiento de patrones y bioseñales, asi como su procesamiento. |<div align="center"> <img src="http://cdn.shopify.com/s/files/1/0438/4735/2471/products/AKX00028_02.unbox_804x603.jpg?v=1615313455" width="50%" height="50%"> |
 
 
-##  Metodologia (jhoisymar)
+##  Metodologia 
 ---
-
-## Tematica de proyecto (rodolfo y adrian)
+(jhoisymar)
+  
+## Tematica de proyecto 
 ---
-
+(rodolfo y adrian)
 Electrocardiograma
 <div align="center">
   <video src="https://user-images.githubusercontent.com/128626554/226993203-f1298f2c-61c3-4423-9b7b-cf99a7bc9c97.mp4" width=400/>
