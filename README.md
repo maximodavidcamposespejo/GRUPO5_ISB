@@ -45,7 +45,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 (rodolfo y adrian)
 Electrocardiograma
 <div align="center">
-  <video src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/1c70a42ebca3cf4c98d40fd77cff9a6cdb3d6ba5/VIDEO.mp4" width=400/>
+  <video src="https://user-images.githubusercontent.com/128626554/226993203-f1298f2c-61c3-4423-9b7b-cf99a7bc9c97.mp4" width=400/>[label](VIDEO.mp4)
 </div>
 
 ## Participantes
