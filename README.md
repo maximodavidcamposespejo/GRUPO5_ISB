@@ -4,7 +4,7 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 
 *Proyecto: ANALIZANDO SEÑALES DE ELECTROCARDIOGRAMA (ECG)*
 
-Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señales de un electrocardiograma (ECG)
+Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señales de un electrocardiograma (ECG).
 
 <h1 align="center"> Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
