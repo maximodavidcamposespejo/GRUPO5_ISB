@@ -29,7 +29,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 |     | Materiales |
 | --- | --- |
 | Electrodos | <div align="center"> ![alt text](https://images.app.goo.gl/oqz7jTWYSiii9iwo9) |
-| Amplificadores | <div align="center"> ![Arduino nano 33 IoT](http://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00027_03.front_804x603.jpg?v=1626445295 "Arduino nano 33 IoT") height=60% width=60% |
+| Amplificadores | <div align="center"> ![Arduino nano 33 IoT](http://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00027_03.front_804x603.jpg?v=1626445295 "Arduino nano 33 IoT" height=60% width=60%) |
   
 
 ##  Metodologia (jhoisymar)
