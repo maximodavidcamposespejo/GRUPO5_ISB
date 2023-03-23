@@ -45,6 +45,7 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 <p align="justify">El procesamiento de señales que conlleva un electrocardiograma, inicia con la amplificación de la señal ECG, la cual tiene la finalidad de incrementar el nivel medible de la señal que se obtiene con los electrodos y excluir la interferencia o ruido. Una vez amplificada la señal se procede con la adquisición de la señal ECG, lo cual conlleva un componente hardware. La señal obtenida en esta etapa pasa a ser procesada mediante la aplicación de filtros y algoritmo de detección de complejos QRS para su posterior visualización.
   
 <p align="justify">Como se mencionó anteriormente, para realizar con éxito el procesamiento completo de la señal es necesario abarcar 3 ejes importantes:
+  
 1.	Desarrollo del hardware para la etapa de adquisición de la señal
 2.	Uso de sensores ECG
 3.	 Tratamiento digital de la señal
