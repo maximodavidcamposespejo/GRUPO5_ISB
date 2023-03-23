@@ -16,7 +16,7 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 - [¿Qué es una bioseñal?](#¿Qué-es-una-bioseñal?)
 - [Materiales](#Materiales)
 - [Metodología](#Metodología)
-- [Temática de proyecto](#Temática-de-proyecto)
+- [Temática del proyecto](#Temática-del-proyecto)
 - [Contenido del curso](#Contenido-del-curso)
 - [Participantes](#Participantes)
 - [Docentes del curso](#Docentes-del-curso)
