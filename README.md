@@ -17,6 +17,7 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 - [Materiales](#Materiales)
 - [Metodología](#Metodología)
 - [Temática de proyecto](#Temática-de-proyecto)
+- [Contenido del curso](#Contenido-del-curso)
 - [Participantes](#Participantes)
 - [Docentes del curso](#Docentes-del-curso)
 
@@ -45,12 +46,20 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
   
 ## Temática del proyecto 
 ---
-(rodolfo y adrian)
+(rodolfo y adrian hacen esto)
+
 Electrocardiograma
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
 </p>
 
+
+## Contenido del curso
+---
+* **UNIDAD 1:** Introducción, adquisición y principios fisiológicos de las señales biomédicas.
+* **UNIDAD 2:** Análisis de ECG, EMG y EEG.
+* **UNIDAD 3:** Introducción al tratamiento digital de señales.
+* **UNIDAD 4:** Informática biomédica e introducción a la inteligencia artificial en señales biomédicas.
 
 ## Participantes
 ---
