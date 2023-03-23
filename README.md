@@ -43,6 +43,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 ## Tematica de proyecto 
 ---
 (rodolfo y adrian hacen esto)
+
 Electrocardiograma
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
