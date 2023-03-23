@@ -23,9 +23,9 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 
 ## ¿Qué es una bioseñal?
 ---
-Una bioseñal es una señal biológica que puede ser medida y controlada continuamente. Esta señal refleja la naturaleza y actividad de cada proceso biológico generado por los diversos subsistemas del cuerpo humano.
+<p align="justify">Una bioseñal es una señal biológica que puede ser medida y controlada continuamente. Esta señal refleja la naturaleza y actividad de cada proceso biológico generado por los diversos subsistemas del cuerpo humano.
 
-Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversas enfermedades y transtornos.
+Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversas enfermedades y transtornos.</p>
 
 
 
@@ -46,9 +46,9 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
   
 ## Temática del proyecto 
 ---
-Nos enfocaremos en señales de electrocardiograma. Estas son aquellas que se obtienen a partir del pulso cardiaco. Con esta se puede ver su actividad eléctrica con el paso del tiempo. Esta es una herramienta muy importante para  la detección de enfermedades del corazón, ya que anomalías en estas ondas son una señal de que hay alguna complicación en este órgano.
+<p align="justify">Nos enfocaremos en señales de electrocardiograma. Estas son aquellas que se obtienen a partir del pulso cardiaco. Con esta se puede ver su actividad eléctrica con el paso del tiempo. Esta es una herramienta muy importante para  la detección de enfermedades del corazón, ya que anomalías en estas ondas son una señal de que hay alguna complicación en este órgano.</p>
 
-Electrocardiograma
+
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
 </p>
