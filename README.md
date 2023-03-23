@@ -1,6 +1,6 @@
 # GRUPO5_ISB
 ---
-Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨
+Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicassss¨
 
 *ANALIZANDO ECG*
 
