@@ -3,7 +3,7 @@
 
 
 
-*ANALIZANDO ECG*
+*ANALIZANDO SEÑALES DE ELECTROCARDIOGRAMA (ECG)*
 
 <h1 align="center"> Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
