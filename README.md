@@ -52,6 +52,7 @@ Electrocardiograma
 
 
 ## Contenido del curso
+---
 * **UNIDAD 1:** Introducción, adquisición y principios fisiológicos de las señales biomédicas.
 * **UNIDAD 2:** Análisis de ECG, EMG y EEG.
 * **UNIDAD 3:** Introducción al tratamiento digital de señales.
