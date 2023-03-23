@@ -39,7 +39,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 ##  Metodologia (jhoisymar)
 ---
 
-# Tematica de proyecto (rodolfo y adrian)
+## Tematica de proyecto (rodolfo y adrian)
 ---
 
 Electrocardiograma
