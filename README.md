@@ -12,6 +12,8 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 ---
 
 - [¿Qué es una bioseñal?](#¿Qué-es-una-bioseñal?)
+- [Materiales](#Materiales)
+- [Metodologia](#Metodologia)
 - [Tematica de proyecto](#Tematica-de-proyecto)
 - [Participantes](#Participantes)
 
@@ -23,7 +25,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 
 
 
-## Materiales (David Josue)
+## Materiales 
 ---
 
 |  **Material**  | **Imagen referencial** |
