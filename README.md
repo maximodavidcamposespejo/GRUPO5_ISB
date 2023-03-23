@@ -15,6 +15,7 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 - [Materiales](#Materiales)
 - [Metodología](#Metodología)
 - [Tematica de proyecto](#Tematica-de-proyecto)
+- [Contenido del curso](#Contenido-del-curso)
 - [Participantes](#Participantes)
 
 ## ¿Qué es una bioseñal?
