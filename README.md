@@ -1,7 +1,6 @@
 # GRUPO5_ISB
 ---
-
-
+Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨
 
 *ANALIZANDO SEÑALES DE ELECTROCARDIOGRAMA (ECG)*
 
@@ -44,7 +43,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 ## Tematica de proyecto 
 ---
 (rodolfo y adrian)
-Electrocardiogra
+Electrocardiograma
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
 </p>
