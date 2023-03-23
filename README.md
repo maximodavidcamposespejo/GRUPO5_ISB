@@ -1,6 +1,7 @@
 # GRUPO5_ISB
 ---
-Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨
+
+
 
 *ANALIZANDO ECG*
 
@@ -13,7 +14,7 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 
 - [¿Qué es una bioseñal?](#¿Qué-es-una-bioseñal?)
 - [Materiales](#Materiales)
-- [Metodologia](#Metodologia)
+- [Metodología](#Metodología)
 - [Tematica de proyecto](#Tematica-de-proyecto)
 - [Participantes](#Participantes)
 
@@ -21,7 +22,7 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 ---
 Una bioseñal es una señal biológica que puede ser medida y controlada continuamente. Esta señal refleja la naturaleza y actividad de cada proceso biológico generado por los diversos subsistemas del cuerpo humano.
 
-Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversas enfermedades y transtornos
+Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversas enfermedades y transtornos.
 
 
 
@@ -36,7 +37,7 @@ Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señale
 | **Arduino Tiny Machine Learning Kit :** Es un kit de herramientas de la marca ARDUINO que permite el desarrollo de Machine Learning para el reconocimiento de patrones y bioseñales, asi como su procesamiento. |<div align="center"> <img src="http://cdn.shopify.com/s/files/1/0438/4735/2471/products/AKX00028_02.unbox_804x603.jpg?v=1615313455" width="50%" height="50%"> |
 
 
-##  Metodologia 
+##  Metodología 
 ---
 (jhoisymar)
   
