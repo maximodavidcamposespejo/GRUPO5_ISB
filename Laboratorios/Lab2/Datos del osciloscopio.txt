@@ -1,0 +1,4 @@
+Tipo de señal: sinusoidal
+Voltaje pico: 2.5 V
+Frecuencia: 1 kHz
+Periodo: 1 ms
