@@ -37,10 +37,9 @@
 
 |  **Material**  | **Imagen referencial** |
 | --- | --- |
-| <p align="justify">**Arduino nano 33 IoT:** Es una mini placa que se caracteriza principalmente por tener una alta eficiencia energética y baja potencia. Asimismo, integra las capacidades básicas de un procesador de señales y datos</p> |<div align="center"> <img src="http://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00027_03.front_804x603.jpg?v=1626445295" width="50%" height="50%"> |
+| <p align="justify">**BITalino (r)evolution Board:** Es una placa descrita como un todo en uno para la adquisicion de bioseñales, tales como: EMG, ECG y EEG. Incluye un software OPENSOURCE para la visualizacion de las señales adquiridas </p> |<div align="center"> <img src="https://cdn.shopify.com/s/files/1/0595/1068/5887/products/BITalino-Board.1_720x.jpg?v=1646224819" width="50%" height="50%"> |
 | <p align="justify">**Fluke ProSim 4 :** De la marca FLUKE, el ProSim 4 es un simulador de bioseñales humanas tales como: Frecuencia cardiaca, presión arterial y respiración. Se usa principalmente en la validación de equipos médicos, así como en pruebas de desarollo de softwares de procesamiento de bioseñales.</p> |<div align="center"> <img src="http://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png" width="50%" height="50%"> |
 | <p align="justify">**BITalino :** Es un kit de herramientas de bajo costo que cuenta con su propio software open source, diseñado para ambientes educativos. Permite la lectura de bioseñales como electrocardiogramas, electromiogramas y electroencefalogramas.</p> |<div align="center"> <img src="http://upchlabib.com/wp-content/uploads/2023/03/Bitalicio-rotated.jpeg" width="50%" height="50%"> |
-| <p align="justify">**Arduino Tiny Machine Learning Kit :** Es un kit de herramientas de la marca ARDUINO que permite el desarrollo de Machine Learning para el reconocimiento de patrones y bioseñales, asi como su procesamiento.</p> |<div align="center"> <img src="http://cdn.shopify.com/s/files/1/0438/4735/2471/products/AKX00028_02.unbox_804x603.jpg?v=1615313455" width="50%" height="50%"> |
 
 
 ##  Metodología 
