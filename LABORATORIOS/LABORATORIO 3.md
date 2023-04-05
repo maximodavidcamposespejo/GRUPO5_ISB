@@ -1,27 +1,36 @@
 # Laboratorio 3
 ---
 
-
 *Tematica del laboratorio: GUÍA N° 3 – Uso de BiTalino para EMG y ECG*
 
-En el presente laboratorio se pretende realizar la experiencia de exploracion de señales EMG y ECG
+## Participantes
+---
+* **Maximo David Campos Espejo** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
+* **Adrián Ismael Hernández Vega** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
+* **Rodolfo Roger Huacasi Turpo** - *Collaborator* - [berenidur](https://github.com/berenidur)
+* **Josue Daniel Lachira Arellano** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
+* **Mariana Leon Prado Martínez** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
+* **Jhoisymar Eliana Ttito Herrera** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
+
+## Docentes del curso
+---
+* **Lewis De La Cruz**
+* **Moisés Meza**
+* **José Alonso Cáceres**
+* **Julissa Venancio**
 
 ## Tabla de contenidos:
 ---
 
-- [¿Qué es una bioseñal?](#¿Qué-es-una-bioseñal?)
+- [Introduccion al laboratorio](#Introduccion-al-laboratorio)
 - [Materiales](#Materiales)
 - [Metodología](#Metodología)
-- [Temática del proyecto](#Temática-del-proyecto)
-- [Contenido del curso](#Contenido-del-curso)
-- [Participantes](#Participantes)
-- [Docentes del curso](#Docentes-del-curso)
+- [Resultados y discusion](#Resultados-y-discusion)
+- [Conclusiones](#Conclusiones)
 
-## ¿Qué es una bioseñal?
+## Introduccion al laboratorio
 ---
-<p align="justify">Una bioseñal es una señal biológica que puede ser medida y controlada continuamente. Esta señal refleja la naturaleza y actividad de cada proceso biológico generado por los diversos subsistemas del cuerpo humano.</p>
-
-<p align="justify">Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversas enfermedades y transtornos.</p>
+<p align="justify">Escribir</p>
 
 ## Materiales 
 ---
@@ -46,7 +55,7 @@ En el presente laboratorio se pretende realizar la experiencia de exploracion de
 2.	Uso de sensores ECG
 3.	 Tratamiento digital de la señal
   
-## Temática del proyecto 
+## Resultados y discusion
 ---
 <p align="justify">Nos enfocaremos en señales de electrocardiograma. Estas son aquellas que se obtienen a partir del pulso cardiaco. Con esta se puede ver su actividad eléctrica con el paso del tiempo. Esta es una herramienta muy importante para  la detección de enfermedades del corazón, ya que anomalías en estas ondas son una señal de que hay alguna complicación en este órgano.</p>
 
@@ -56,25 +65,9 @@ En el presente laboratorio se pretende realizar la experiencia de exploracion de
 </p>
 
 
-## Contenido del curso
+## Conclusiones
 ---
 * **UNIDAD 1:** Introducción, adquisición y principios fisiológicos de las señales biomédicas.
 * **UNIDAD 2:** Análisis de ECG, EMG y EEG.
 * **UNIDAD 3:** Introducción al tratamiento digital de señales.
 * **UNIDAD 4:** Informática biomédica e introducción a la inteligencia artificial en señales biomédicas.
-
-## Participantes
----
-* **Maximo David Campos Espejo** - *Collaborator* - [maximodavidcamposespejo](https://github.com/maximodavidcamposespejo)
-* **Adrián Ismael Hernández Vega** - *Collaborator* - [Adrianhernandezve](https://github.com/Adrianhernandezve)
-* **Rodolfo Roger Huacasi Turpo** - *Collaborator* - [berenidur](https://github.com/berenidur)
-* **Josue Daniel Lachira Arellano** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
-* **Mariana Leon Prado Martínez** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
-* **Jhoisymar Eliana Ttito Herrera** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
-
-## Docentes del curso
----
-* **Lewis De La Cruz**
-* **Moisés Meza**
-* **José Alonso Cáceres**
-* **Julissa Venancio**
