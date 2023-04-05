@@ -1,12 +1,10 @@
-# GRUPO5_ISB
+# Laboratorio 3
 ---
-Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨ 2023-1, de la carrera de Ingenieria Biomedica, de la Universidad Peruana Cayetano Heredia(UPCH) y la Pontifice Universidad Catolica del Perú (PUCP).
-
-*Proyecto: ANALIZANDO SEÑALES DE ELECTROCARDIOGRAMA (ECG)*
-
-Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señales de un electrocardiograma (ECG).
 
 
+*Tematica del laboratorio: GUÍA N° 3 – Uso de BiTalino para EMG y ECG*
+
+En el presente laboratorio se pretende realizar la experiencia de exploracion de señales EMG y ECG
 
 ## Tabla de contenidos:
 ---
@@ -24,8 +22,6 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 <p align="justify">Una bioseñal es una señal biológica que puede ser medida y controlada continuamente. Esta señal refleja la naturaleza y actividad de cada proceso biológico generado por los diversos subsistemas del cuerpo humano.</p>
 
 <p align="justify">Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversas enfermedades y transtornos.</p>
-
-
 
 ## Materiales 
 ---
