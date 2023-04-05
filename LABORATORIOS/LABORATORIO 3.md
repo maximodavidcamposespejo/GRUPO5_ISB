@@ -30,7 +30,7 @@
 * **José Alonso Cáceres**
 * **Julissa Venancio**
 
-## Introduccion al laboratorio ()
+## Introduccion al laboratorio (Josue)
 ---
 <p align="justify">
 - Breve introduccion a señales EMG. Que es un potencial de accion. Como se adquiere una EMG y que es un EMG. 
@@ -46,7 +46,7 @@
 | <p align="justify">**PC y participante** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coolbox.pe%2Flaptop-asus-vivobook-14--core-i5-1135g7-512gb-ssd-8gb-ram-win10-teclado-ingles-gris-11136%2Fp&psig=AOvVaw2Dj2tQJYRQjv87Er7ZOLz6&ust=1680802594948000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDdkt-jk_4CFQAAAAAdAAAAABAE" width="50%" height="50%"> |
 
 
-##  Metodología (David y 1+)
+##  Metodología (David y Jhoysimar)
 ---
 <p align="justify">A continuacion, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
@@ -65,7 +65,7 @@ IMAGEN DE CONEXIONES
 </p>
  
 
-## Conclusiones () 
+## Conclusiones (Mariana) 
   
 Como las señales se han diferenciado. Bibliografia de por que son diferentes las señales y conclusion de las EMG. 
   
