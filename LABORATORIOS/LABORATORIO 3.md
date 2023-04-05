@@ -30,7 +30,7 @@
 * **José Alonso Cáceres**
 * **Julissa Venancio**
 
-## Introduccion al laboratorio (Jhoysimar y 1+)
+## Introduccion al laboratorio ()
 ---
 <p align="justify">
 - Breve introduccion a señales EMG. Que es un potencial de accion. Como se adquiere una EMG y que es un EMG. 
@@ -55,7 +55,7 @@ IMAGEN DE CONEXIONES
 2. Se coloca los electrodos en el paciente segun la siguiente imagen referencial, para la medicion del nervio mediano de la mano. 
 3. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals. De este modo, obtenemos tres 
   
-## Resultados y discusion (Rodolfo, Adrian 1+)
+## Resultados y discusion (Rodolfo, Adrian)
 ---
 <p align="justify">Ploteos finales obtenidos en Python y comparacion de los datos.</p>
 
@@ -63,5 +63,10 @@ IMAGEN DE CONEXIONES
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
 </p>
+ 
+
+## Conclusiones () 
+  
+Como las señales se han diferenciado. Bibliografia de por que son diferentes las señales y conclusion de las EMG. 
   
  ## Bibliografia 
