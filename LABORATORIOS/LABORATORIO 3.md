@@ -12,6 +12,7 @@
 - [Materiales](#Materiales)
 - [Metodología](#Metodología)
 - [Resultados y discusion](#Resultados-y-discusion)
+- [Bibliografia](#Bibliografia)
 
 ## Participantes
 ---
@@ -49,7 +50,10 @@
 ---
 <p align="justify">A continuacion, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
-1.Procedemo 
+1. Se conecta el cable ramal de tres electrodos de medicion (Positivo, negativo y tierra) junto a sus chupones descartable a la placa BITalino para el registro de las señales EMG. El puerto de conexion se reviso en el DATASHEET del BITalino usado (PUERTO EMG).
+IMAGEN DE CONEXIONES
+2. Se coloca los electrodos en el paciente segun la siguiente imagen referencial, para la medicion del nervio mediano de la mano. 
+3. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals. De este modo, obtenemos tres 
   
 ## Resultados y discusion (Rodolfo, Adrian 1+)
 ---
@@ -59,3 +63,5 @@
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
 </p>
+  
+ ## Bibliografia 
