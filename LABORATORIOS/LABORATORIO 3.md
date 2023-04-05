@@ -30,7 +30,9 @@
 
 ## Introduccion al laboratorio
 ---
-<p align="justify">Escribir</p>
+<p align="justify">
+- Breve introduccion a señales EMG
+- Finalidad del laboratorio </p>
 
 ## Materiales 
 ---
@@ -38,8 +40,8 @@
 |  **Material**  | **Imagen referencial** |
 | --- | --- |
 | <p align="justify">**BITalino (r)evolution Board:** Es una placa descrita como un todo en uno para la adquisicion de bioseñales, tales como: EMG, ECG y EEG. Incluye un software OPENSOURCE para la visualizacion de las señales adquiridas </p> |<div align="center"> <img src="https://cdn.shopify.com/s/files/1/0595/1068/5887/products/BITalino-Board.1_720x.jpg?v=1646224819" width="50%" height="50%"> |
-| <p align="justify">**Fluke ProSim 4 :** De la marca FLUKE, el ProSim 4 es un simulador de bioseñales humanas tales como: Frecuencia cardiaca, presión arterial y respiración. Se usa principalmente en la validación de equipos médicos, así como en pruebas de desarollo de softwares de procesamiento de bioseñales.</p> |<div align="center"> <img src="http://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png" width="50%" height="50%"> |
-| <p align="justify">**BITalino :** Es un kit de herramientas de bajo costo que cuenta con su propio software open source, diseñado para ambientes educativos. Permite la lectura de bioseñales como electrocardiogramas, electromiogramas y electroencefalogramas.</p> |<div align="center"> <img src="http://upchlabib.com/wp-content/uploads/2023/03/Bitalicio-rotated.jpeg" width="50%" height="50%"> |
+| <p align="justify">**OpenSignals Software:** Es un software Open Source que trabaja con la placa BITalino para la adquision de bioseñales.</p> |<div align="center"> <img src="https://support.pluxbiosignals.com/wp-content/uploads/2021/12/os_screens_1.jpg" width="50%" height="50%"> |
+| <p align="justify">**PC y participante** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lenovo.com%2Fpe%2Fes%2Flaptops%2Fthinkbook%2Fthinkbook-series%2FLenovo-ThinkBook-16-Gen-4-16-inch-Intel%2Fp%2FLEN101B0008&psig=AOvVaw08DJ6ahcpdTjBBCyEPtCVC&ust=1680800040306000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCK752ak_4CFQAAAAAdAAAAABAL" width="50%" height="50%"> |
 
 
 ##  Metodología 
