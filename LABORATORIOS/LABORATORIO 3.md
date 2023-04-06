@@ -67,11 +67,17 @@ A. Reposo
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="50%" height="50%">
 </p>
 
+<p align="center">
 B. Movimiento leve del dedo 
-
+</p>
+  
+<p align="center">
 C. Movimiento fuerte del dedo
-
+</p>
+  
+<p align="center"> 
 D. Contratension en el dedo 
+</p>
 
 4. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals.
 
