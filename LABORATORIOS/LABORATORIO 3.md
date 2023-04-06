@@ -128,8 +128,6 @@ B. Movimiento
 ## Resultados y discusion 
 ---
 <p align="justify">
-Ploteos finales obtenidos en Python y comparacion de los datos.
-
 Se obtuvieron los siguientes resultados:
 </p>
 
