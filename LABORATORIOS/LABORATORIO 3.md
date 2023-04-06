@@ -53,8 +53,46 @@
 <p align="justify">A continuacion, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
 1. Se conecta el cable ramal de tres electrodos de medicion (Positivo, negativo y tierra) junto a sus chupones descartable a la placa BITalino para el registro de las señales EMG. El puerto de conexion se reviso en el DATASHEET del BITalino usado (PUERTO EMG).
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg" width="50%" height="50%">
+</p>
+
 IMAGEN DE CONEXIONES
 2. Se coloca los electrodos en el paciente segun la siguiente imagen referencial, para la medicion del nervio mediano de la mano. 
+
+3. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que se encuentra dentro del rango de 2-500 Hz, el cual es el usado para la adquicion de bioseñales de tipo EMG. 
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg" width="50%" height="50%">
+</p>
+
+4. Se procedera a realizar 4 tipos diferentes de actividades musculares. 
+
+<p align="center">
+A. Reposo
+</p>
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="50%" height="50%">
+</p>
+
+<p align="center">
+B. Movimiento leve del dedo 
+</p>
+
+<p align="center">
+C. Movimiento fuerte del dedo
+</p>
+
+<p align="center"> 
+D. Contratension en el dedo 
+</p>
+
+5. Se repite el proceso para la medicion de señales EMG en el nervio tibial posterior del Soleo, tal y como se observa en la siguiente imagen referencial. 
+
+Para esta medicion, 
+
+
 3. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals. De este modo, obtenemos tres 
   
 ## Resultados y discusion (Rodolfo, Adrian)
