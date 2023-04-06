@@ -149,7 +149,7 @@ Se obtuvieron los siguientes resultados:
 ### Frecuencias de las señales obtenidas
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_2.png">| 
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/FFT_mano.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/FFT_tobillo.png">| 
   
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab3). Asimismo, para el último par de imágenes, la correspondiente a la mano es la gráfica de la izquierda y la correspondiente al tobillo es la de la dererecha.
 
