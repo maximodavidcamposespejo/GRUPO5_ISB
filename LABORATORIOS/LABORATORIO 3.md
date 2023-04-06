@@ -86,12 +86,9 @@ C. Movimiento fuerte del dedo
 <p align="center"> 
 D. Contratension en el dedo 
 </p>
+
 <p align="center">
-https://user-images.githubusercontent.com/128626554/230247144-71df1621-904e-49da-86f1-99b043dd9001.mp4
-</p>
-  
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 5. Se repite el proceso para la medicion de señales EMG en el nervio tibial posterior del Soleo, tal y como se observa en la siguiente imagen referencial. 
