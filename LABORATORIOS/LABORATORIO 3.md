@@ -60,6 +60,10 @@
 
 IMAGEN DE CONEXIONES
 2. Se coloca los electrodos en el paciente segun la siguiente imagen referencial, para la medicion del nervio mediano de la mano. 
+  
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg" width="50%" height="50%">
+</p>
 
 3. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que se encuentra dentro del rango de 2-500 Hz, el cual es el usado para la adquicion de bioseñales de tipo EMG. 
 
