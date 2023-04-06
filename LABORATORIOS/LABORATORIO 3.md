@@ -130,8 +130,15 @@ B. Movimiento
 <p align="justify">
 Ploteos finales obtenidos en Python y comparacion de los datos.
 Se obtuvieron los siguientes resultados:
-
 </p>
+<img align="center" src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_1" width="50%" height="50%">
+<img align="center" src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_2" width="50%" height="50%">
+<img align="center" src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_3" width="50%" height="50%">
+<img align="center" src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_4" width="50%" height="50%">
+<img align="center" src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_1" width="50%" height="50%">
+<img align="center" src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_2" width="50%" height="50%">
+
+
  
 
 ## Conclusiones (Mariana) 
