@@ -105,7 +105,7 @@ D. Contratension en el dedo
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REFLEJO_H_TIBIAL_POSTERIOR.png" width="50%" height="50%">
 </p>
   
-Para esta medicion, se procederan a tomar 2 posociones distintas. 
+Para esta medicion, se procederan a tomar 2 posiciones distintas. 
 
 <p align="center">
 A. Reposo
