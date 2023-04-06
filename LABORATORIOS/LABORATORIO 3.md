@@ -72,7 +72,7 @@
 A. Reposo
 </p>
 <p align="center">
-<video src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REPOSO.mp4" >
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REPOSO.mp4"/>
 </p>
  
 <p align="center">
