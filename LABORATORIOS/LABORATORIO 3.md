@@ -112,7 +112,7 @@ A. Reposo
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REPOSO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REPOSO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ B. Movimiento
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/MOVIMIENTO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/MOVIMIENTO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
 </p>
 
 ## Resultados y discusion (Rodolfo, Adrian)
