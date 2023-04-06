@@ -30,7 +30,7 @@
 * **José Alonso Cáceres**
 * **Julissa Venancio**
 
-## Introduccion al laboratorio (Josue)
+## Introduccion al laboratorio 
 ---
 <p align="justify">
   Para utilizar efectivamente intrumentación biomédica relacionada a la fisiología y la biomecánica humana, es fundamental comprender el funcionamiento de las señales biológicas y su relación con el movimiento del cuerpo. Una de las señales biológicas más importantes es el potencial de acción, que es una señal eléctrica generada por las células nerviosas y musculares al momento de generarse diversos fenomenos quimicos que afectan la permeabilidad de la membrana al sodio y al potasio. En este sentido, el Electromiograma (EMG) se ha convertido en una herramienta valiosa para la medición de la actividad eléctrica muscular, en otras palabras, es una herramienta capaz de registrar los diversos cambios de potencial y evaluar la función neuromuscular de diversas unidades motoras. Este conocimiento puede ser empleado en diversas disciplinas, como la fisioterapia, la medicina deportiva y la rehabilitación. 
@@ -48,7 +48,7 @@
 | <p align="justify">**PC y participante** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coolbox.pe%2Flaptop-asus-vivobook-14--core-i5-1135g7-512gb-ssd-8gb-ram-win10-teclado-ingles-gris-11136%2Fp&psig=AOvVaw2Dj2tQJYRQjv87Er7ZOLz6&ust=1680802594948000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDdkt-jk_4CFQAAAAAdAAAAABAE" width="50%" height="50%"> |
 
 
-##  Metodología (David y Jhoysimar)
+##  Metodología 
 ---
 <p align="justify">A continuacion, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
@@ -128,11 +128,6 @@ B. Movimiento
 ## Resultados y discusion (Rodolfo, Adrian)
 ---
 <p align="justify">Ploteos finales obtenidos en Python y comparacion de los datos.</p>
-
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
-</p>
  
 
 ## Conclusiones (Mariana) 
