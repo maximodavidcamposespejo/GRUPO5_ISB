@@ -33,6 +33,9 @@
 ## Introduccion al laboratorio (Josue)
 ---
 <p align="justify">
+- Para utilizar efectivamente intrumentación biomédica relacionada a la fisiología y la biomecánica humana, es fundamental comprender el funcionamiento de las señales biológicas y su relación con el movimiento del cuerpo. Una de las señales biológicas más importantes es el potencial de acción, que es una señal eléctrica generada por las células nerviosas y musculares al momento de generarse diversos fenomenos quimicos que afectan la permeabilidad de la membrana al sodio y al potasio. En este sentido, el Electromiograma (EMG) se ha convertido en una herramienta valiosa para la medición de la actividad eléctrica muscular, en otras palabras, es una herramienta capaz de registrar los diversos cambios de potencial y evaluar la función neuromuscular de diversas unidades motoras. Este conocimiento puede ser empleado en diversas disciplinas, como la fisioterapia, la medicina deportiva y la rehabilitación. 
+- Dicho esto, en esta práctica de laboratorio, se tiene como objetivo explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals ,así también se espera su respectiva configuración y finalmente una correcta interpretación y utilización del módulo BiTalino como EMG para medir la actividad muscular durante la contracción voluntaria y la realización de diferentes movimientos.
+  
 - Breve introduccion a señales EMG. Que es un potencial de accion. Como se adquiere una EMG y que es un EMG. 
 - Escribir una oracion final de la finalidad del laboratorio </p>
 
@@ -51,43 +54,19 @@
 <p align="justify">A continuacion, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
 1. Se conecta el cable ramal de tres electrodos de medicion (Positivo, negativo y tierra) junto a sus chupones descartable a la placa BITalino para el registro de las señales EMG. El puerto de conexion se reviso en el DATASHEET del BITalino usado (PUERTO EMG).
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg" width="50%" height="50%">
-</p>
-  
+IMAGEN DE CONEXIONES
 2. Se coloca los electrodos en el paciente segun la siguiente imagen referencial, para la medicion del nervio mediano de la mano. 
-  
-3. Se procedera a realizar 4 tipos diferentes de actividades musculares. 
-
-<p align="center">
-A. Reposo
-</p>
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="50%" height="50%">
-</p>
-
-<p align="center">
-B. Movimiento leve del dedo 
-</p>
-  
-<p align="center">
-C. Movimiento fuerte del dedo
-</p>
-  
-<p align="center"> 
-D. Contratension en el dedo 
-</p>
-
-4. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals.
-
-
+3. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals. De este modo, obtenemos tres 
   
 ## Resultados y discusion (Rodolfo, Adrian)
 ---
 <p align="justify">Ploteos finales obtenidos en Python y comparacion de los datos.</p>
 
 
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
+</p>
+ 
 
 ## Conclusiones (Mariana) 
   
