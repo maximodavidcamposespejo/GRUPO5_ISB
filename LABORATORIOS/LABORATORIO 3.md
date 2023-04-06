@@ -141,7 +141,7 @@ Se obtuvieron los siguientes resultados:
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_4.png">|
 </p>
 
-### Ploteo de la señal obtenida en el tobillo
+### Ploteo de la señal obtenida en el pantorrilla
 | | |
 | :---: | :---: |
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_2.png">|
