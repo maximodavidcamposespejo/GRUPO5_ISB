@@ -13,7 +13,7 @@
 - [Metodología](#Metodología)
 - [Resultados y discusión](#Resultados-y-discusión)
 - [Conclusiones](#Conclusiones)
-- [Bibliografia](#Bibliografia)
+- [Bibliografía](#Bibliografía)
 
 ## Participantes
 ---
@@ -157,10 +157,10 @@ El código y datos utilizados para realizar el ploteo pueden ser consultados [aq
 Se observan diferencias significativas en las gráficas. Respecto a las mediciones tomadas al nervio mediano en la mano, se ve que los voltajes adquiridos se incrementan con la cantidad de movimiento realizada. Caso notable es en la flexión brusca, donde se llegan a picos de 200 mV. También se puede ver un icremento de frecuencias en los periodos con mayor actividad muscular. En la primera zona de movimiento se llega a un pico de 20 Hz. En la más alta, se alcanzan 40 Hz. Sin embargo, estas se encuentran en constante oscilación de en todo momento.
   
 <p align="justify">
-Por su parte, en el tobillo la medición es diferente. Se ven picos de valores entre 50 a 100 milivoltios en una recuencia que aparenta ser periódica. La diferencia con las gráficas anteriores radica en el tipo de movimiento realizado. Aunque en ambas se realizaron movimientos de flexión, en el primer experimento fueron con un movimiento continuo. En el actual, se llegaron a marcar pausas y el profesor asistió en el control de los movimientos, lo que ayudó a la formación de este tipo de ondas. 
+Por su parte, en el tobillo la medición es diferente. Se ven picos de valores entre 50 a 100 milivoltios en una frecuencia que aparenta ser periódica. La diferencia con las gráficas anteriores radica en el tipo de movimiento realizado. Aunque en ambas se realizaron movimientos de flexión, en el primer experimento fueron con un movimiento continuo. En el actual, se llegaron a marcar pausas y el profesor asistió en el control de los movimientos, lo que ayudó a la formación de este tipo de ondas. 
   
 <p align="justify">
-Nótese también que en la segunda se alcanzó también el pico de 40 Hz en la gráfica de transformadas de Fourier. Esto muestra que lograron a obtenerse señales de frecuencia similar. Y, dentro del ámbito clínico, ambas medicones son relevantes. Las mediciones realizadas al nervio medio de la mano pueden asistir para la detección o evaluación de casos de síndrome de tunel carpiano en una etapa temprano. Y las del tobillo para mediciones de análisis de la marcha, regulando la coordinación motora de pacientes de un modo no invasivo y seguro.
+Nótese también que en la segunda se alcanzó también el pico de 40 Hz en la gráfica de transformadas de Fourier. Esto muestra que lograron a obtenerse señales de frecuencia similar. Y, dentro del ámbito clínico, ambas medicones son relevantes. Las mediciones realizadas al nervio medio de la mano pueden asistir para la detección o evaluación de casos de Síndrome de Tunel Carpiano en una etapa temprana. Y las del músculo sóleo para mediciones de análisis de la marcha, regulando la coordinación motora de pacientes de un modo no invasivo y seguro.
 
 ## Conclusiones 
 - Se evaluó mediante la electromiografía el comportamiento de dos músculos y células nerviosas en distintos movimientos. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía de procedimiento de electromiografía y velocidad de conducción de nervios periféricos del ministerio de salud.
@@ -168,10 +168,10 @@ Nótese también que en la segunda se alcanzó también el pico de 40 Hz en la g
 - Se logró identificar las diferencias entre cuatro movimientos realizados en el músculo abductor corto del pulgar y la conducción nerviosa motora del
 nervio mediano. Se observó que en un movimiento leve la señal varia ligeramente generando picos continuos con poca intensidad, en cambio, en un movimiento más prolongado y fuerte, se generan picos de mayor intensidad. Para el caso de la contra tensión en el dedo generada por una fuerza externa, se observó que la señal presenta gran cantidad de picos intensos, continuos y prolongados. Finalmente, en el caso del reposo, se observó una señal muy cercana a 0 mV con pequeños picos que representan ruido. 
   
-- Se logró identificar las diferencias entre dos diferentes movimientos realizados en el musculo soleo ubicado en la pantorrilla.  En el caso del reposo, se observó una señal muy cercana a 0mV con pequeños picos que representan ruido. En cambio, se observó que en un movimiento la señal varia generando picos continuos e intensos. Se observó que, en comparación con los picos generados por la señal del músculo abductor corto del pulgar, los obtenidos para la señal de la pantorrilla presentan una menor intensidad. 
+- Se logró identificar las diferencias entre dos diferentes movimientos realizados en el músculo síleo ubicado en la pantorrilla. En el caso del reposo, se observó una señal muy cercana a 0 mV con pequeños picos que representan ruido. En cambio, se observó que en un movimiento la señal varia generando picos continuos e intensos. Se observó que, en comparación con los picos generados por la señal del músculo abductor corto del pulgar, los obtenidos para la señal de la pantorrilla presentan una menor intensidad. 
   
   
- ## Bibliografia 
+ ## Bibliografía 
 - D. C. Preston y B. E. Shapiro, “Electromyography and neuromuscular disorders : clinical-electrophysiologic-ultrasound correlations-4th edition”, p. 768.
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
 - Mayo Clinic: (2022). Síndrome de Túnel Carpiano - Diagnóstico y Tratamiento. [Online]. Disponible en: https://www.mayoclinic.org/es-es/diseases-conditions/carpal-tunnel-syndrome/diagnosis-treatment/drc-20355608
