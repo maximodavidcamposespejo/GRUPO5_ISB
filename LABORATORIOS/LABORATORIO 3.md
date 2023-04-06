@@ -52,13 +52,13 @@
   
 1. Se conecta el cable ramal de tres electrodos de medicion (Positivo, negativo y tierra) junto a sus chupones descartable a la placa BITalino para el registro de las señales EMG. El puerto de conexion se reviso en el DATASHEET del BITalino usado (PUERTO EMG).
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg" width="50%" height="50%">
 </p>
 2. Se coloca los electrodos en el paciente segun la siguiente imagen referencial, para la medicion del nervio mediano de la mano. 
 3. Se procedera a realizar 4 tipos diferentes de actividades musculares. 
 <p align="center">
   3.1 Reposo
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="50%" height="50%">
 </p>
 3.2 Movimiento leve del dedo 
 3.3 Movimiento fuerte del dedo
