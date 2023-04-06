@@ -57,7 +57,9 @@
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg" width="25%" height="25%">
 </p>
-
+</p>  
+<video src='REPOSO.mp4' width=180/> 
+</p>
 2. Se coloca los electrodos en el paciente segun la siguiente imagen referencial, para la medicion del nervio mediano de la mano. 
   
 <p align="center">
