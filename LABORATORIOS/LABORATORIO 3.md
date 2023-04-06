@@ -135,15 +135,16 @@ Se obtuvieron los siguientes resultados:
 
 ### Ploteo de la señal obtenida en la mano
 
+| | | |
+| :---: | :---: | :---: |
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_1.png" width="50%" height="50%">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_2.png" width="50%" height="50%">|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_3.png" width="50%" height="50%">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_4.png" width="50%" height="50%">|
 </p>
 
 ### Ploteo de la señal obtenida en el tobillo
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_1.png" width="50%" height="50%">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_2.png" width="50%" height="50%">
-</p>
+| | |
+| :---: | :---: |
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_1.png" width="50%" height="50%">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_2.png" width="50%" height="50%">|
 
 El código y datos utilizados para realizar el ploteo puede ser consultado [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab3).
 
