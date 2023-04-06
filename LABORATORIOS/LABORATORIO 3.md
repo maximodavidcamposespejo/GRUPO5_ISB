@@ -123,6 +123,8 @@ B. Movimiento
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/MOVIMIENTO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
 </p>
 
+6. Finalmente, se exporta los canales de medicion de electrodo del software OpenSignal para plotear y comparar las graficas en PYTHON 
+
 ## Resultados y discusion (Rodolfo, Adrian)
 ---
 <p align="justify">Ploteos finales obtenidos en Python y comparacion de los datos.</p>
