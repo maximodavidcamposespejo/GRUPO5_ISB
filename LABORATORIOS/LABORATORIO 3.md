@@ -149,11 +149,11 @@ Se obtuvieron los siguientes resultados:
 El código y datos utilizados para realizar el ploteo puede ser consultado [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab3).
 
 ## Conclusiones (Mariana) 
-- Se evaluó mediante la electromiografía el comportamiento de dos músculos y células nerviosas en distintos movimientos. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía de procedimiento de electromiografía y velocidad de conducción de nervios periféricos.
+- Se evaluó mediante la electromiografía el comportamiento de dos músculos y células nerviosas en distintos movimientos. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía de procedimiento de electromiografía y velocidad de conducción de nervios periféricos del ministerio de salud.
 
-- Se logró identificar las diferencias entre cuatro diferentes movimientos realizados en el músculo abductor corto del pulgar. Se observó que en un movimiento leve la señal varia ligeramente generando picos continuos con poca intensidad, en cambio, en un movimiento fuerte, se generan picos de mayor intensidad. Para el caso de la contra tensión en el dedo, se observó que la señal es intensa y prolongada.  Finalmente, en el caso del reposo, se observó una señal con pequeños picos que representan el ruido. 
+- Se logró identificar las diferencias entre cuatro diferentes movimientos realizados en el músculo abductor corto del pulgar. Se observó que en un movimiento leve la señal varia ligeramente generando picos continuos con poca intensidad, en cambio, en un movimiento fuerte, se generan picos de mayor intensidad. Para el caso de la contra tensión en el dedo, se observó que la señal es intensa y prolongada.  Finalmente, en el caso del reposo, se observó una señal con pequeños picos que representan ruido. 
 
-- Se logró identificar las diferencias entre dos diferentes movimientos realizados en el musculo soleo ubicado en la pantorrilla.  En el caso del reposo, se observó una señal con pequeños picos que representan el ruido. En cambio, se observó que en un movimiento la señal varia generando picos continuos.  
+- Se logró identificar las diferencias entre dos diferentes movimientos realizados en el musculo soleo ubicado en la pantorrilla.  En el caso del reposo, se observó una señal con pequeños picos que representan ruido. En cambio, se observó que en un movimiento la señal varia generando picos continuos.  
 
   
  ## Bibliografia 
