@@ -72,9 +72,9 @@
 A. Reposo
 </p>
 <p align="center">
-<video src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="25%" height="25%">
+<video src="" >
 </p>
-
+ 
 <p align="center">
 B. Movimiento leve del dedo 
 </p>
