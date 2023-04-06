@@ -10,10 +10,10 @@ Periodo: 1 ms
 Offset: 1.25 V
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/2%205%20(1).jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab2/2%205%20(1).jpeg"/>
 </p>
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/2%205%20(2).jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab2/2%205%20(2).jpeg"/>
 </p>
 
 ## SEÑAL 2
@@ -28,10 +28,10 @@ Periodo: 1 ms
 Offset: 1 V
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/2%20(1).jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab2/2%20(1).jpeg"/>
 </p>
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/2%20(2).jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab2/2%20(2).jpeg"/>
 </p>
 
 ## SEÑAL 3
@@ -46,8 +46,8 @@ Periodo: 1 ms
 Offset: 0.75 V
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/1%205%20(1).jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab2/1%205%20(1).jpeg"/>
 </p>
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/1%205%20(2).jpeg"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab2/1%205%20(2).jpeg"/>
 </p>
