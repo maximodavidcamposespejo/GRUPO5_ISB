@@ -72,27 +72,8 @@
 A. Reposo
 </p>
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REPOSO.mp4"/>
-</p>
- 
-<p align="center">
-<video src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REPOSO.mp4"/>
-</p>
-
-<p align="center">
-<video src="(https://drive.google.com/file/d/1BSuFJkZV2lnc1fBKiNy7QidA2hwZu6PQ/view?usp=share_link"/>
-</p>
-
-</p>
-<p align="center">
-[REPOSO](https://drive.google.com/file/d/1BSuFJkZV2lnc1fBKiNy7QidA2hwZu6PQ/view?usp=share_link)
-</p>
- 
-
-
 https://user-images.githubusercontent.com/128626554/230245729-0f72d192-88e1-4ff8-ac62-bfe164638f73.mp4
-
-
+</p>
 
 <p align="center">
 B. Movimiento leve del dedo 
