@@ -125,7 +125,7 @@ B. Movimiento
 
 6. Finalmente, se exporta los canales de medicion de electrodo del software OpenSignal para plotear y comparar las graficas en PYTHON 
 
-## Resultados y discusion (Rodolfo, Adrian)
+## Resultados y discusion 
 ---
 <p align="justify">
 Ploteos finales obtenidos en Python y comparacion de los datos.
@@ -148,7 +148,7 @@ Se obtuvieron los siguientes resultados:
 
 El código y datos utilizados para realizar el ploteo puede ser consultado [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab3).
 
-## Conclusiones (Mariana) 
+## Conclusiones 
 - Se evaluó mediante la electromiografía el comportamiento de dos músculos y células nerviosas en distintos movimientos. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía de procedimiento de electromiografía y velocidad de conducción de nervios periféricos del ministerio de salud.
 
 - Se logró identificar las diferencias entre cuatro movimientos realizados en el músculo abductor corto del pulgar. Se observó que en un movimiento leve la señal varia ligeramente generando picos continuos con poca intensidad, en cambio, en un movimiento más prolongado y fuerte, se generan picos de mayor intensidad. Para el caso de la contra tensión en el dedo generada por una fuerza externa, se observó que la señal presenta gran cantidad de picos intensos, continuos y prolongados. Finalmente, en el caso del reposo, se observó una señal muy cercana a 0 mV con pequeños picos que representan ruido. 
