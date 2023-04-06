@@ -113,3 +113,5 @@ Para esta medicion,
 Como las señales se han diferenciado. Bibliografia de por que son diferentes las señales y conclusion de las EMG. 
   
  ## Bibliografia 
+- Ministerio de Salud, “GUÍA DE PROCEDIMIENTO DE ELECTROMIOGRAFÍA Y VELOCIDAD DE CONDUCCIÓN DE NERVIOS PERIFÉRICOS,” Oct. 2020.
+- BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
