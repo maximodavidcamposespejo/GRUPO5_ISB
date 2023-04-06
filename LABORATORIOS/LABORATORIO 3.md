@@ -59,15 +59,15 @@
 3. Se procedera a realizar 4 tipos diferentes de actividades musculares. 
 
 <p align="center">
-3.1 Reposo
+A. Reposo
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="50%" height="50%">
 </p>
 
-3.2 Movimiento leve del dedo 
+B. Movimiento leve del dedo 
 
-3.3 Movimiento fuerte del dedo
+C. Movimiento fuerte del dedo
 
-3.4 Contratension en el dedo
+D. Contratension en el dedo 
 
 4. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals.
 
