@@ -72,15 +72,23 @@
 A. Reposo
 </p>
 <p align="center">
-https://user-images.githubusercontent.com/128626554/230245729-0f72d192-88e1-4ff8-ac62-bfe164638f73.mp4
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REPOSO%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 <p align="center">
 B. Movimiento leve del dedo 
 </p>
+  
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/LEVE%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+</p>
 
 <p align="center">
 C. Movimiento fuerte del dedo
+</p>
+
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/FUERTE%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 <p align="center"> 
