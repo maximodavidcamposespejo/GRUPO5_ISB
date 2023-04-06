@@ -59,8 +59,8 @@
 3. Se procedera a realizar 4 tipos diferentes de actividades musculares. 
 
 <p align="center">
-  3.1 Reposo
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="50%" height="50%">
+3.1 Reposo
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Materiales.jpeg"  width="50%" height="50%">
 </p>
 
 3.2 Movimiento leve del dedo 
