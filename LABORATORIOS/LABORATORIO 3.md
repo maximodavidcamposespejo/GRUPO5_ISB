@@ -127,7 +127,11 @@ B. Movimiento
 
 ## Resultados y discusion (Rodolfo, Adrian)
 ---
-<p align="justify">Ploteos finales obtenidos en Python y comparacion de los datos.</p>
+<p align="justify">
+Ploteos finales obtenidos en Python y comparacion de los datos.
+Se obtuvieron los siguientes resultados:
+
+</p>
  
 
 ## Conclusiones (Mariana) 
