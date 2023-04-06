@@ -93,11 +93,16 @@ D. Contratension en el dedo
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/REFLEJO_H_TIBIAL_POSTERIOR.png" width="50%" height="50%">
 </p>
   
-Para esta medicion, 
+Para esta medicion, se procederan a tomar 2 posociones distintas. 
 
+<p align="center">
+A. Reposo
+</p>
 
-3. Se inicializa la medicion de las señales EMG del nervio mediano en el SW OpenSignals. De este modo, obtenemos tres 
-  
+<p align="center">
+B. Movimiento
+</p>
+
 ## Resultados y discusion (Rodolfo, Adrian)
 ---
 <p align="justify">Ploteos finales obtenidos en Python y comparacion de los datos.</p>
