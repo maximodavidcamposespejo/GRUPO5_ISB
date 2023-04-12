@@ -42,9 +42,8 @@
 <p align="justify"> 
   Por esto, se puede entender que el ECG es una herramienta útil para evaluar la salud del corazón y detectar posibles problemas cardíacos. Durante la medición del ECG, se colocan electrodos en el pecho y en las extremidades del paciente. Estos electrodos detectan la actividad eléctrica del corazón y la registran en un gráfico que muestra las diferentes ondas del ECG. Asi mismo, dicha posición de los electrodos no es arbitraria, existe una técnica de medición estándar del ECG, el cual se basa en la aplicación de 12 derivaciones para cubrir toda la información del corazón en tres direcciones. Las tres primeras derivaciones son las derivaciones bipolares, que representan el plano frontal con ambos brazos (brazo derecho = RA, brazo izquierdo = LA) y pierna izquierda (LL). Las derivaciones unipolares aumentadas de las extremidades (aVR, aVL y aVF) también representan el plano frontal y las derivaciones torácicas unipolares (V1-V6) representan el plano horizontal con electrodos colocados en seis ubicaciones en el pecho. Ver imagen como referencia.
   
-<p align="center">
-  
- <![image](https://user-images.githubusercontent.com/128626925/231576157-b65f1099-55a0-4f34-a45e-e45e8764d17e.png)>
+<p align="center"> 
+ ![image](https://user-images.githubusercontent.com/128626925/231576157-b65f1099-55a0-4f34-a45e-e45e8764d17e.png)
   <p>
   
 <p align="justify">
