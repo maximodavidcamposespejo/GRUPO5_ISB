@@ -54,31 +54,31 @@
 ---
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
-1. Se conecta el cable ramal de tres electrodos de medición (Positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales EMG. El puerto de conexión se reviso en la hoja de datos del BITalino usado (PUERTO EMG).
+1. Se conecta el cable ramal de tres electrodos de medición (Positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales ECG. El puerto de conexión se reviso en la hoja de datos del BITalino usado (PUERTO ECG).
 
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/Materiales.jpeg" width="25%" height="25%">
 </p>
 
-2. Se colocan los electrodos en el paciente segun la siguiente imagen referencial, para la medición del nervio mediano de la mano. 
+2. Se colocan los electrodos en el paciente en base al manual de medicion de BITalino, para el registro de ECG. 
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/NERVIO_MEDIANO.png" width="50%" height="50%">
 </p>
 
-3. Se inicializa la medición de las señales EMG del nervio mediano en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que esta se encuentra dentro del rango de 2-500 Hz, el cual es el usado para la adquisición de bioseñales de tipo EMG. 
-
-4. Se procederá a realizar 4 tipos diferentes de actividades musculares. 
+3. Se inicializa la medición de las señales ECG en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que esta se encuentra dentro del rango de 1-100 Hz para electrodos superficiales.
+  
+4. Se procederá a realizar los siguientes pasos para el registro del ECG. 
 
 <p align="center">
-A. Reposo
+A. Reposo basal por 30 segundos.
 </p>
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REPOSO%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 <p align="center">
-B. Movimiento leve del dedo 
+B. Ciclo de 3 repeticiones de inhalacion y exhalacion, con un aguante de 5 segundos por proceso. 
 </p>
   
 <p align="center">
@@ -86,7 +86,7 @@ B. Movimiento leve del dedo
 </p>
 
 <p align="center">
-C. Movimiento fuerte del dedo
+C. Reposo basal por 30 segundos.
 </p>
 
 <p align="center">
@@ -94,35 +94,35 @@ C. Movimiento fuerte del dedo
 </p>
 
 <p align="center"> 
-D. Contratensión en el dedo 
+D. Se retira los electrodos superficiales. Se procede a realizar 20 repeticiones de burpees.
 </p>
 
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
-5. Se repite el proceso para la medición de señales EMG en el nervio tibial posterior del músculo soleo, tal y como se observa en la siguiente imagen referencial. 
+<p align="center"> 
+E. Posteriormente, se procede a grabar la señal ECG despues del ejercicio de alta exigencia.
+</p>
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REFLEJO_H_TIBIAL_POSTERIOR.png" width="50%" height="50%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
   
-Para esta medición, se procederán a tomar 2 posiciones distintas. 
-
-<p align="center">
-A. Reposo
+<p align="center"> 
+F. Luego de 3 minutos de reposo, procedemos a registrar otros 30 segundos de reposo
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REPOSO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+</p>
+
+<p align="center"> 
+G. Finalmente se procede a realizar 2 repeticiones de inhalacion y exhalacion con un aguante de 10 segundos.
 </p>
 
 <p align="center">
-B. Movimiento
-</p>
-
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/MOVIMIENTO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 6. Finalmente, se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python 
