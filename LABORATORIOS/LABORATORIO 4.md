@@ -1,7 +1,7 @@
-# Laboratorio 3
+# Laboratorio 4
 ---
 
-*Tematica del laboratorio: GUÍA N° 3 – Uso de BiTalino para EMG y ECG*
+*Tematica del laboratorio: GUÍA N° 3 – Uso de BiTalino para ECG*
 
 ## Tabla de contenidos:
 ---
