@@ -31,7 +31,7 @@
 * **José Alonso Cáceres**
 * **Julissa Venancio**
 
-## Introducción al laboratorio 
+## Introducción al laboratorio @Josue
 ---
 <p align="justify">
   Para utilizar efectivamente intrumentación biomédica relacionada a la fisiología y la biomecánica humana, es fundamental comprender el funcionamiento de las señales biológicas y su relación con el movimiento del cuerpo. Una de las señales biológicas más importantes es el potencial de acción, que es una señal eléctrica generada por las células nerviosas y musculares al momento de generarse diversos fenomenos quimicos que afectan la permeabilidad de la membrana al sodio y al potasio. En este sentido, el Electromiograma (EMG) se ha convertido en una herramienta valiosa para la medición de la actividad eléctrica muscular. En otras palabras, es una herramienta capaz de registrar los diversos cambios de potencial y evaluar la función neuromuscular de diversas unidades motoras. Este conocimiento puede ser empleado en diversas disciplinas, como la fisioterapia, la medicina deportiva y la rehabilitación. 
@@ -50,7 +50,7 @@
 | <p align="justify">**PC y participante** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://coolboxpe.vtexassets.com/arquivos/ids/226222-1200-auto" width="50%" height="50%"> |
 
 
-##  Metodología 
+##  Metodología @David y @Jhoisymar
 ---
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
@@ -127,7 +127,7 @@ B. Movimiento
 
 6. Finalmente, se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python 
 
-## Resultados y discusión 
+## Resultados y discusión @Rodolfo y @Adrian
 ---
 <p align="justify">
 Se obtuvieron los siguientes resultados:
@@ -162,7 +162,7 @@ Por su parte, en el tobillo la medición es diferente. Se ven picos de valores e
 <p align="justify">
 Nótese también que en la segunda se alcanzó también el pico de 40 Hz en la gráfica de transformadas de Fourier. Esto muestra que lograron a obtenerse señales de frecuencia similar. Y, dentro del ámbito clínico, ambas medicones son relevantes. Las mediciones realizadas al nervio medio de la mano pueden asistir para la detección o evaluación de casos de Síndrome de Tunel Carpiano en una etapa temprana. Y las del músculo sóleo para mediciones de análisis de la marcha, regulando la coordinación motora de pacientes de un modo no invasivo y seguro.
 
-## Conclusiones 
+## Conclusiones @Mariana
 - Se evaluó mediante la electromiografía el comportamiento de dos músculos y células nerviosas en distintos movimientos. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía de procedimiento de electromiografía y velocidad de conducción de nervios periféricos del ministerio de salud.
 
 - Se logró identificar las diferencias entre cuatro movimientos realizados en el músculo abductor corto del pulgar y la conducción nerviosa motora del
