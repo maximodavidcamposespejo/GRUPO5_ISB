@@ -180,8 +180,6 @@ nervio mediano. Se observó que en un movimiento leve la señal varia ligerament
   
   
  ## Bibliografía 
-- D. C. Preston y B. E. Shapiro, “Electromyography and neuromuscular disorders : clinical-electrophysiologic-ultrasound correlations-4th edition”, p. 768.
+- “BITalino (r)evolution Lab Guide”, 2020.
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
-- Mayo Clinic: (2022). Síndrome de Túnel Carpiano - Diagnóstico y Tratamiento. [Online]. Disponible en: https://www.mayoclinic.org/es-es/diseases-conditions/carpal-tunnel-syndrome/diagnosis-treatment/drc-20355608
-- Ministerio de Salud, “GUÍA DE PROCEDIMIENTO DE ELECTROMIOGRAFÍA Y VELOCIDAD DE CONDUCCIÓN DE NERVIOS PERIFÉRICOS,” Oct. 2020.
-- Pineda E. E, Sabbahi M. A, Etnyre B. R. Using Standing Postures as a Practical Alternative to Gait Analysis for Assessing Normal Neuromotor Activity Variation of the Ankle Muscle Antagonists: A Soleus H-Reflex and EMG Activity Study. Int. J. Morphol.  [Internet]. 2010  Mar;  28(1): 7-12. Disponible en: http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-95022010000100001&lng=es.
+
