@@ -34,10 +34,18 @@
 ## Introducción al laboratorio @Josue
 ---
 <p align="justify">
-  Para comprender la relación existente entre el comportamiento fisiológico del corazón y la lectura de señales biomédicas se hace uso de un instrumento biomédico conocido como  Electrocardiograma (ECG). El fundamento de utilización de este instrumento se basa en conocer primordialmente la anatomía y el mapeo de excitación y flujo de los diversos tejidos. 
+  Para comprender la relación existente entre el comportamiento fisiológico del corazón y la lectura de señales biomédicas se hace uso de un instrumento biomédico conocido como  Electrocardiograma (ECG). El fundamento de utilización de este instrumento se basa primordialmente en conocer la anatomía y el mapeo de excitación o conducción eléctrica a lo largo de los diversos tejidos del corazón.
   
 <p align="justify">
-  Dicho esto, en esta práctica de laboratorio, se tiene como objetivo explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals ,así también se espera su respectiva configuración y finalmente una correcta interpretación y utilización del módulo BiTalino como EMG para medir la actividad muscular durante la contracción voluntaria y la realización de diferentes movimientos.
+  Recordemos brevemente que la actividad eléctrica del corazón es lo que produce en sí el ECG. El sistema de conducción eléctrica del corazón está formado por varias estructuras, como el nodo sinoauricular (SA), el nodo auriculoventricular (AV), el haz de His y las fibras de Purkinje. El nodo SA es el marcapasos natural del corazón y se encarga de iniciar el latido cardíaco. A medida que la actividad eléctrica se propaga por el corazón, se produce una serie de ondas que se pueden medir a través del ECG.
+
+<p align="justify"> 
+  Por esto, se puede entender que el ECG es una herramienta útil para evaluar la salud del corazón y detectar posibles problemas cardíacos. Durante la medición del ECG, se colocan electrodos en el pecho y en las extremidades del paciente. Estos electrodos detectan la actividad eléctrica del corazón y la registran en un gráfico que muestra las diferentes ondas del ECG. Asi mismo, dicha posición de los electrodos no es arbitraria, existe una técnica de medición estándar del ECG, el cual se basa en la aplicación de 12 derivaciones para cubrir toda la información del corazón entres direcciones. Las tres primeras derivaciones son las derivaciones bipolares, que representan el plano frontal con ambos brazos (brazo derecho = RA, brazo izquierdo = LA) y pierna izquierda (LL). Las derivaciones unipolares aumentadas de las extremidades (aVR, aVL y aVF) también representan el plano frontal y las derivaciones torácicas unipolares (V1-V6) representan el plano horizontal con electrodos colocados en seis ubicaciones en el pecho. Ver imagen como referencia.
+  
+  ![image](https://user-images.githubusercontent.com/128626925/231576157-b65f1099-55a0-4f34-a45e-e45e8764d17e.png)
+  
+<p align="justify">
+  Dicho esto, en esta práctica de laboratorio, se tiene como objetivo explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals ,así también se espera su respectiva configuración y finalmente una correcta interpretación y utilización del módulo BiTalino como ECG para así obtener información valiosa sobre la salud cardíaca de un invididuo.
   
 
 ## Materiales 
