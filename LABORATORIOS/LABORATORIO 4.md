@@ -160,7 +160,7 @@ Se obtuvieron los siguientes resultados:
 </p>
 
   
-### Ploteo de la señal obtenida después del ProSim 4
+### Ploteo de la señal obtenida del ProSim 4
 
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_1.png">
