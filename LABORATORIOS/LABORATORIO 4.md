@@ -72,7 +72,7 @@
 2. Se colocan los electrodos en el paciente en base al manual de medición de BITalino, para el registro de ECG.
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/NERVIO_MEDIANO.png" width="50%" height="50%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ECG.jpeg">
 </p>
 
 3. Se inicializa la medición de las señales ECG en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que esta se encuentra dentro del rango de 1-100 Hz para electrodos superficiales.
@@ -88,10 +88,7 @@ A. Reposo basal por 30 segundos.
 
 <p align="center">
 B. Ciclo de 3 repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso. 
-</p>
-  
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/LEVE%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/Inhalacion-exhalacion.mp4
 </p>
 
 <p align="center">
