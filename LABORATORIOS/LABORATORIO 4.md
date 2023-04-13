@@ -107,7 +107,7 @@ D. Se retira los electrodos superficiales. Se procede a realizar 20 repeticiones
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/Burpee.mp4" width="25%" height="25%">
+https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/Burpee.mp4
 </p>
 
 <p align="center"> 
