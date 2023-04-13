@@ -188,13 +188,12 @@ Por su parte, en el tobillo la medición es diferente. Se ven picos de valores e
 Nótese también que en la segunda se alcanzó también el pico de 40 Hz en la gráfica de transformadas de Fourier. Esto muestra que lograron a obtenerse señales de frecuencia similar. Y, dentro del ámbito clínico, ambas medicones son relevantes. Las mediciones realizadas al nervio medio de la mano pueden asistir para la detección o evaluación de casos de Síndrome de Tunel Carpiano en una etapa temprana. Y las del músculo sóleo para mediciones de análisis de la marcha, regulando la coordinación motora de pacientes de un modo no invasivo y seguro.
 
 ## Conclusiones @Mariana
-- Se evaluó mediante la electromiografía el comportamiento de dos músculos y células nerviosas en distintos movimientos. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía de procedimiento de electromiografía y velocidad de conducción de nervios periféricos del ministerio de salud.
+- Se evaluó mediante el electrocardiograma el comportamiento del corazón cuando la persona se encuentra en reposo con una respiración normal (señal de referencia), cuando realiza una serie de respiraciones (tres respiraciones profundas manteniendo la respiración y el reposo por cinco segundos) y después de haber realizado actividad física (20 burpees). Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
+  
+-Se logró explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals, así también se logró una correcta configuración e interpretación módulo como ECG para así obtener información valiosa sobre la salud cardíaca de un invididuo.
+  
+- Se logró identificar las diferencias entre el estado de un individuo en reposo, realizando respiraciones profundas y después de realizar actividad física.  Además, se realizó una comparación de la señal obtenida mediante el dispositivo generador de signos vitales ProSim 4 de marca fluke, donde se obtuvo la señal a diferentes frecuencias. 
 
-- Se logró identificar las diferencias entre cuatro movimientos realizados en el músculo abductor corto del pulgar y la conducción nerviosa motora del
-nervio mediano. Se observó que en un movimiento leve la señal varia ligeramente generando picos continuos con poca intensidad, en cambio, en un movimiento más prolongado y fuerte, se generan picos de mayor intensidad. Para el caso de la contra tensión en el dedo generada por una fuerza externa, se observó que la señal presenta gran cantidad de picos intensos, continuos y prolongados. Finalmente, en el caso del reposo, se observó una señal muy cercana a 0 mV con pequeños picos que representan ruido. 
-  
-- Se logró identificar las diferencias entre dos diferentes movimientos realizados en el músculo síleo ubicado en la pantorrilla. En el caso del reposo, se observó una señal muy cercana a 0 mV con pequeños picos que representan ruido. En cambio, se observó que en un movimiento la señal varia generando picos continuos e intensos. Se observó que, en comparación con los picos generados por la señal del músculo abductor corto del pulgar, los obtenidos para la señal de la pantorrilla presentan una menor intensidad. 
-  
   
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
