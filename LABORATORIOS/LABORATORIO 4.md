@@ -167,11 +167,11 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 | | |
 | :---: | :---: |
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_2.png">|
-|acá comentas algo pa|acá comentas algo pa|
+|Señal normal. Puede verse como si fuera en reposo|La frecuencia se ha incrementado ligeramente|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_4.png">|
-|acá comentas algo pa|acá comentas algo pa|
+|Frecuencia mayor, similar a una etapa de ejercicio físico|La señal se va nivelando|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_5.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_6.png">|
-|acá comentas algo pa|acá comentas algo pa|
+|Señal en recuperación|Señal de vuelta a estado normal. Tras todo este ciclo, el paicente simulado está en reposo otra vez.|
 
 <p align="center"><img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_0.png"></p>
 <p align="center">acá comentas algo pa</p>
