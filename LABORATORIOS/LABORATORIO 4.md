@@ -98,31 +98,25 @@ C. Reposo basal por 30 segundos.
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif">
 </p>
 
 <p align="center"> 
 D. Se retira los electrodos superficiales. Se procede a realizar 20 repeticiones de burpees.
 </p>
 
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REPOSO%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
-</p>
 
 <p align="center"> 
 E. Posteriormente, se procede a grabar la señal ECG despues del ejercicio de alta exigencia.
 </p>
 
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
-</p>
   
 <p align="center"> 
 F. Luego de 3 minutos de reposo, procedemos a registrar otros 30 segundos de reposo.
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="25%" height="25%">
 </p>
 
 <p align="center"> 
