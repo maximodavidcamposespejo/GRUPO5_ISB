@@ -156,7 +156,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 | | |
 | :---: | :---: |
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_2.png">|
-|acá comentas algo pa|acá comentas algo pa|
+|Hay diferencias significativas. El pulso es de 124 bpm aproximadamente, tratándose de una situación de taquicardia. Las ondas son mucho más rápidas. Además, la onda T se ha hecho mayor|Habiendo pasado un tiempo de reposo, la onda es más similar a la del reposo inicial. Se puede ver que hay dos amplitudes diferentes: una en las regiones de inhalación (entre 360 y 370 segundos) y otra mayor en las de exhalación, que llega a ser el doble (en 373 segundos)|
 
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_0.png"></p>
