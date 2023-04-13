@@ -88,9 +88,11 @@ A. Reposo basal por 30 segundos.
 
 <p align="center">
 B. Ciclo de 3 repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso. 
-https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/Inhalacion-exhalacion.mp4
 </p>
-
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/respiracion.gif" width="25%" height="25%">
+</p>
+  
 <p align="center">
 C. Reposo basal por 30 segundos.
 </p>
@@ -104,7 +106,7 @@ D. Se retira los electrodos superficiales. Se procede a realizar 20 repeticiones
 </p>
 
 <p align="center">
-https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/Burpee.mp4
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REPOSO%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 <p align="center"> 
@@ -128,7 +130,7 @@ G. Finalmente se procede a realizar 2 repeticiones de inhalación y exhalación 
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/respiracion.gif" width="25%" height="25%">
 </p>
 
 6. Finalmente, se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
