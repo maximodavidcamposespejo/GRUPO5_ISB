@@ -159,11 +159,9 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 |acá comentas algo pa|acá comentas algo pa|
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_0.png">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_0.png"></p>
+<p align="center">acá comentas algo pa</p>
 
-acá comentas algo pa
-</p>
-  
 ### Ploteo de la señal obtenida del ProSim 4
 
 | | |
@@ -175,11 +173,8 @@ acá comentas algo pa
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_5.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_6.png">|
 |acá comentas algo pa|acá comentas algo pa|
 
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_0.png">
-
-acá comentas algo pa
-</p>
+<p align="center"><img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_0.png"></p>
+<p align="center">acá comentas algo pa</p>
   
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab4). 
 
