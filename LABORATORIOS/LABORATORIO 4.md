@@ -146,7 +146,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_2.png">|
 |La señal inicial muestra pulsos constantes. Se puede ver que en el complejo QRS se llega a picos de 200 mV. Asimismo, las ondas P y T son fácilmente apreciables. Se ve una amplitud mayor en esta última.|Al momento de inhalar y exhalar, la frecuencia de respiración y espiración es diferente. Sin embargo también se ve que esta tiene más ruido, particularmente durante las etapas de exhalación. Asimismo, se ve que en la etapa de exhalación la amplitud es ligeramente mayor.|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_0.png">|
-|En este nuevo reposo, el pulso cardiaco se ha recuperado rápidamente. Tiene apariencia más similar a la señal inicialmente medida.|acá comentas algo pa|
+|En este nuevo reposo, el pulso cardiaco se ha recuperado rápidamente. Tiene apariencia más similar a la señal inicialmente medida.||
 
 ### Ploteo de la señal obtenida después de la actividad física
 
@@ -171,19 +171,16 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 |Señal en recuperación|Señal de vuelta a estado normal. Tras todo este ciclo, el paicente simulado está en reposo otra vez.|
 
 <p align="center"><img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_0.png"></p>
-<p align="center">acá comentas algo pa</p>
+<p align="center"></p>
   
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab4). 
 
 <p align="justify">
-Se observan diferencias significativas en las gráficas. Respecto a las mediciones tomadas al nervio mediano en la mano, se ve que los voltajes adquiridos se incrementan con la cantidad de movimiento realizada. Caso notable es en la flexión brusca, donde se llegan a picos de 200 mV. También se puede ver un icremento de frecuencias en los periodos con mayor actividad muscular. En la primera zona de movimiento se llega a un pico de 20 Hz. En la más alta, se alcanzan 40 Hz. Sin embargo, estas se encuentran en constante oscilación de en todo momento.
+Se observan diferencias significativas en las gráficas. Puede verse el aumento de frecuencia cardiaca tras actividad física y la variación de amplitud de onda en el estado de Inhalación/Exhalación. En lo que al primer caso se refiere, esto ocurre porque el corazón bombea cantidades mayores de sangre para compensar por la demanda requerida por los músculos del cuerpo, que están más activos en esta etapa. La circulación es mayor, dando pase a una situación de taquicardia. Esto puede otmar mayor o menor tiempo, dependiendo de la frecuencia con la que la persona realiza ejercicio. En el presente caso, la persona que realizó la actividad no realiza actividad física con frecuencia. Esto derivó a que su orgnaismo entre rápidamente en este estado. Para la otra situación, la diferencia radica en el intervalo R-R entre las ondas. Durante la inspiración, este se reduce. Y durante la expiración se amplía. Eso debido a que la contracción o relajación de las paredes pulmonares influje en el flujo sanguíneo. Que a su vez influye en el bombeo cardiaco.
   
 <p align="justify">
-Por su parte, en el tobillo la medición es diferente. Se ven picos de valores entre 50 a 100 milivoltios en una frecuencia que aparenta ser periódica. La diferencia con las gráficas anteriores radica en el tipo de movimiento realizado. Aunque en ambas se realizaron movimientos de flexión, en el primer experimento fueron con un movimiento continuo. En el actual, se llegaron a marcar pausas y el profesor asistió en el control de los movimientos, lo que ayudó a la formación de este tipo de ondas. 
+Comparado con la señal generada en el dispositivo Fluke Prosim 4, se ve que estas están limpias. Es decir, que no tienen ningún ruido. En cambio, la presencia de ruido es notable en las adquiridas con BitAlino. Fuentes de este pueden deberse al movimiento involuntario propio de la persona durante la medición o al tipo de electrodos utilizados (de superficie).
   
-<p align="justify">
-Nótese también que en la segunda se alcanzó también el pico de 40 Hz en la gráfica de transformadas de Fourier. Esto muestra que lograron a obtenerse señales de frecuencia similar. Y, dentro del ámbito clínico, ambas medicones son relevantes. Las mediciones realizadas al nervio medio de la mano pueden asistir para la detección o evaluación de casos de Síndrome de Tunel Carpiano en una etapa temprana. Y las del músculo sóleo para mediciones de análisis de la marcha, regulando la coordinación motora de pacientes de un modo no invasivo y seguro.
-
 ## Conclusiones 
   
 - Se evaluó mediante el electrocardiograma el comportamiento del corazón cuando la persona se encuentra en reposo con una respiración normal (señal de referencia), cuando realiza una serie de respiraciones (tres respiraciones profundas manteniendo la respiración y el reposo por cinco segundos) y después de haber realizado actividad física (20 burpees). Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
@@ -196,4 +193,6 @@ Nótese también que en la segunda se alcanzó también el pico de 40 Hz en la g
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
+- Grunovas A, Trinkunas E, Buliuolis A, Venskaityte E, Poderys J, et al. (2016) Cardiovascular Response to Breath-Holding Explained by Changes of the Indices and their Dynamic Interactions. Biol Syst Open Access 5: 152. doi:10.4172/2329-6577.1000152
+- New England Baptist Hospital, "How Does Exercise Affect Your Heart, and What are the Benefits?". Accessed: Apr, 12, 2023. [Online]. Disponible en: https://www.nebh.org/blog/how-does-exercise-affect-your-heart-and-what-are-the-benefits/
 
