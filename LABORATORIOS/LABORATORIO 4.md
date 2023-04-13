@@ -147,7 +147,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 | | |
 | :---: | :---: |
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_2.png">|
-|La señal inicial muestra pulsos constantes. Se puede ver que en el complejo QRS se llega a picos de 200 mV. Asimismo, las ondas P y T son fácilmente apreciables. Se ve una amplitud mayor en esta última.|Al momento de inhalar y exhalar, la frecuencia de respiración y espiración es diferente. Sin embargo también se ve que esta tiene más ruido, particularmente durante las etapas de exhalación.|
+|La señal inicial muestra pulsos constantes. Se puede ver que en el complejo QRS se llega a picos de 200 mV. Asimismo, las ondas P y T son fácilmente apreciables. Se ve una amplitud mayor en esta última.|Al momento de inhalar y exhalar, la frecuencia de respiración y espiración es diferente. Sin embargo también se ve que esta tiene más ruido, particularmente durante las etapas de exhalación. Asimismo, se ve que en la etapa de exhalación la amplitud es ligeramente mayor.|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_0.png">|
 |En este nuevo reposo, el pulso cardiaco se ha recuperado rápidamente. Tiene apariencia más similar a la señal inicialmente medida.|acá comentas algo pa|
 
@@ -160,7 +160,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_0.png"></p>
-<p align="center">acá comentas algo pa</p>
+<p align="center">Las frecuencias son más variables. Puede verse picos de 6.3 Hz. Y en frecuencias mayores los valores llegan a -25 decibelios aproximadamente.</p>
 
 ### Ploteo de la señal obtenida del ProSim 4
 
