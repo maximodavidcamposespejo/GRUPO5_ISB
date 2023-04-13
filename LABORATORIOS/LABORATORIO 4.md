@@ -139,7 +139,7 @@ G. Finalmente se procede a realizar 2 repeticiones de inhalación y exhalación 
 ## Resultados y discusión @Rodolfo y @Adrian
 ---
 <p align="justify">
-Se obtuvieron los siguientes resultados:
+Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tamaño completo):
 </p>
 
 ### Ploteo de la señal obtenida antes de la actividad física
