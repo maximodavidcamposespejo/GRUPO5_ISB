@@ -136,7 +136,7 @@ G. Finalmente se procede a realizar 2 repeticiones de inhalación y exhalación 
 
 6. Finalmente, se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
 
-## Resultados y discusión @Rodolfo y @Adrian
+## Resultados y discusión
 ---
 <p align="justify">
 Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tamaño completo):
