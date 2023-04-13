@@ -104,7 +104,9 @@ C. Reposo basal por 30 segundos.
 <p align="center"> 
 D. Se retira los electrodos superficiales. Se procede a realizar 20 repeticiones de burpees.
 </p>
-
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ejercicio.gif">
+</p>
 
 <p align="center"> 
 E. Posteriormente, se procede a grabar la señal ECG despues del ejercicio de alta exigencia.
