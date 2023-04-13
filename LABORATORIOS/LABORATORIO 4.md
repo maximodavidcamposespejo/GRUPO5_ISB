@@ -31,7 +31,7 @@
 * **José Alonso Cáceres**
 * **Julissa Venancio**
 
-## Introducción al laboratorio @Josue
+## Introducción al laboratorio
 ---
 <p align="justify">
   Para comprender la relación existente entre el comportamiento fisiológico del corazón y la lectura de señales biomédicas se hace uso de un instrumento biomédico conocido como  Electrocardiograma (ECG). El fundamento de utilización de este instrumento se basa primordialmente en conocer la anatomía y el mapeo de excitación o conducción eléctrica a lo largo de los diversos tejidos del corazón.
@@ -55,6 +55,7 @@
 | --- | --- |
 | <p align="justify">**BITalino (r)evolution Board:** Es una placa descrita como un todo en uno para la adquisicion de bioseñales, tales como: EMG, ECG y EEG. Incluye un software *Ipen Source* para la visualización de las señales adquiridas </p> |<div align="center"> <img src="https://cdn.shopify.com/s/files/1/0595/1068/5887/products/BITalino-Board.1_720x.jpg?v=1646224819" width="50%" height="50%"> |
 | <p align="justify">**OpenSignals Software:** Es un software *Open Source* que trabaja con la placa BITalino para la adquisición de bioseñales.</p> |<div align="center"> <img src="https://support.pluxbiosignals.com/wp-content/uploads/2021/12/os_screens_1.jpg" width="50%" height="50%"> |
+| <p align="justify">**Fluke Prosim 4:** Es un dispositivo que permite simular signos vitales del cuerpo humano bajo parámetros regulados por el usuario.</p> |<div align="center"> <img src="https://setgad.com/wp/wp-content/uploads/2019/04/prosim4front_0.png" width="50%" height="50%"> |
 | <p align="justify">**PC y participante** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://coolboxpe.vtexassets.com/arquivos/ids/226222-1200-auto" width="50%" height="50%"> |
 
 
