@@ -64,17 +64,17 @@
 | <p align="justify">**PC y participante:** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://coolboxpe.vtexassets.com/arquivos/ids/226222-1200-auto" width="50%" height="50%"> |
 
 
-##  Metodología @David y @Jhoisymar
+##  Metodología 
 ---
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
-1. Se conecta el cable ramal de tres electrodos de medición (positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales ECG. El puerto de conexión se revisó en la hoja de datos del BITalino usado (PUERTO ECG).
+1. Se conecta el cable ramal de tres electrodos de medición (positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales EEG. El puerto de conexión se revisó en la hoja de datos del BITalino usado (PUERTO EEG).
 
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/Materiales.jpeg" width="25%" height="25%">
 </p>
 
-2. Se colocan los electrodos en el paciente en base al manual de medición de BITalino, para el registro de ECG.
+2. Se colocan los electrodos en el paciente en base al manual de medición de BITalino, para el registro de EEG. 
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ECG.jpeg">
@@ -82,24 +82,25 @@
 
 3. Se inicializa la medición de las señales ECG en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que esta se encuentra dentro del rango de 1-100 Hz para electrodos superficiales.
   
-4. Se procederá a realizar los siguientes pasos para el registro del ECG. 
+4. Se procederá a realizar los siguientes pasos para el registro del EEG. 
 
 <p align="center">
-A. Reposo basal por 30 segundos.
+A. Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,
+sin movimientos oculares/ojos cerrados) durante 30 segundos. 
 </p>
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="25%" height="25%">
 </p>
 
 <p align="center">
-B. Ciclo de 3 repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso. 
+B. Registrar un ciclo de 5 repeticiones de un ciclo de OJOS ABIERTOS y OJOS CERRADOS ,manteniendo 5 segundos por proceso. 
 </p>
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/respiracion.gif" width="25%" height="25%">
 </p>
   
 <p align="center">
-C. Reposo basal por 30 segundos.
+C. Registrar nuevamente una fase de reposo basal por 30 segundos.
 </p>
 
 <p align="center">
@@ -107,34 +108,9 @@ C. Reposo basal por 30 segundos.
 </p>
 
 <p align="center"> 
-D. Se retira los electrodos superficiales. Se procede a realizar 20 repeticiones de burpees.
-</p>
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ejercicio.gif">
-</p>
+D. Registrar enfocando la mirada en un punto específico la resolución mentalmente de una serie de ejercicios matematicos. 
 
-<p align="center"> 
-E. Posteriormente, se procede a grabar la señal ECG despues del ejercicio de alta exigencia.
-</p>
-
-  
-<p align="center"> 
-F. Luego de 3 minutos de reposo, procedemos a registrar otros 30 segundos de reposo.
-</p>
-
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="25%" height="25%">
-</p>
-
-<p align="center"> 
-G. Finalmente se procede a realizar 2 repeticiones de inhalación y exhalación con un aguante de 10 segundos.
-</p>
-
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/respiracion.gif" width="25%" height="25%">
-</p>
-
-6. Finalmente, se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
+6. Finalmente, se detiene la grabación y se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
 
 ## Resultados y discusión
 ---
@@ -186,11 +162,12 @@ Comparado con la señal generada en el dispositivo Fluke Prosim 4, se ve que est
   
 ## Conclusiones 
   
-- Se evaluó mediante el electrocardiograma el comportamiento del corazón cuando la persona se encuentra en reposo con una respiración normal (señal de referencia), cuando realiza una serie de respiraciones (tres respiraciones profundas manteniendo la respiración y el reposo por cinco segundos) y después de haber realizado actividad física (20 burpees). Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
+- Se logró explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals, así también, se logró una correcta configuración e interpretación del módulo como EEG.
   
-- Se logró explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals, así también se logró una correcta configuración e interpretación módulo como ECG para así obtener información valiosa sobre la salud cardíaca de un invididuo.
+- Se evaluó y analizó mediante el electroencefalograma el comportamiento del cerebro durante tres acciones diferente: En reposo con una respiración normal y los ojos cerrados (señal basal), durante un ciclo de movimiento ocular ( ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas
+fases durante cinco segundos), y al resolver una serie de ejericios mátematicos centrando la mirada en un punto fijo. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
   
-- Se logró identificar las diferencias entre el estado de un individuo en reposo, realizando respiraciones profundas y después de realizar actividad física.  Además, se realizó una comparación de la señal obtenida mediante el dispositivo generador de signos vitales ProSim 4 de marca fluke, donde se obtuvo la señal a diferentes frecuencias. 
+- Se logró identificar las diferencias entre 
 
   
  ## Bibliografía 
