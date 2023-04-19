@@ -68,6 +68,10 @@
 ---
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
+Medicion con el 
+
+Medicion con el BITalino: 
+  
 1. Se conecta el cable ramal de tres electrodos de medición (positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales EEG. El puerto de conexión se revisó en la hoja de datos del BITalino usado (PUERTO EEG).
 
 <p align="center">
