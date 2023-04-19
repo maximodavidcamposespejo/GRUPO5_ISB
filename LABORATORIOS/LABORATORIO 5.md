@@ -34,20 +34,24 @@
 ## Introducción al laboratorio
 ---
 <p align="justify">
-  Para comprender la relación existente entre el comportamiento fisiológico del corazón y la lectura de señales biomédicas se hace uso de un instrumento biomédico conocido como  Electrocardiograma (ECG). El fundamento de utilización de este instrumento se basa primordialmente en conocer la anatomía y el mapeo de excitación o conducción eléctrica a lo largo de los diversos tejidos del corazón.
+  En este laboratorio, nos enfocaremos en el uso del electroencefalograma (EEG) utilizando el módulo BiTalino, con el objetivo de adquirir y analizar las señales eléctricas del cerebro humano. El EEG es una herramienta fundamental que nos permite estudiar la actividad cerebral y comprender su funcionamiento en diferentes estados fisiológicos y patológicos.
   
 <p align="justify">
-  Recordemos brevemente que la actividad eléctrica del corazón es lo que produce en sí el ECG. El sistema de conducción eléctrica del corazón está formado por varias estructuras, como el nodo sinoauricular (SA), el nodo auriculoventricular (AV), el haz de His y las fibras de Purkinje. El nodo SA es el marcapasos natural del corazón y se encarga de iniciar el latido cardíaco. A medida que la actividad eléctrica se propaga por el corazón, se produce una serie de ondas que se pueden medir a través del ECG.
+  Para entender el funcionamiento del EEG, es esencial comprender la organización del cerebro humano. Este órgano está compuesto por miles de millones de neuronas que se comunican entre sí mediante impulsos eléctricos. Estos impulsos generan actividad eléctrica que puede ser registrada en la superficie del cuero cabelludo mediante electrodos estratégicamente colocados.
 
 <p align="justify"> 
-  Por esto, se puede entender que el ECG es una herramienta útil para evaluar la salud del corazón y detectar posibles problemas cardíacos. Durante la medición del ECG, se colocan electrodos en el pecho y en las extremidades del paciente. Estos electrodos detectan la actividad eléctrica del corazón y la registran en un gráfico que muestra las diferentes ondas del ECG. Asimismo, dicha posición de los electrodos no es arbitraria, existe una técnica de medición estándar del ECG, la cual se basa en la aplicación de 12 derivaciones para cubrir toda la información del corazón en tres direcciones. Las tres primeras derivaciones son las derivaciones bipolares, que representan el plano frontal con ambos brazos (brazo derecho = RA, brazo izquierdo = LA) y pierna izquierda (LL). Las derivaciones unipolares aumentadas de las extremidades (aVR, aVL y aVF) también representan el plano frontal y las derivaciones torácicas unipolares (V1-V6) representan el plano horizontal con electrodos colocados en seis ubicaciones en el pecho. Ver imagen referencial extraída de la Guía de uso de Bitalino,2020.
+ El EEG se compone de diferentes bandas de frecuencia que representan la actividad eléctrica del cerebro en distintos rangos de frecuencia. Estas bandas de frecuencia se clasifican en delta (0.5-4 Hz), theta (4-8 Hz), alpha (8-13 Hz), beta (13-30 Hz) y gamma (30-100 Hz), cada una con características y funciones específicas en el cerebro. Ver imagen referencial extraída de la Guía de Bitalino,2020.
   
-![image](https://user-images.githubusercontent.com/128626925/231576157-b65f1099-55a0-4f34-a45e-e45e8764d17e.png)
+  ![Captura de pantalla 2023-04-19 013309](https://user-images.githubusercontent.com/128626925/232986721-b0601ebc-0b42-415a-9495-2c817a89d794.png)
+
   
 <p align="justify">
-  Dicho esto, en esta práctica de laboratorio, se tiene como objetivo explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals, así también se espera su respectiva configuración y finalmente una correcta interpretación y utilización del módulo BiTalino como ECG para así obtener información valiosa sobre la salud cardíaca de un invididuo.
+  La adquisición del EEG se realiza mediante la colocación de electrodos en la superficie del cuero cabelludo, los cuales registran la actividad eléctrica del cerebro en tiempo real. La organización de los electrodos sigue la organización estandarizada del Sistema Internacional 10-20, y finalmente estos electrodos estarán conectados al módulo BiTalino, un sistema de adquisición de señales biomédicas que permite capturar, amplificar y digitalizar la señal del EEG para su posterior análisis.
   
-
+<p align="justify"> 
+  En este laboratorio, aprenderemos a utilizar el módulo BiTalino para adquirir señales EEG, así como a procesar y analizar los datos obtenidos para estudiar la actividad cerebral en diferentes condiciones experimentales mediante el uso de softwares como OpenSignals y OpenBCI. Dicho esto, se espera que a través de esta experiencia obtengamos una comprensión más profunda del funcionamiento del cerebro y de cómo las señales biomédicas pueden aplicarse en la investigación y diagnóstico de trastornos neurológicos.
+  
+  
 ## Materiales 
 ---
 
@@ -190,6 +194,7 @@ Comparado con la señal generada en el dispositivo Fluke Prosim 4, se ve que est
   
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
+-  Sazgar, Mona, and Michael G. Young. "Overview of EEG, electrode placement, and montages." Absolute Epilepsy and EEG Rotation Review. Springer, Cham, 2019. 117-125
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
 - Grunovas A, Trinkunas E, Buliuolis A, Venskaityte E, Poderys J, et al. (2016) Cardiovascular Response to Breath-Holding Explained by Changes of the Indices and their Dynamic Interactions. Biol Syst Open Access 5: 152. doi:10.4172/2329-6577.1000152
 - New England Baptist Hospital, "How Does Exercise Affect Your Heart, and What are the Benefits?". Accessed: Apr, 12, 2023. [Online]. Disponible en: https://www.nebh.org/blog/how-does-exercise-affect-your-heart-and-what-are-the-benefits/
