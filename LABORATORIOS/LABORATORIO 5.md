@@ -72,23 +72,28 @@
   
 1. Para adquirir el electroencefalograma (EEG) se coloca el ultracortex Mark IV en la cabeza del participante, el ultracortex Mark IV emplea el Sistema internacional 10–20 para el posicionamiento de los electrodos.
 
-<p align="center">
+<p>
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="25%" height="25%">
 </p>
-<p align="center">
-  __Imagen 1. Vista superior de un cabezal con colocación de electrodos según el sistema internacional 10-20.__
+
+<p>
+  *Imagen 1. Vista superior de un cabezal con colocación de electrodos según el sistema internacional 10-20.*
 </p>
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
 </p>
+ 
+<p align="center">
+  *Imagen 2. Vista lateral del ultracortex posicionado en la cabeza del participante.*
+</p>
 
 2. Se colocan los electrodos en el paciente en base al manual de medición de BITalino, para el registro de EEG. 
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ECG.jpeg">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
 </p>
-
+  
 3. Se inicializa la medición de las señales ECG en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que esta se encuentra dentro del rango de 1-100 Hz para electrodos superficiales.
   
 4. Se procederá a realizar los siguientes pasos para el registro del EEG. 
@@ -121,7 +126,8 @@ D. Registrar enfocando la mirada en un punto específico la resolución mentalme
 
 6. Finalmente, se detiene la grabación y se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
 
-#Medicion empleando BITalino: 
+**Medicion empleando BITalino:**
+  
   
 ## Resultados y discusión
 ---
