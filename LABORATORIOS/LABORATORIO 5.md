@@ -72,10 +72,14 @@ Medicion con el
 
 Medicion con el BITalino: 
   
-1. Se conecta el cable ramal de tres electrodos de medición (positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales EEG. El puerto de conexión se revisó en la hoja de datos del BITalino usado (PUERTO EEG).
+1. Para adquirir el electroencefalograma (EEG) primero se posicionan los electrodos de acuerdo al Sistema internacional 10–20, como se muestra a continuación:
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/Materiales.jpeg" width="25%" height="25%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="25%" height="25%">
+</p>
+  
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
 </p>
 
 2. Se colocan los electrodos en el paciente en base al manual de medición de BITalino, para el registro de EEG. 
