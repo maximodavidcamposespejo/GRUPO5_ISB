@@ -72,11 +72,11 @@
   
 1. Para adquirir el electroencefalograma (EEG) se coloca el ultracortex Mark IV en la cabeza del participante, el ultracortex Mark IV emplea el Sistema internacional 10–20 para el posicionamiento de los electrodos.
 
-<p>
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="25%" height="25%">
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="35%" height="35%">
 </p>
 
-<p>
+<p align="center">
   *Imagen 1. Vista superior de un cabezal con colocación de electrodos según el sistema internacional 10-20.*
 </p>
   
@@ -88,7 +88,7 @@
   *Imagen 2. Vista lateral del ultracortex posicionado en la cabeza del participante.*
 </p>
 
-2. Se colocan los electrodos en el paciente en base al manual de medición de BITalino, para el registro de EEG. 
+2.  Se procede a adquirir la señal en estado basal
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
