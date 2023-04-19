@@ -216,5 +216,6 @@ fases durante cinco segundos), y al resolver una serie de ejericios mátematicos
 - “BITalino (r)evolution Lab Guide”, 2020.
 -  Sazgar, Mona, and Michael G. Young. "Overview of EEG, electrode placement, and montages." Absolute Epilepsy and EEG Rotation Review. Springer, Cham, 2019. 117-125
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
+- OpenBCI, “The OpenBCI GUI | OpenBCI Documentation,” openbci.github.io, Jan. 02, 2023. https://docs.openbci.com/Software/OpenBCISoftware/GUIDocs/#:~:text=The%20OpenBCI%20GUI%20is%20OpenBCI (accessed Apr. 19, 2023).
 - Grunovas A, Trinkunas E, Buliuolis A, Venskaityte E, Poderys J, et al. (2016) Cardiovascular Response to Breath-Holding Explained by Changes of the Indices and their Dynamic Interactions. Biol Syst Open Access 5: 152. doi:10.4172/2329-6577.1000152
 - New England Baptist Hospital, "How Does Exercise Affect Your Heart, and What are the Benefits?". Accessed: Apr, 12, 2023. [Online]. Disponible en: https://www.nebh.org/blog/how-does-exercise-affect-your-heart-and-what-are-the-benefits/
