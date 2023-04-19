@@ -67,15 +67,16 @@
 ##  Metodología 
 ---
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
-  
-Medicion con el 
 
-Medicion con el BITalino: 
+**Medicion empleand OpenBCI GUI:**
   
-1. Para adquirir el electroencefalograma (EEG) primero se posicionan los electrodos de acuerdo al Sistema internacional 10–20, como se muestra a continuación:
+1. Para adquirir el electroencefalograma (EEG) se coloca el ultracortex Mark IV en la cabeza del participante, el ultracortex Mark IV emplea el Sistema internacional 10–20 para el posicionamiento de los electrodos.
 
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="25%" height="25%">
+</p>
+<p align="center">
+  __Imagen 1. Vista superior de un cabezal con colocación de electrodos según el sistema internacional 10-20.__
 </p>
   
 <p align="center">
@@ -120,11 +121,15 @@ D. Registrar enfocando la mirada en un punto específico la resolución mentalme
 
 6. Finalmente, se detiene la grabación y se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
 
+#Medicion empleando BITalino: 
+  
 ## Resultados y discusión
 ---
 <p align="justify">
 Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tamaño completo):
 </p>
+  
+
 
 ### Ploteo de la señal obtenida antes de la actividad física
 
