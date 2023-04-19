@@ -1,7 +1,7 @@
 # Laboratorio 5
 ---
 
-*Tematica del laboratorio: GUÍA N° 3 – Uso de BiTalino para ECG*
+*Temática del laboratorio: GUÍA N° 4 – Uso de BiTalino para EGG*
 
 ## Tabla de contenidos:
 ---
