@@ -78,19 +78,8 @@
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="35%" height="35%">
 </p>
 
-<p align="center">
-  *Imagen 1. Vista superior de un cabezal con colocación de electrodos según el sistema internacional 10-20.*
-</p>
-  
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
-</p>
- 
-<p align="center">
-  *Imagen 2. Vista lateral del ultracortex posicionado en la cabeza del participante.*
-</p>
 
-2.  Se procede a adquirir la señal en estado basal durante 30 segundos
+2.  Se procede a adquirir la señal en estado basal durante 30 segundos. Para este laboratorario en particular, debido al poco tiempo disponible con el Ultracortex y los problemas iniciales de conexion, solo se pudo registrar un tiempo corto menor a 10 segundos. En la imagen 2 se observa como queda el dispositivo de medicion EEG sobre el participante.
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
@@ -98,59 +87,46 @@
   
 **Medicion empleando BITalino:**
     
-1. Para adquirir el electroencefalograma (EEG) se coloca el ultracortex Mark IV en la cabeza del participante, el ultracortex Mark IV emplea el Sistema internacional 10–20 para el posicionamiento de los electrodos.
+1. Se procede a usar, como en laboratorios anteriores, el kit BITalino con el puerto de medicion EEG. La posicion de los electrodos se basa en la siguiente imagen referencial, extraida de la guia de uso de BITalino para mediciones EEG.
 
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="35%" height="35%">
 </p>
 
-<p align="center">
-  *Imagen 1. Vista superior de un cabezal con colocación de electrodos según el sistema internacional 10-20.*
-</p>
+2.  Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal, sin movimientos oculares/ojos cerrados) durante 30 segundos
   
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
-</p>
- 
-<p align="center">
-  *Imagen 2. Vista lateral del ultracortex posicionado en la cabeza del participante.*
-</p>
-
-2.  Se procede a adquirir la señal en estado basal durante 30 segundos
-  
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
-</p>
-  
-3. Se procederá a realizar los siguientes pasos para el registro del EEG.
-  
-<p align="center">  
-A. Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,
-sin movimientos oculares/ojos cerrados) durante 30 segundos. 
-</p>
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="25%" height="25%">
 </p>
+  
+3. Registrar un ciclo de 5 repeticiones de un ciclo de OJOS ABIERTOS y OJOS CERRADOS ,manteniendo 5 segundos por proceso. 
 
-<p align="center">
-B. Registrar un ciclo de 5 repeticiones de un ciclo de OJOS ABIERTOS y OJOS CERRADOS ,manteniendo 5 segundos por proceso. 
-</p>
 <p align="center">
 <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/respiracion.gif" width="25%" height="25%">
 </p>
   
-<p align="center">
-C. Registrar nuevamente una fase de reposo basal por 30 segundos.
-</p>
+4. Registrar nuevamente una fase de reposo basal por 30 segundos.
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="35%" height="35%">
 </p>
 
-<p align="center"> 
-D. Registrar enfocando la mirada en un punto específico la resolución mentalmente de una serie de ejercicios matematicos. 
+5. Registrar , con el participante con los ojos cerrados, una serie de 5 preguntas de razonamiento matematico y observar la variacion en las ondas. Las preguntas utilizadas se detallan a continuacion.
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="35%" height="35%">
+</p>
 
-6. Finalmente, se detiene la grabación y se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
+6. Luego de guardar las mediciones realizadas, se procedera a vendar los ojos del participante y registrar el estado basal (Con el menor ruido posible) por 1 minuto aproximadamente.
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="35%" height="35%">
+</p>
+
+7. Posterior al minuto, se procedera a encender las luces del flash del celular y pasarlo por el rostro del participante vendado. 
+<p align="center">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="35%" height="35%">
+</p>
+  
+8. Finalmente, se detiene la grabación y se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
   
 ## Resultados y discusión
 ---
@@ -158,7 +134,6 @@ D. Registrar enfocando la mirada en un punto específico la resolución mentalme
 Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tamaño completo):
 </p>
   
-
 
 ### Ploteo de la señal obtenida antes de la actividad física
 
