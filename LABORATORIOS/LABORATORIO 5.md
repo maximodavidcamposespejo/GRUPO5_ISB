@@ -42,7 +42,7 @@
 <p align="justify"> 
  El EEG se compone de diferentes bandas de frecuencia que representan la actividad eléctrica del cerebro en distintos rangos de frecuencia. Estas bandas de frecuencia se clasifican en delta (0.5-4 Hz), theta (4-8 Hz), alpha (8-13 Hz), beta (13-30 Hz) y gamma (30-100 Hz), cada una con características y funciones específicas en el cerebro. Ver Tabla referencial extraída de la Guía de Bitalino,2020.
 
-<p align="justify"> 
+
   ![Captura de pantalla 2023-04-19 013309](https://user-images.githubusercontent.com/128626925/232986721-b0601ebc-0b42-415a-9495-2c817a89d794.png)
 
   
