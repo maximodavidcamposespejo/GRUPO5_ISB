@@ -59,8 +59,9 @@
 |  **Material**  | **Imagen referencial** |
 | --- | --- |
 | <p align="justify">**BITalino (r)evolution Board:** Es una placa descrita como un todo en uno para la adquisición de bioseñales, tales como: EMG, ECG y EEG. Incluye un software *Open Source* para la visualización de las señales adquiridas </p> |<div align="center"> <img src="https://cdn.shopify.com/s/files/1/0595/1068/5887/products/BITalino-Board.1_720x.jpg?v=1646224819" width="50%" height="50%"> |
+  | <p align="justify">**Ultracortex Mark IV:** Es un auricular EEG impreso en 3D de código abierto diseñado para funcionar con cualquier placa OpenBCI. Permite adquirir hasta 16 canales de datos de EEG desde 35 hasta 10-20 ubicaciones diferentes. </p> |<div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.openbci.com%2FAddOns%2FHeadwear%2FMarkIV%2F&psig=AOvVaw2Ac8-NZ3xuFzWne7amp3qu&ust=1682012146057000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKijjda9tv4CFQAAAAAdAAAAABAD" width="50%" height="50%"> |
 | <p align="justify">**OpenSignals Software:** Es un software *Open Source* que trabaja con la placa BITalino para la adquisición de bioseñales.</p> |<div align="center"> <img src="https://support.pluxbiosignals.com/wp-content/uploads/2021/12/os_screens_1.jpg" width="50%" height="50%"> |
-| <p align="justify">**Fluke Prosim 4:** Es un dispositivo que permite simular signos vitales del cuerpo humano bajo parámetros regulados por el usuario.</p> |<div align="center"> <img src="https://setgad.com/wp/wp-content/uploads/2019/04/prosim4front_0.png" width="50%" height="50%"> |
+| <p align="justify">**OpenBCI GUI:** Es un software de OpenBCI que permite visualizar, grabar y transmitir datos desde las placas OpenBCI.</p> |<div align="center"> <img src="https://setgad.com/wp/wp-content/uploads/2019/04/prosim4front_0.png" width="50%" height="50%"> |
 | <p align="justify">**PC y participante:** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://coolboxpe.vtexassets.com/arquivos/ids/226222-1200-auto" width="50%" height="50%"> |
 
 
