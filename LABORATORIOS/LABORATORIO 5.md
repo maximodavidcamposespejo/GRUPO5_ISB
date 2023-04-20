@@ -182,11 +182,11 @@ No se pudo obtener con precisión la medición. Esto se debe a una mala colocaci
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab5). 
 
 <p align="justify">
-Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Cosniderando que la persona que se le está midienod debe estar en reposo, deben tratarse de ondas alfa, con una frecuencia de 8 a 13 Hz. 
+Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Cosniderando que la persona que se le está midienod debe estar en reposo, se sospecharía que se tratan de ondas alfa, las cuales tienen una frecuencia de 8 a 13 Hz. 
 </p>
  
 <p align="justify">
-Sin embargo, se puede decucir que las ondas medidas no son de esta clase. Esto debido a que según literatura, la onda alfa es más fácil de captar en la región occipital. Mientras que fue la onda de fue ritmo beta, común en adultos en reposo también.
+Sin embargo, se puede decucir que las ondas medidas no son de esta clase. Esto debido a que según literatura, la onda alfa es más fácil de captar en la región occipital, raramente en la frontal donde se realizó la medición. Mientras que fue la onda de fue ritmo beta, común en adultos en reposo también.
 </p>
  
 <p align="justify">
@@ -203,7 +203,7 @@ Así como la luz en el punto anterior, existen otros factores de riesgo, que tam
   -	Movimientos musculares (voluntarios o involuntarios)
   -	Hablar durante la medición
   -	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos
-	- Tocar el Bitalino
+  -     Tocar el Bitalino
   -	Estar de pie
 
 </p>
