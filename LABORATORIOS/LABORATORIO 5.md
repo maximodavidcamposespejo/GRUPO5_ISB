@@ -148,16 +148,17 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 | | |
 | :---: | :---: |
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex0.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex1.png">|
-|comentario|comentario|
+|Canal 0|Canal 1|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex2.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex3.png">|
-|comentario|comentario|
+|Canal 2|Canal 3|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex4.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex5.png">|
-|comentario|comentario|
+|Canal 4|Canal 6|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex6.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex7.png">|
-|comentario|comentario|
-
+|Canal 6|Canal 7|
+ 
 <p align="justify">
-Comentarioooooooooooooooooooooooooooooo
+No se pudo obtener con precisión la medición. Esto se debe a una mala colocación del casco en nuestro sujeto de pruebas. En la imagen puede verse que el ángulo de colocación es incorrecto. De acuerdo a la metodología utilizada, debería usarse un ángulo de 10/20 grados. En nuestro caso, el ángulo es de aproximadamente 30°. Esto implica que los electrodos se hayan posicionado incorrectamente, llevando a la mala medición mostrada. Ningún canal llega a mostrar ondas cerebrales y son netamente ruido.
+  
 </p>
 
 ### Ploteo de la señal obtenida con el Bitalino
@@ -165,33 +166,55 @@ Comentarioooooooooooooooooooooooooooooo
 | | |
 | :---: | :---: |
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino00.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino01.png">|
-|comentario|comentario|
+|Primer estado basal. Duración 30 segundos|Serie de repeticiones de cerrar los ojos 5 segundos y luego abrirlos|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino02.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino03.png">|
-|comentario|comentario|
+|Segundo estado basal. duración 30 segundos|Pregunta simple 1|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino04.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino05.png">|
-|comentario|comentario|
+|Pregunta simple 2|Pregunta simple 3|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino06.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino07.png">|
-|comentario|comentario|
+|Pregunta simple 4|Pregunta compleja 1|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino08.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino09.png">|
-|comentario|comentario|
+|Pregunta compleja 2|Pregunta compleja 3|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino10.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino11.png">|
-|comentario|comentario|
+|Cerrar los ojos vendados|Aplicar las lujces a ojos vendados|
 
 
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab5). 
 
 <p align="justify">
-Comentarioooooooooooooooooooooooooooooooooooooooo
+Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Cosniderando que la persona que se le está midienod debe estar en reposo, deben tratarse de ondas alfa, con una frecuencia de 8 a 13 Hz. 
+</p>
+ 
+<p align="justify">
+Sin embargo, se puede decucir que las ondas medidas no son de esta clase. Esto debido a que según literatura, la onda alfa es más fácil de captar en la región occipital. Mientras que fue la onda de fue ritmo beta, común en adultos en reposo también.
+</p>
+ 
+<p align="justify">
+En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión de un estínulo físico, como es la apertura y cierre de ojos. En cambio, al responder las preguntas la activdad es más irregular. No se distingue un patrón o guía de movimiento. Pero lo que sí se puede ver es que hay mayor frecuencia en las preguntas de mayor dificultad, debido a que tuvo que pensarlas más antes de poder dar una respuesta.
+</p>
+  
+<p align="justify">
+El último punto de análisis fue la cantidad de luz emitida. Al momento de aplicarle luz de la linterna al paciente, su actividad cerebral varía significativaemnte. Se ven más picos y frecuencias rápidos, pese a que no se había cambiado la indicación brindada al sujeto de pruebas. Esto sirve para mostrar la interferencia de la luz en la adquisición de un correcto estado basal.
+</p>
+  
+<p align="justify">
+Así como la luz en el punto anterior, existen otros factores de riesgo, que también pueden traer ruido a la señal adquirida
+  -	Presencia de bulla en el entorno. Podría solucionarse mediante tapones en los oídos o el uso     de ruido blanco
+  -	Movimientos musculares (voluntarios o involuntarios)
+  -	Hablar durante la medición
+  -	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos
+	- Tocar el Bitalino
+  -	Estar de pie
+
 </p>
   
 ## Conclusiones 
   
-- Se logró explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals, así también, se logró una correcta configuración e interpretación del módulo como EEG.
+- Se logró explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals, así también, se logró una correcta configuración e interpretación del módulo como EEG. Ouede verse una circulación tranquila, pero al ser distntas generacioes, variará un poco ka adquisición
   
-- Se evaluó y analizó mediante el electroencefalograma el comportamiento del cerebro durante tres acciones diferente: En reposo con una respiración normal y los ojos cerrados (señal basal), durante un ciclo de movimiento ocular ( ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas
-fases durante cinco segundos), y al resolver una serie de ejericios mátematicos centrando la mirada en un punto fijo. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
+- Se evaluó y analizó mediante el electroencefalograma el comportamiento del cerebro durante tres acciones diferente: En reposo con una respiración normal y los ojos cerrados (señal basal), durante un ciclo de movimiento ocular ( ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos), y al resolver una serie de ejericios mátematicos centrando la mirada en un punto fijo. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
   
-- Se logró identificar las diferencias entre 
+- Se logró identificar las diferencias entre hombre enamorado de btaman y aquel enfermo en las filipinas. Puede verse una onda amplia. Asimismo, el cambio notorio al hacerte preuntas. La variación que diga "Y fronto me veran" Y prodcedimos a tomarnos aquella foto.
 
   
  ## Bibliografía 
