@@ -90,7 +90,7 @@
 1. Se procede a usar, como en laboratorios anteriores, el kit BITalino con el puerto de medicion EEG. La posicion de los electrodos se basa en la siguiente imagen referencial, extraida de la guia de uso de BITalino para mediciones EEG.
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="35%" height="35%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/POSICIONAMIENTO%20ELECTRODOS%20BITALINO.jpg" width="35%" height="35%">
 </p>
 
 2.  Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal, sin movimientos oculares/ojos cerrados) durante 30 segundos
