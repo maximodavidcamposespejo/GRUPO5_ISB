@@ -157,7 +157,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 |Canal 6|Canal 7|
  
 <p align="justify">
-No se pudo obtener con precisión la medición. Esto se debe a una mala colocación del casco en nuestro sujeto de pruebas. En la imagen puede verse que el ángulo de colocación es incorrecto. De acuerdo a la metodología utilizada, debería usarse un ángulo de 10/20 grados. En nuestro caso, el ángulo es de aproximadamente 30°. Esto implica que los electrodos se hayan posicionado incorrectamente, llevando a la mala medición mostrada. Ningún canal llega a mostrar ondas cerebrales y son netamente ruido.
+No se pudo obtener con precisión la medición. Esto se debe a una mala colocación del casco en nuestro sujeto de pruebas. El ángulo de colocación es incorrecto. De acuerdo a la metodología utilizada, debería usarse un ángulo de 10/20 grados. En nuestro caso, el ángulo es de aproximadamente 30°. Esto implica que los electrodos se hayan posicionado incorrectamente, llevando a la mala medición mostrada. Ningún canal llega a mostrar ondas cerebrales y son netamente ruido.
   
 </p>
 
@@ -182,17 +182,12 @@ No se pudo obtener con precisión la medición. Esto se debe a una mala colocaci
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab5). 
 
 <p align="justify">
-Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Cosniderando que la persona que se le está midienod debe estar en reposo, se sospecharía que se tratan de ondas alfa, las cuales tienen una frecuencia de 8 a 13 Hz. 
-</p>
-  
- 
-<p align="justify">
-Sin embargo, se puede decucir que las ondas medidas no son de esta clase. Esto debido a que según literatura, la onda alfa es más fácil de captar en la región occipital, raramente en la frontal donde se realizó la medición. Mientras que fue la onda de fue ritmo beta, común en la realización de EEG a adultos en reposo también.
+Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Cosniderando que la persona que se le está midienod debe estar en reposo, se sospecharía que se tratan de ondas alfa, las cuales tienen una frecuencia de 8 a 13 Hz. Sin embargo, se puede decucir que las ondas medidas no son de esta clase. Esto debido a que según literatura, la onda alfa es más fácil de captar en la región occipital, raramente en la frontal donde se realizó la medición. Mientras que fue la onda de fue ritmo beta, común en la realización de EEG a adultos en reposo también.
 </p>
  
   
 <p align="justify">
-En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión de un estínulo físico, como es la apertura y cierre de ojos. En cambio, al responder las preguntas la activdad es más irregular. No se distingue un patrón o guía de movimiento en estas. Pero lo que sí se puede ver es que hay mayores picos en las preguntas de mayor complejidad, debido a que la persona tuvo que pensarlas más antes de poder dar una respuesta. Por ende, su lóbulo frontal (región que, entre otras cosas, se dedica al razonamiento lógico - matemático) está realizando mayor actividad.
+En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión de un estínulo físico, como es la apertura y cierre de ojos. En cambio, al responder las preguntas la activdad es más irregular. No se distingue un patrón o guía de movimiento en estas. Pero lo que sí se puede ver es que hay mayores picos en las preguntas de mayor complejidad, debido a que la persona tuvo que pensarlas más antes de poder dar una respuesta. Por ende, su lóbulo frontal (región que, entre otras cosas, se dedica al razonamiento lógico - matemático) está realizando mayor actividad. Para esta actividad trabajó en conjunto con los lóbulos parietal y temporal.
 </p>
   
   
@@ -206,7 +201,7 @@ Así como lo comentado la luz en el punto anterior, existen otros factores de ri
 -	Movimientos musculares (voluntarios o involuntarios). Estos por su propia naturaleza van a generar una bioseñal. Y como el electrodo no tiene modo de discriminarlas, pueden llegar a adquirirlas y enviarlas como si se trataran de más señales cerebrales. Gestos como sonterír o alzar una ceja ya afectarían en esto.
 -	Hablar durante la medición, por las razones ya explicadas en el punto anterior.
 -	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos. La cantidad de luz causa actividad mental en el cerebro, influyendo así en la medición
-- Tocar el Bitalino
+- Tocar el Bitalino o un dispositivo electrónico, porque genera una diferencia de voltajes.
 -	Tener al paciente de pie. Esto porque no estaría en un completo relajo, afectando a la medición
 
   
@@ -224,5 +219,4 @@ Así como lo comentado la luz en el punto anterior, existen otros factores de ri
 -  Sazgar, Mona, and Michael G. Young. "Overview of EEG, electrode placement, and montages." Absolute Epilepsy and EEG Rotation Review. Springer, Cham, 2019. 117-125
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
 - OpenBCI, “The OpenBCI GUI | OpenBCI Documentation,” openbci.github.io, Jan. 02, 2023. https://docs.openbci.com/Software/OpenBCISoftware/GUIDocs/#:~:text=The%20OpenBCI%20GUI%20is%20OpenBCI (accessed Apr. 19, 2023).
-- Grunovas A, Trinkunas E, Buliuolis A, Venskaityte E, Poderys J, et al. (2016) Cardiovascular Response to Breath-Holding Explained by Changes of the Indices and their Dynamic Interactions. Biol Syst Open Access 5: 152. doi:10.4172/2329-6577.1000152
-- New England Baptist Hospital, "How Does Exercise Affect Your Heart, and What are the Benefits?". Accessed: Apr, 12, 2023. [Online]. Disponible en: https://www.nebh.org/blog/how-does-exercise-affect-your-heart-and-what-are-the-benefits/
+- Vijayan, S., Lepage, K. Q., Kopell, N. J., & Cash, S. S. (2017). Frontal beta-theta network during REM sleep. eLife, 6, e18894. https://doi.org/10.7554/eLife.18894
