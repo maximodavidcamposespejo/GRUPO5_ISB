@@ -212,7 +212,7 @@ Así como lo comentado la luz en el punto anterior, existen otros factores de ri
   
 - Se evaluó y analizó mediante el electroencefalograma el comportamiento del cerebro durante tres acciones diferente: En reposo con una respiración normal y los ojos cerrados (señal basal), durante un ciclo de movimiento ocular ( ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos), y al resolver una serie de ejericios mátematicos centrando la mirada en un punto fijo. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
   
-- Se logró identificar las diferencias entre hombre enamorado de btaman y aquel enfermo en las filipinas. Puede verse una onda amplia. Asimismo, el cambio notorio al hacerte preuntas. La variación que diga "Y fronto me veran" Y prodcedimos a tomarnos aquella foto.
+- Se logró identificar las diferencias entre 
 
   
  ## Bibliografía 
