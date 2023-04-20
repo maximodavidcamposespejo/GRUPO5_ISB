@@ -197,16 +197,14 @@ En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión
 El último punto de análisis fue la cantidad de luz emitida. Al momento de aplicarle luz de la linterna al paciente, su actividad cerebral varía significativaemnte. Se ven más picos y frecuencias rápidos, pese a que no se había cambiado la indicación brindada al sujeto de pruebas. Esto sirve para mostrar la interferencia de la luz en la adquisición de un correcto estado basal.
 </p>
   
-<p align="justify">
-Así como la luz en el punto anterior, existen otros factores de riesgo, que también pueden traer ruido a la señal adquirida
-  -	Presencia de bulla en el entorno. Podría solucionarse mediante tapones en los oídos o el uso     de ruido blanco
-  -	Movimientos musculares (voluntarios o involuntarios)
-  -	Hablar durante la medición
-  -	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos
-  -     Tocar el Bitalino
-  -	Estar de pie
+Así como lo comentado la luz en el punto anterior, existen otros factores de riesgo, que también pueden traer ruido a la señal adquirida
+-	Presencia de bulla en el entorno. Podría solucionarse mediante tapones en los oídos o el uso     de ruido blanco
+-	Movimientos musculares (voluntarios o involuntarios)
+-	Hablar durante la medición
+-	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos
+- Tocar el Bitalino
+-	Estar de pie
 
-</p>
   
 ## Conclusiones 
   
