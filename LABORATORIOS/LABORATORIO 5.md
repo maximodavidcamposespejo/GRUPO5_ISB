@@ -187,7 +187,7 @@ Se procederán a analizar todas las gráficas presentadas. Comenzando por el est
  
   
 <p align="justify">
-En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión de un estínulo físico, como es la apertura y cierre de ojos. En cambio, al responder las preguntas la activdad es más irregular. No se distingue un patrón o guía de movimiento en estas. Pero lo que sí se puede ver es que hay mayores picos en las preguntas de mayor complejidad, debido a que la persona tuvo que pensarlas más antes de poder dar una respuesta. Por ende, su lóbulo frontal (región que, entre otras cosas, se dedica al razonamiento lógico - matemático) está realizando mayor actividad. Para esta actividad trabajó en conjunto con los lóbulos parietal y temporal.
+En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión de un estínulo físico, como es la apertura y cierre de ojos. Aquí se ve que la variación se debe a que el cerebro tiene que gastar menos energía en todo el proceso de entender y procesar toda la información que está siendo constantemente captada por el sentido de la vista. En cambio, al responder las preguntas la activdad es más irregular. No se distingue un patrón o guía de movimiento en estas. Pero lo que sí se puede ver es que hay mayores picos en las preguntas de mayor complejidad, debido a que la persona tuvo que pensarlas más antes de poder dar una respuesta. Por ende, su lóbulo frontal (región que, entre otras cosas, se dedica al razonamiento lógico - matemático) está realizando mayor actividad. Para esta actividad trabajó en conjunto con los lóbulos parietal y temporal.
 </p>
   
   
@@ -197,7 +197,7 @@ El último punto de análisis fue la cantidad de luz emitida. Al momento de apli
   
   
 Así como lo comentado la luz en el punto anterior, existen otros factores de riesgo, que también pueden traer ruido a la señal adquirida
--	Presencia de bulla en el entorno. Podría solucionarse mediante tapones en los oídos o el uso de ruido blanco, de modo que pueda enfocarse netamente en la adquisición de señal.
+-	Presencia de bulla en el entorno. Interfieren ya que el sentido del oído lo recibe y el cerebro también tiene que procesarlos. Podría solucionarse mediante tapones en los oídos o el uso de ruido blanco, de modo que pueda enfocarse netamente en la adquisición de señal.
 -	Movimientos musculares (voluntarios o involuntarios). Estos por su propia naturaleza van a generar una bioseñal. Y como el electrodo no tiene modo de discriminarlas, pueden llegar a adquirirlas y enviarlas como si se trataran de más señales cerebrales. Gestos como sonterír o alzar una ceja ya afectarían en esto.
 -	Hablar durante la medición, por las razones ya explicadas en el punto anterior.
 -	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos. La cantidad de luz causa actividad mental en el cerebro, influyendo así en la medición
@@ -220,3 +220,4 @@ Así como lo comentado la luz en el punto anterior, existen otros factores de ri
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
 - OpenBCI, “The OpenBCI GUI | OpenBCI Documentation,” openbci.github.io, Jan. 02, 2023. https://docs.openbci.com/Software/OpenBCISoftware/GUIDocs/#:~:text=The%20OpenBCI%20GUI%20is%20OpenBCI (accessed Apr. 19, 2023).
 - Vijayan, S., Lepage, K. Q., Kopell, N. J., & Cash, S. S. (2017). Frontal beta-theta network during REM sleep. eLife, 6, e18894. https://doi.org/10.7554/eLife.18894
+- Barry, R. J., Clarke, A. R., Johnstone, S. J., Magee, C. A., & Rushby, J. A. (2007). EEG differences between eyes-closed and eyes-open resting conditions. Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology, 118(12), 2765–2773. https://doi.org/10.1016/j.clinph.2007.07.028
