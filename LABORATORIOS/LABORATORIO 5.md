@@ -184,26 +184,30 @@ El código y datos utilizados para realizar el ploteo pueden ser consultados [aq
 <p align="justify">
 Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Cosniderando que la persona que se le está midienod debe estar en reposo, se sospecharía que se tratan de ondas alfa, las cuales tienen una frecuencia de 8 a 13 Hz. 
 </p>
+  
  
 <p align="justify">
-Sin embargo, se puede decucir que las ondas medidas no son de esta clase. Esto debido a que según literatura, la onda alfa es más fácil de captar en la región occipital, raramente en la frontal donde se realizó la medición. Mientras que fue la onda de fue ritmo beta, común en adultos en reposo también.
+Sin embargo, se puede decucir que las ondas medidas no son de esta clase. Esto debido a que según literatura, la onda alfa es más fácil de captar en la región occipital, raramente en la frontal donde se realizó la medición. Mientras que fue la onda de fue ritmo beta, común en la realización de EEG a adultos en reposo también.
 </p>
  
-<p align="justify">
-En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión de un estínulo físico, como es la apertura y cierre de ojos. En cambio, al responder las preguntas la activdad es más irregular. No se distingue un patrón o guía de movimiento. Pero lo que sí se puede ver es que hay mayor frecuencia en las preguntas de mayor dificultad, debido a que tuvo que pensarlas más antes de poder dar una respuesta.
-</p>
   
 <p align="justify">
-El último punto de análisis fue la cantidad de luz emitida. Al momento de aplicarle luz de la linterna al paciente, su actividad cerebral varía significativaemnte. Se ven más picos y frecuencias rápidos, pese a que no se había cambiado la indicación brindada al sujeto de pruebas. Esto sirve para mostrar la interferencia de la luz en la adquisición de un correcto estado basal.
+En las ondas donde se vio mayor amplitud fue aquellas que pedían la realizaión de un estínulo físico, como es la apertura y cierre de ojos. En cambio, al responder las preguntas la activdad es más irregular. No se distingue un patrón o guía de movimiento en estas. Pero lo que sí se puede ver es que hay mayores picos en las preguntas de mayor complejidad, debido a que la persona tuvo que pensarlas más antes de poder dar una respuesta. Por ende, su lóbulo frontal (región que, entre otras cosas, se dedica al razonamiento lógico - matemático) está realizando mayor actividad.
 </p>
+  
+  
+<p align="justify">
+El último punto de análisis fue la cantidad de luz emitida. Al momento de aplicarle luz de la linterna al paciente, su actividad cerebral varía significativaemnte. Se ven más picos y frecuencias rápidos, pese a que no se había cambiado la indicación brindada al sujeto de pruebas. Esto sirve para mostrar la interferencia de la luz en la adquisición de un correcto estado basal. Cabe resaltar que el sujeto comentaba no sentir cambio alguno al aplicarle luz a su rostro debido a la presencia de la venda. Esto señala que no es necesaria la exposición directa del paciente para que pueda haber un cambio.
+</p>
+  
   
 Así como lo comentado la luz en el punto anterior, existen otros factores de riesgo, que también pueden traer ruido a la señal adquirida
--	Presencia de bulla en el entorno. Podría solucionarse mediante tapones en los oídos o el uso     de ruido blanco
--	Movimientos musculares (voluntarios o involuntarios)
--	Hablar durante la medición
--	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos
+-	Presencia de bulla en el entorno. Podría solucionarse mediante tapones en los oídos o el uso de ruido blanco, de modo que pueda enfocarse netamente en la adquisición de señal.
+-	Movimientos musculares (voluntarios o involuntarios). Estos por su propia naturaleza van a generar una bioseñal. Y como el electrodo no tiene modo de discriminarlas, pueden llegar a adquirirlas y enviarlas como si se trataran de más señales cerebrales. Gestos como sonterír o alzar una ceja ya afectarían en esto.
+-	Hablar durante la medición, por las razones ya explicadas en el punto anterior.
+-	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos. La cantidad de luz causa actividad mental en el cerebro, influyendo así en la medición
 - Tocar el Bitalino
--	Estar de pie
+-	Tener al paciente de pie. Esto porque no estaría en un completo relajo, afectando a la medición
 
   
 ## Conclusiones 
