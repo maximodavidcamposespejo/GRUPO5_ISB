@@ -207,11 +207,15 @@ Así como lo comentado la luz en el punto anterior, existen otros factores de ri
   
 ## Conclusiones 
   
-- Se logró explorar la generación de señales biomédicas mediante la utilización del módulo BiTalino y el software OpenSignals, así también, se logró una correcta configuración e interpretación del módulo como EEG. Ouede verse una circulación tranquila, pero al ser distntas generacioes, variará un poco ka adquisición
+- Se logró explorar la adquisición de señales EEG con el módulo BiTalino y el Ultracortex Mark IV, así como a procesar y analizar los datos obtenidos para el estudio de la actividad cerebral en diferentes condiciones experimentales mediante el uso de softwares como OpenSignals y OpenBCI. 
   
-- Se evaluó y analizó mediante el electroencefalograma el comportamiento del cerebro durante tres acciones diferente: En reposo con una respiración normal y los ojos cerrados (señal basal), durante un ciclo de movimiento ocular ( ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos), y al resolver una serie de ejericios mátematicos centrando la mirada en un punto fijo. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
+- Para el caso del módulo el Ultracortex Mark IV, únicamente se registró el estado basal del participante. No se logró una correcta adquisición de señal debido al incorrecto posicionamiento de los electrodos. La señal obtenida fue netamente ruido. 
   
-- Se logró identificar las diferencias entre 
+- Para el caso del módulo BiTalino, se logró una correcta adquisición de señal. Se evaluó y analizó el comportamiento de las ondas cerebrales durante cuatro acciones diferentes: En reposo con una respiración normal y los ojos cerrados (señal basal), durante un ciclo de movimiento ocular (ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos), al resolver una serie de ejercicios matemáticos centrando la mirada en un punto fijo y al momento de aplicar luz de la linterna al paciente. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
+  
+- Se identificaron seis factores que pueden generar ruidos en la señal adquirida: Presencia de bulla en el entorno, movimientos musculares (voluntarios o involuntarios), hablar durante la medición, fuente de luz, tocar el Bitalino o un dispositivo electrónico, y finalmente, tener al paciente de pie. 
+
+- Se logró experiencia obtener una comprensión más profunda del funcionamiento del cerebro y de cómo las señales biomédicas pueden aplicarse en la investigación y diagnóstico de trastornos neurológicos.
 
   
  ## Bibliografía 
