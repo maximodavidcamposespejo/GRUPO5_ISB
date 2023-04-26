@@ -1,4 +1,4 @@
-# Laboratorio 5
+# Laboratorio 6
 ---
 
 *Temática del laboratorio: GUÍA N° 5 – Uso de BiTalino para EEG*
