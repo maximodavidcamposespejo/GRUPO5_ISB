@@ -70,8 +70,6 @@
     
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
 
-**Creación y etiquetación de data tabular de señales fisiológicas ECG **
- 
 1. En primer lugar, procedemos a realizar la importancion de la data adquirida de ECG durante el laboratorio 4.
   
 <p align="center">
