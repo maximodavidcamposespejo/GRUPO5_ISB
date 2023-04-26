@@ -34,13 +34,13 @@
 ## Introducción al laboratorio
 ---
 <p align="justify">
-  La tabulación y etiquetación de la data es esencial para la correcta interpretación y análisis de señales biomédicas. En nuestro caso en particular, la tabulación de la data adquirida por un sensor Bitalino en modo ECG nos permitirá visualizar y analizar de forma más precisa y ordenada las señales eléctricas producidas por el corazón.
+  La tabulación y etiquetación de data es esencial para la correcta interpretación y análisis de señales biomédicas. En nuestro caso en particular, la tabulación de la data adquirida por un sensor Bitalino en modo ECG nos permitirá visualizar y analizar de forma más precisa y ordenada las señales eléctricas producidas por el corazón.
   
 <p align="justify">
-  Además, se espera que al tabular y etiquetar de manera más precisa de los datos, esto facilite la aplicación de técnicas de machine learning en el futuro. Ya que esta herramienta es muy beneficiosa y efectiva para el conocimiento de patrones en el diagnostico de enfermedades cardíacas. 
+  También, se espera que al tabular y etiquetar de manera más precisa de los datos, esto facilite la aplicación de técnicas de machine learning en el futuro. Ya que esta herramienta es muy beneficiosa y efectiva para el conocimiento de patrones en el diagnostico de enfermedades cardíacas. 
 
 <p align="justify"> 
-  En resumen, este laboratorio tiene como objetivo enseñar  la importancia de la tabulación y etiquetación de la data en la investigación de señales biomédica. Para este caso, se utilizará un notebook de jupyter que contendrá la codificación necesaria para organizar y tabular nuestra daa.
+  Por eso, en este laboratorio se tiene como objetivo aprender la importancia de la tabulación y etiquetación de data extraída de sensores biomédicos para aplicarla a la investigación. Para este caso, se utilizará un notebook de jupyter que contendrá la codificación necesaria para organizar y tabular nuestra data.
   
   
 ## Materiales 
