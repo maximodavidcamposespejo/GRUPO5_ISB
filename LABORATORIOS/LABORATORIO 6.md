@@ -67,73 +67,28 @@
 
 ##  Metodología 
 ---
+    
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
 
-**Medicion empleando OpenBCI GUI:**
+**Creación y etiquetación de data tabular de señales fisiológicas ECG *
+ 
+1. En primer lugar, procedemos a realizar la importancion de la data adquirida de ECG durante el laboratorio 4.
   
-1. Para adquirir el electroencefalograma (EEG) se coloca el ultracortex Mark IV en la cabeza del participante, el ultracortex Mark IV emplea el Sistema internacional 10–20 para el posicionamiento de los electrodos.
-
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="35%" height="35%">
 </p>
-
-
-2.  Se procede a adquirir la señal en estado basal durante 30 segundos. Para este laboratorario en particular, debido al poco tiempo disponible con el Ultracortex y los problemas iniciales de conexion, solo se pudo registrar un tiempo corto menor a 10 segundos. En la imagen 2 se observa como queda el dispositivo de medicion EEG sobre el participante.
   
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
-</p>
-  
-**Medición empleando BITalino:**
-    
-1. Se procede a usar, como en laboratorios anteriores, el kit BITalino con el puerto de medicion EEG. La posicion de los electrodos se basa en la siguiente imagen referencial, extraida de la guia de uso de BITalino para mediciones EEG.
 
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/POSICIONAMIENTO%20ELECTRODOS%20BITALINO.jpg" width="35%" height="35%">
-</p>
+2. Posteriormente, procedemos a la lectura de la data y su agrupación en un arreglo único.
 
-2.  Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal, sin movimientos oculares/ojos cerrados) durante 30 segundos
-  
-<p align="center">
+3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG.
 
-https://user-images.githubusercontent.com/128626554/233225137-070fa709-75ec-4dae-ab64-bc1c70f650ae.mp4
-  
-</p>
-  
-3. Registrar un ciclo de 5 repeticiones de un ciclo de OJOS ABIERTOS y OJOS CERRADOS ,manteniendo 5 segundos por proceso. 
+4. Se procede a graficar la señal, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
 
-<p align="center">
-  
-https://user-images.githubusercontent.com/128626554/233225219-953b87f2-aaae-43d0-a441-a742b79bd3a7.mp4
-  
-</p>
-  
-4. Registrar nuevamente una fase de reposo basal por 30 segundos.
+5. Definimos una serie de etiquetas para la posterior tabulación.
 
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/4%20basal.jpg" width="35%" height="35%">
-</p>
+6. Finalmente, procedemos a crear la data tabulada y etiquetada en estilo Sklearn.
 
-5. Registrar , con el participante con los ojos cerrados, una serie de 5 preguntas de razonamiento matematico y observar la variacion en las ondas. Las preguntas utilizadas se detallan a continuacion.
-<p align="center">
-
-https://user-images.githubusercontent.com/128626554/233225332-006500b2-e174-4aa4-b6cb-ac6ea6498049.mp4  
-  
-</p>
-
-6. Luego de guardar las mediciones realizadas, se procedera a vendar los ojos del participante y registrar el estado basal (Con el menor ruido posible) por 1 minuto aproximadamente.
-<p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/6%20VENDAR%20OJOS.jpg" width="35%" height="35%">
-</p>
-
-7. Posterior al minuto, se procedera a encender las luces del flash del celular y pasarlo por el rostro del participante vendado. 
-<p align="center">
-
-https://user-images.githubusercontent.com/128626554/233225375-18bc765d-6453-43f6-a708-94a316eec952.mp4
-  
-</p>
-  
-8. Finalmente, se detiene la grabación y se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
   
 ## Resultados y discusión
 ---
