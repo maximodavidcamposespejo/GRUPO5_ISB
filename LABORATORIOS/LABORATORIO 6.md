@@ -81,7 +81,7 @@
 
 3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG.
 
-4. Se procede a graficar la señal, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
+4. Luego, se procede a graficar la señal en funcion del tiempo, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
 
 5. Definimos una serie de etiquetas para la posterior tabulación.
 
