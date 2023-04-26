@@ -218,9 +218,9 @@ Así como lo comentado la luz en el punto anterior, existen otros factores de ri
 
   
  ## Bibliografía 
-- “BITalino (r)evolution Lab Guide”, 2020.
--  Sazgar, Mona, and Michael G. Young. "Overview of EEG, electrode placement, and montages." Absolute Epilepsy and EEG Rotation Review. Springer, Cham, 2019. 117-125
-- BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
-- OpenBCI, “The OpenBCI GUI | OpenBCI Documentation,” openbci.github.io, Jan. 02, 2023. https://docs.openbci.com/Software/OpenBCISoftware/GUIDocs/#:~:text=The%20OpenBCI%20GUI%20is%20OpenBCI (accessed Apr. 19, 2023).
-- Vijayan, S., Lepage, K. Q., Kopell, N. J., & Cash, S. S. (2017). Frontal beta-theta network during REM sleep. eLife, 6, e18894. https://doi.org/10.7554/eLife.18894
-- Barry, R. J., Clarke, A. R., Johnstone, S. J., Magee, C. A., & Rushby, J. A. (2007). EEG differences between eyes-closed and eyes-open resting conditions. Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology, 118(12), 2765–2773. https://doi.org/10.1016/j.clinph.2007.07.028
+[1] “BITalino (r)evolution Lab Guide”, 2020.
+[2] Sazgar, Mona, and Michael G. Young. "Overview of EEG, electrode placement, and montages." Absolute Epilepsy and EEG Rotation Review. Springer, Cham, 2019. 117-125
+[3] BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
+[4]“Jupyter Notebook: documentos web para análisis de datos, código en vivo y mucho más,” IONOS Digitalguide, Sep. 11, 2018. https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/jupyter-notebook/
+[5] Vijayan, S., Lepage, K. Q., Kopell, N. J., & Cash, S. S. (2017). Frontal beta-theta network during REM sleep. eLife, 6, e18894. https://doi.org/10.7554/eLife.18894
+[6] Barry, R. J., Clarke, A. R., Johnstone, S. J., Magee, C. A., & Rushby, J. A. (2007). EEG differences between eyes-closed and eyes-open resting conditions. Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology, 118(12), 2765–2773. https://doi.org/10.1016/j.clinph.2007.07.028
