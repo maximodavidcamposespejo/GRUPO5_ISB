@@ -157,12 +157,6 @@ El código y datos utilizados para realizar el ploteo pueden ser consultados [aq
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
 
-- Sazgar, Mona, and Michael G. Young. "Overview of EEG, electrode placement, and montages." Absolute Epilepsy and EEG Rotation Review. Springer, Cham, 2019. 117-125
-
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
 
 - “Jupyter Notebook: documentos web para análisis de datos, código en vivo y mucho más,” IONOS Digitalguide, Sep. 11, 2018. https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/jupyter-notebook/
-
-- Vijayan, S., Lepage, K. Q., Kopell, N. J., & Cash, S. S. (2017). Frontal beta-theta network during REM sleep. eLife, 6, e18894. https://doi.org/10.7554/eLife.18894
-
-- Barry, R. J., Clarke, A. R., Johnstone, S. J., Magee, C. A., & Rushby, J. A. (2007). EEG differences between eyes-closed and eyes-open resting conditions. Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology, 118(12), 2765–2773. https://doi.org/10.1016/j.clinph.2007.07.028
