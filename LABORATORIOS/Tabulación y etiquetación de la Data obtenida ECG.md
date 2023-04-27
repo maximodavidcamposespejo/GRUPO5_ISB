@@ -63,20 +63,20 @@
 1. En primer lugar, procedemos a realizar la importancion de la data adquirida de ECG durante el laboratorio 4.
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/LAB%206/Importacion%20de%20data%20y%20librerias.png" width="100%" height="100%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Importacion%20de%20data%20y%20librerias.png" width="100%" height="100%">
 </p>
   
 
 2. Posteriormente, procedemos a la lectura de la data y su agrupación en un arreglo único.
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/LAB%206/Lectura%20y%20agrupacion.png" width="85%" height="85%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Lectura%20y%20agrupacion.png" width="85%" height="85%">
 </p>  
 
 3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG.
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/LAB%206/PLOTEO%20DE%20DATOS.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/PLOTEO%20DE%20DATOS.png" width="80%" height="80%">
 </p>
 
 4. Luego, se procede a graficar la señal en funcion del tiempo, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
