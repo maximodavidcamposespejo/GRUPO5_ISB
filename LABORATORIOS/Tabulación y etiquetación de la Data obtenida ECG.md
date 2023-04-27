@@ -85,14 +85,6 @@
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Frecuencia%20tiempo.png" width="80%" height="80%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Plots.png" width="80%" height="80%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/plots2.png" width="80%" height="80%">
-</p>
-
 5. Definimos una serie de etiquetas para la posterior tabulación.
 
 <p align="center">
@@ -102,7 +94,7 @@
 6. Finalmente, procedemos a crear la data tabulada y etiquetada en estilo Sklearn.
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Resultado%20final.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/concatenando.png" width="80%" height="80%">
 </p>
   
 ## Resultados y discusión
@@ -110,82 +102,52 @@
 <p align="justify">
 Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tamaño completo):
 </p>
-  
 
-### Ploteo de la señal obtenida con el Ultracortex Mark IV
+### Ploteo de todos los registros obtenidos con el ECG
 
-| | |
-| :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex0.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex1.png">|
-|Canal 0|Canal 1|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex2.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex3.png">|
-|Canal 2|Canal 3|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex4.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex5.png">|
-|Canal 4|Canal 6|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex6.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex7.png">|
-|Canal 6|Canal 7|
- 
-<p align="justify">
-No se pudo obtener con precisión la medición. Esto se debe a una mala colocación del casco en nuestro sujeto de pruebas. El ángulo de colocación es incorrecto. De acuerdo a la metodología utilizada, debería usarse un ángulo de 10/20 grados. En nuestro caso, el ángulo es de aproximadamente 30°. Esto implica que los electrodos se hayan posicionado incorrectamente, llevando a la mala medición mostrada. Ningún canal llega a mostrar ondas cerebrales y son netamente ruido.
-  
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Plots.png" width="80%" height="80%">
 </p>
 
-### Ploteo de la señal obtenida con el Bitalino
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/plots2.png" width="80%" height="80%">
+</p>
 
-| | |
-| :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino00.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino01.png">|
-|Primer estado basal. Duración 30 segundos|Serie de repeticiones de cerrar los ojos 5 segundos y luego abrirlos|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino02.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino03.png">|
-|Segundo estado basal. duración 30 segundos|Pregunta simple 1|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino04.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino05.png">|
-|Pregunta simple 2|Pregunta simple 3|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino06.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino07.png">|
-|Pregunta simple 4|Pregunta compleja 1|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino08.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino09.png">|
-|Pregunta compleja 2|Pregunta compleja 3|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino10.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino11.png">|
-|Cerrar los ojos vendados|Aplicar las lujces a ojos vendados|
+### Tabla construida con los datos clasificados
 
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Resultado%20final.png" width="80%" height="80%">
+</p>
+
+<p align="justify">
+Para realizar esta clasificación se guió de la siguiente tabla, definida por el grupo a partir de los cinco timpos de señales adquiridas. Estos tipos y lo que representan se explican a continuación:
+
+|**Descripción**|**Categoría**|
+| ------------- | ------------- |
+| Basal 1 | 0 |
+| Post-ejercicio| 1 |
+| Basal 2 | 2 |
+| Reposo 1 | 3 |
+| Reposo 2 | 4 |
+
+ 
+<p align="justify">
+- **Basal 1**: Primera medición realzada, cuando el sujeto de pruebas está en reposo.
+- **Post-ejercicio**: Ciclo de repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso.
+- **Basal 2**: Segunda medición en reposo basal.
+- **Reposo 1**: Medición del reposo inmediatamente después del ejercicio de alta exigencia.
+- **Reposo 2**: Medición del reposo 3 mintos después del ejercicio de alta exigencia.
+
+<p align="justify">
+Se puede ver que toda la data ha sido clasificada con éxito. Nótese que los grupos 3 y 4 tienen mayor cantidad de elementos que los otros. esto se debe a que estos dos fueron tomadas en una etapa en la que el corazón se estaba recuperando del ejercicio, razón por la que había una frecuencia cardiaca notablemente mayor.</p>
+ 
 
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab6). 
-
-<p align="justify">
-Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Considerando que la persona que se le está midiendo debe estar en reposo, se sospecharía que se tratan de ondas alfa, las cuales tienen una frecuencia de 8 a 13 Hz. Sin embargo, se puede deducir que las ondas medidas no son de esta clase. Esto debido a que, según literatura, la onda alfa es más fácil de captar en la región occipital, raramente en la frontal donde se realizó la medición. Mientras que fue la onda de fue ritmo beta, común en la realización de EEG a adultos en reposo también.
-</p>
- 
-  
-<p align="justify">
-En las ondas donde se vio mayor amplitud fue aquellas que pedían la realización de un estímulo físico, como es la apertura y cierre de ojos. Aquí se ve que la variación se debe a que el cerebro tiene que gastar menos energía en todo el proceso de entender y procesar toda la información que está siendo constantemente captada por el sentido de la vista. En cambio, al responder las preguntas la actividad es más irregular. No se distingue un patrón o guía de movimiento en estas. Pero lo que sí se puede ver es que hay mayores picos en las preguntas de mayor complejidad, debido a que la persona tuvo que pensarlas más antes de poder dar una respuesta. Por ende, su lóbulo frontal (región que, entre otras cosas, se dedica al razonamiento lógico - matemático) está realizando mayor actividad. Para esta actividad trabajó en conjunto con los lóbulos parietal y temporal.
-  
-  
-<p align="justify">
-El último punto de análisis fue la cantidad de luz emitida. Al momento de aplicarle luz de la linterna al paciente, su actividad cerebral varía significativamente. Se ven más picos y frecuencias rápidos, pese a que no se había cambiado la indicación brindada al sujeto de pruebas. Esto sirve para mostrar la interferencia de la luz en la adquisición de un correcto estado basal. Cabe resaltar que el sujeto comentaba no sentir cambio alguno al aplicarle luz a su rostro debido a la presencia de la venda. Esto señala que no es necesaria la exposición directa del paciente para que pueda haber un cambio.
-</p>
-  
-  
-Así como lo comentado la luz en el punto anterior, existen otros factores de riesgo, que también pueden traer ruido a la señal adquirida
--	Presencia de bulla en el entorno. Interfieren ya que el sentido del oído lo recibe y el cerebro también tiene que procesarlos. Podría solucionarse mediante tapones en los oídos o el uso de ruido blanco, de modo que pueda enfocarse netamente en la adquisición de señal.
--	Movimientos musculares (voluntarios o involuntarios). Estos por su propia naturaleza van a generar una bioseñal. Y como el electrodo no tiene modo de discriminarlas, pueden llegar a adquirirlas y enviarlas como si se trataran de más señales cerebrales. Gestos como sonreír o alzar una ceja ya afectarían en esto.
--	Hablar durante la medición, por las razones 
--	Hablar durante la medición, por las razones ya explicadas en el punto anterior.
--	Fuente de luz muy cercana al sujeto de pruebas, específicamente a sus ojos. La cantidad de luz causa actividad mental en el cerebro, influyendo así en la medición
-- Tocar el Bitalino o un dispositivo electrónico, porque genera una diferencia de voltajes.
--	Tener al paciente de pie. Esto porque no estaría en un completo relajo, afectando a la medición
 
   
 ## Conclusiones 
   
-- Se logró explorar la adquisición de señales EEG con el módulo BiTalino y el Ultracortex Mark IV, así como a procesar y analizar los datos obtenidos para el estudio de la actividad cerebral en diferentes condiciones experimentales mediante el uso de softwares como OpenSignals y OpenBCI. 
-  
-- Para el caso del módulo el Ultracortex Mark IV, únicamente se registró el estado basal del participante. No se logró una correcta adquisición de señal debido al incorrecto posicionamiento de los electrodos. La señal obtenida fue netamente ruido. 
-  
-- Para el caso del módulo BiTalino, se logró una correcta adquisición de señal. Se evaluó y analizó el comportamiento de las ondas cerebrales durante cuatro acciones diferentes: En reposo con una respiración normal y los ojos cerrados (señal basal), durante un ciclo de movimiento ocular (ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambas fases durante cinco segundos), al resolver una serie de ejercicios matemáticos centrando la mirada en un punto fijo y al momento de aplicar luz de la linterna al paciente. Para realizar este procedimiento empleamos el software OpenSignals, la placa BITalino y la guía práctica “BITalino (r)evolution Lab Guide”.
-  
-- Se identificaron seis factores que pueden generar ruidos en la señal adquirida: Presencia de bulla en el entorno, movimientos musculares (voluntarios o involuntarios), hablar durante la medición, fuente de luz, tocar el Bitalino o un dispositivo electrónico, y finalmente, tener al paciente de pie. 
-
-- Se logró experiencia obtener una comprensión más profunda del funcionamiento del cerebro y de cómo las señales biomédicas pueden aplicarse en la investigación y diagnóstico de trastornos neurológicos.
-
+- 
   
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
