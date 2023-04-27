@@ -120,7 +120,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 </p>
 
 <p align="justify">
-Para realizar esta clasificación se guió de la siguiente tabla, definida por el grupo a partir de los cinco timpos de señales adquiridas. Estos tipos y lo que representan se explican a continuación:
+Para realizar esta clasificación se guió de la siguiente tabla, definida por el grupo a partir de los cinco tipos de señales adquiridas. Estos tipos y lo que representan se explican a continuación:
 
 |**Descripción**|**Categoría**|
 | ------------- | ------------- |
@@ -147,7 +147,12 @@ El código y datos utilizados para realizar el ploteo pueden ser consultados [aq
   
 ## Conclusiones 
   
-- 
+- Se logró la visualización, clasificación y análisis de un ECG empleando la tabulación y etiquetación de datos a través del notebook jupyter. 
+  
+- Se identificó y comprendió el proceso tabulación y etiquetación de datos como parte del proceso de tratamiento de señales biomédicas.
+  
+- Se logró obtener resultados correctamente clasificados en los diferentes tipos de señal adquiridas (basal, post-ejercicio, basal2, reposo 1 y resposo2) lo que facilita la implementación de técnicas de machine learning en el futuro. 
+
   
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
