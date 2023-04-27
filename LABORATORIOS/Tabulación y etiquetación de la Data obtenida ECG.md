@@ -79,7 +79,7 @@
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Primer%20plot.png" width="80%" height="80%">
 </p>
 
-4. Luego, se procede a graficar la señal en funcion del tiempo, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
+4. Luego, se procede a obtener la señal en funcion del tiempo, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
 
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Frecuencia%20tiempo.png" width="80%" height="80%">
