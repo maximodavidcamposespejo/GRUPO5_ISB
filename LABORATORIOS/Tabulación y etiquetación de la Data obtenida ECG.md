@@ -67,13 +67,13 @@
 </p>
   
 
-2. Posteriormente, procedemos a la lectura de la data y su agrupación en un arreglo único.
+2. Posteriormente, procedemos a la lectura de la data y su agrupación en un arreglo único. Ademas, segmentamos la data en grupos dependiendo de la categoria a la que pertenezca
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Lectura%20y%20agrupacion%20de%20datos.png" width="85%" height="85%">
 </p>  
 
-3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG.
+3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG. Se observa un ejemplo correspondiente al estado basal inicial durante los ejercicios realizados en el laboratorio 4
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Primer%20plot.png" width="80%" height="80%">
