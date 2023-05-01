@@ -11,20 +11,10 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 ## Tabla de contenidos:
 ---
 
-- [¿Qué es una bioseñal?](#¿Qué-es-una-bioseñal?)
 - [Materiales](#Materiales)
 - [Metodología](#Metodología)
 - [Temática del proyecto](#Temática-del-proyecto)
-- [Contenido del curso](#Contenido-del-curso)
 - [Participantes](#Participantes)
-- [Docentes del curso](#Docentes-del-curso)
-
-## ¿Qué es una bioseñal?
----
-<p align="justify">Una bioseñal es una señal biológica que puede ser medida y controlada continuamente. Esta señal refleja la naturaleza y actividad de cada proceso biológico generado por los diversos subsistemas del cuerpo humano.</p>
-
-<p align="justify">Una bioseñal puede ser tanto eléctrica, mecánica o bioquímica. Las señales bioeléctricas son obtenidas mediante electrodos que captan el potencial elétrico en procesos biológicos. Al observar, captar y analizar las bioseñales se pueden detectar diversas enfermedades y transtornos.</p>
-
 
 
 ## Materiales 
@@ -56,16 +46,8 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/d3a546e23cd328f53a5a5ad6d0fe076f41d6532f/VIDEO.gif"/>
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%201%20-%20Sobre%20Nosotros/Im%C3%A1genes/ecg.gif"/>
 </p>
-
-
-## Contenido del curso
----
-* **UNIDAD 1:** Introducción, adquisición y principios fisiológicos de las señales biomédicas.
-* **UNIDAD 2:** Análisis de ECG, EMG y EEG.
-* **UNIDAD 3:** Introducción al tratamiento digital de señales.
-* **UNIDAD 4:** Informática biomédica e introducción a la inteligencia artificial en señales biomédicas.
 
 ## Participantes
 ---
@@ -75,10 +57,3 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 * **Josue Daniel Lachira Arellano** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
 * **Mariana Leon Prado Martínez** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
 * **Jhoisymar Eliana Ttito Herrera** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
-
-## Docentes del curso
----
-* **Lewis De La Cruz**
-* **Moisés Meza**
-* **José Alonso Cáceres**
-* **Julissa Venancio**
