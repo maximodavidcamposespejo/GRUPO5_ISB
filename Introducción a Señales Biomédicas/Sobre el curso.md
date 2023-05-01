@@ -19,16 +19,16 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 ## Contenido del curso
 ---
 * **UNIDAD 1:** Introducción, adquisición y principios fisiológicos de las señales biomédicas.
-<p align="justify">Se verá los procesos en el cuerpo humano que llevan a la producción de bioseñales. Incluye conceptos como potencial de acción y de membrana, todo dentro del entorno celular.</p>
+  <p align="justify">Se verá los procesos en el cuerpo humano que llevan a la producción de bioseñales. Incluye conceptos como potencial de acción y de membrana, todo dentro del entorno celular.</p>
 
 * **UNIDAD 2:** Análisis de ECG, EMG y EEG.
-<p align="justify">Se ven las tres señales de interés en el curso: Electrocardiograma (ECG), electromiograma (EMG) y electroencefalograma(ECG). Se analizará cómo se oriiginan y adquieren estas, las características de sus ondas y aplicaciones de estas en el ámbito médico.</p>
+  <p align="justify">Se ven las tres señales de interés en el curso: Electrocardiograma (ECG), electromiograma (EMG) y electroencefalograma(ECG). Se analizará cómo se oriiginan y adquieren estas, las características de sus ondas y aplicaciones de estas en el ámbito médico.</p>
 
 * **UNIDAD 3:** Introducción al tratamiento digital de señales.
-<p align="justify">Se analiza el tratamiento digital de señales. Los principios mátemáticos para su procesamiento (transformadas de Fourier, Zeta, Bilineal), distintos tipos de filtros y tratamientos específicos para los tres tipos de bioseñales de interés.</p>
+  <p align="justify">Se analiza el tratamiento digital de señales. Los principios mátemáticos para su procesamiento (transformadas de Fourier, Zeta, Bilineal), distintos tipos de filtros y tratamientos específicos para los tres tipos de bioseñales de interés.</p>
 
 * **UNIDAD 4:** Informática biomédica e introducción a la inteligencia artificial en señales biomédicas.
-<p align="justify">Se verán técnicas de inteligencia artificial, cloud computing y cómo estas pueden ser utilizadas dentro del campo de la bioinformática y el procesamiento de señales.</p>
+  <p align="justify">Se verán técnicas de inteligencia artificial, cloud computing y cómo estas pueden ser utilizadas dentro del campo de la bioinformática y el procesamiento de señales.</p>
 
 ## Docentes del curso
 ---
