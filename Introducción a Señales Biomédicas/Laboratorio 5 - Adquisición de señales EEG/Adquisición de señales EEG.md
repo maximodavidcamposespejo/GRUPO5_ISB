@@ -147,7 +147,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex0.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/bob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex1.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex0.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex1.png">|
 |Canal 0|Canal 1|
 |<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex2.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex3.png">|
 |Canal 2|Canal 3|
