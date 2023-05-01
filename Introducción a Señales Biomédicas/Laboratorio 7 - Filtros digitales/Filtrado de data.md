@@ -1,4 +1,4 @@
-# Laboratorio 6
+# Laboratorio 7
 ---
 
 *Temática del laboratorio: GUÍA N° 6 – Creación de data tabular a partir de las señales fisiológicas previamente adquiridas*
