@@ -8,6 +8,7 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 
 - [¿Qué es una bioseñal?](#¿Qué-es-una-bioseñal?)
 - [Contenido del curso](#Contenido-del-curso)
+- [Docentes del curso](#Docentes-del-curso)
 
 ## ¿Qué es una bioseñal?
 ---
@@ -28,3 +29,10 @@ Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Bio
 
 * **UNIDAD 4:** Informática biomédica e introducción a la inteligencia artificial en señales biomédicas.
 <p align="justify">Se verán técnicas de inteligencia artificial, cloud computing y cómo estas pueden ser utilizadas dentro del campo de la bioinformática y el procesamiento de señales.</p>
+
+## Docentes del curso
+---
+* **Lewis De La Cruz**
+* **Moisés Meza**
+* **José Alonso Cáceres**
+* **Julissa Venancio**
