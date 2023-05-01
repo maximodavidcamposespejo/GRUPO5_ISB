@@ -75,14 +75,14 @@
 1. Para adquirir el electroencefalograma (EEG) se coloca el ultracortex Mark IV en la cabeza del participante, el ultracortex Mark IV emplea el Sistema internacional 10–20 para el posicionamiento de los electrodos.
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Sistema%2010-20.png" width="35%" height="35%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/Sistema%2010-20.png" width="35%" height="35%">
 </p>
 
 
 2.  Se procede a adquirir la señal en estado basal durante 30 segundos. Para este laboratorario en particular, debido al poco tiempo disponible con el Ultracortex y los problemas iniciales de conexion, solo se pudo registrar un tiempo corto menor a 10 segundos. En la imagen 2 se observa como queda el dispositivo de medicion EEG sobre el participante.
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/Posicion%20electrodos.jpeg" width="25%" height="25%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/Posicion%20electrodos.jpeg" width="25%" height="25%">
 </p>
   
 **Medición empleando BITalino:**
@@ -90,7 +90,7 @@
 1. Se procede a usar, como en laboratorios anteriores, el kit BITalino con el puerto de medicion EEG. La posicion de los electrodos se basa en la siguiente imagen referencial, extraida de la guia de uso de BITalino para mediciones EEG.
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/POSICIONAMIENTO%20ELECTRODOS%20BITALINO.jpg" width="35%" height="35%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/POSICIONAMIENTO%20ELECTRODOS%20BITALINO.jpg" width="35%" height="35%">
 </p>
 
 2.  Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal, sin movimientos oculares/ojos cerrados) durante 30 segundos
@@ -112,7 +112,7 @@ https://user-images.githubusercontent.com/128626554/233225219-953b87f2-aaae-43d0
 4. Registrar nuevamente una fase de reposo basal por 30 segundos.
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/4%20basal.jpg" width="35%" height="35%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/4%20basal.jpg" width="35%" height="35%">
 </p>
 
 5. Registrar , con el participante con los ojos cerrados, una serie de 5 preguntas de razonamiento matematico y observar la variacion en las ondas. Las preguntas utilizadas se detallan a continuacion.
@@ -124,7 +124,7 @@ https://user-images.githubusercontent.com/128626554/233225332-006500b2-e174-4aa4
 
 6. Luego de guardar las mediciones realizadas, se procedera a vendar los ojos del participante y registrar el estado basal (Con el menor ruido posible) por 1 minuto aproximadamente.
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/6%20VENDAR%20OJOS.jpg" width="35%" height="35%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/6%20VENDAR%20OJOS.jpg" width="35%" height="35%">
 </p>
 
 7. Posterior al minuto, se procedera a encender las luces del flash del celular y pasarlo por el rostro del participante vendado. 
@@ -147,13 +147,13 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex0.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex1.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex0.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/bob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex1.png">|
 |Canal 0|Canal 1|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex2.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex3.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex2.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex3.png">|
 |Canal 2|Canal 3|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex4.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex5.png">|
-|Canal 4|Canal 6|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex6.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/ultracortex7.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex4.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex5.png">|
+|Canal 4|Canal 5|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex6.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/ultracortex7.png">|
 |Canal 6|Canal 7|
  
 <p align="justify">
@@ -165,21 +165,21 @@ No se pudo obtener con precisión la medición. Esto se debe a una mala colocaci
 
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino00.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino01.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino00.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino01.png">|
 |Primer estado basal. Duración 30 segundos|Serie de repeticiones de cerrar los ojos 5 segundos y luego abrirlos|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino02.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino03.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino02.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino03.png">|
 |Segundo estado basal. duración 30 segundos|Pregunta simple 1|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino04.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino05.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino04.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino05.png">|
 |Pregunta simple 2|Pregunta simple 3|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino06.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino07.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino06.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino07.png">|
 |Pregunta simple 4|Pregunta compleja 1|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino08.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino09.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino08.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino09.png">|
 |Pregunta compleja 2|Pregunta compleja 3|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino10.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab5/bitalino11.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino10.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Im%C3%A1genes/bitalino11.png">|
 |Cerrar los ojos vendados|Aplicar las lujces a ojos vendados|
 
 
-El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab5). 
+Los [códigos](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/C%C3%B3digo) y [datos utilizados para realizar el ploteo](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%205%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EEG/Data) pueden ser consultados aquí. 
 
 <p align="justify">
 Se procederán a analizar todas las gráficas presentadas. Comenzando por el estado basal, se ven ondas de muy baja frecuencia. Considerando que la persona que se le está midiendo debe estar en reposo, se sospecharía que se tratan de ondas alfa, las cuales tienen una frecuencia de 8 a 13 Hz. Sin embargo, se puede deducir que las ondas medidas no son de esta clase. Esto debido a que, según literatura, la onda alfa es más fácil de captar en la región occipital, raramente en la frontal donde se realizó la medición. Mientras que fue la onda de fue ritmo beta, común en la realización de EEG a adultos en reposo también.
