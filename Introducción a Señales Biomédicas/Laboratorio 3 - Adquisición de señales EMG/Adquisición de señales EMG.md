@@ -57,13 +57,13 @@
 1. Se conecta el cable ramal de tres electrodos de medición (Positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales EMG. El puerto de conexión se reviso en la hoja de datos del BITalino usado (PUERTO EMG).
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/Materiales.jpeg" width="25%" height="25%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/Materiales.jpeg" width="25%" height="25%">
 </p>
 
 2. Se colocan los electrodos en el paciente segun la siguiente imagen referencial, para la medición del nervio mediano de la mano. 
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/NERVIO_MEDIANO.png" width="50%" height="50%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/NERVIO_MEDIANO.png" width="50%" height="50%">
 </p>
 
 3. Se inicializa la medición de las señales EMG del nervio mediano en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que esta se encuentra dentro del rango de 2-500 Hz, el cual es el usado para la adquisición de bioseñales de tipo EMG. 
@@ -74,7 +74,7 @@
 A. Reposo
 </p>
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REPOSO%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/REPOSO%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ B. Movimiento leve del dedo
 </p>
   
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/LEVE%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/LEVE%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ C. Movimiento fuerte del dedo
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/FUERTE%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/FUERTE%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 <p align="center"> 
@@ -98,13 +98,13 @@ D. Contratensión en el dedo
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/TENSION%20NERVIO%20MEDIANO%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="25%" height="25%">
 </p>
 
 5. Se repite el proceso para la medición de señales EMG en el nervio tibial posterior del músculo soleo, tal y como se observa en la siguiente imagen referencial. 
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REFLEJO_H_TIBIAL_POSTERIOR.png" width="50%" height="50%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/REFLEJO_H_TIBIAL_POSTERIOR.png" width="50%" height="50%">
 </p>
   
 Para esta medición, se procederán a tomar 2 posiciones distintas. 
@@ -114,7 +114,7 @@ A. Reposo
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/REPOSO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/REPOSO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ B. Movimiento
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/MOVIMIENTO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/MOVIMIENTO%20TIBIAL%20POSTERIOR%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" width="50%" height="50%">
 </p>
 
 6. Finalmente, se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python 
@@ -137,21 +137,21 @@ Se obtuvieron los siguientes resultados:
 
 | | | |
 | :---: | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_01.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_02.png">|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_03.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_mano_04.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/s_mano_01.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/s_mano_02.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/s_mano_03.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/s_mano_04.png">|
 </p>
 
 ### Ploteo de la señal obtenida en la pantorrilla
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/s_tobillo_2.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/s_tobillo_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/s_tobillo_2.png">|
   
 ### Frecuencias de las señales obtenidas
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/FFT_mano.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/FFT_tobillo.png">| 
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/FFT_mano.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/FFT_tobillo.png">| 
   
-El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab3). Asimismo, para el último par de imágenes, la correspondiente a la mano es la gráfica de la izquierda y la correspondiente al tobillo es la de la dererecha.
+Los códigos [de la mano](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/C%C3%B3digo/lectura_se%C3%B1al_txt%20mano.ipynb) y [del tobillo](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/C%C3%B3digo/lectura_se%C3%B1al_txt%20tobillo.ipynb), así como [los datos utilizados para realizar el ploteo](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%203%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Data) pueden ser consultados aquí. Asimismo, para el último par de imágenes, la correspondiente a la mano es la gráfica de la izquierda y la correspondiente al tobillo es la de la dererecha.
 
 <p align="justify">
 Se observan diferencias significativas en las gráficas. Respecto a las mediciones tomadas al nervio mediano en la mano, se ve que los voltajes adquiridos se incrementan con la cantidad de movimiento realizada. Caso notable es en la flexión brusca, donde se llegan a picos de 200 mV. También se puede ver un icremento de frecuencias en los periodos con mayor actividad muscular. En la primera zona de movimiento se llega a un pico de 20 Hz. En la más alta, se alcanzan 40 Hz. Sin embargo, estas se encuentran en constante oscilación de en todo momento.
