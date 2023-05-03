@@ -34,14 +34,19 @@
 ## Introducción al laboratorio
 ---
 <p align="justify">
-  La tabulación y etiquetación de data es esencial para la correcta interpretación y análisis de señales biomédicas. En nuestro caso en particular, la tabulación de la data adquirida por un sensor Bitalino en modo ECG nos permitirá visualizar y analizar de forma más precisa y ordenada las señales eléctricas producidas por el corazón.
+  En este laboratorio, nos enfocaremos en el procesamiento de señales de electrocardiograma (ECG) y cómo aplicar técnicas de filtrado para reducir el ruido presente en las señales.
   
 <p align="justify">
-  También, se espera que al tabular y etiquetar de manera más precisa de los datos, esto facilite la aplicación de técnicas de machine learning en el futuro. Ya que esta herramienta es muy beneficiosa y efectiva para el conocimiento de patrones en el diagnostico de enfermedades cardíacas. 
+  En el laboratorio anterior, aprendimos la importancia de la tabulación y etiquetación de los datos de ECG para su posterior análisis. Ahora, utilizaremos los datos organizados y etiquetados para aplicar técnicas de filtrado. 
 
 <p align="justify"> 
-  Por eso, en este laboratorio se tiene como objetivo aprender la importancia de la tabulación y etiquetación de data extraída de sensores biomédicos para aplicarla a la investigación. Para este caso, se utilizará un notebook de jupyter que contendrá la codificación necesaria para organizar y tabular nuestra data.
-  
+ Es importante entender que las señales de ECG pueden contener ruido debido a diversas fuentes, como interferencias electromagnéticas, movimiento del paciente o el propio equipo de medición. Por lo tanto, es crucial aplicar técnicas de filtrado para eliminar este ruido y obtener una señal de ECG más clara y precisa.
+
+<p align="justify"> 
+ En este laboratorio, nos enfocaremos en los filtros FIR (Respuesta al Impulso Finita) y los filtros IIR (Respuesta al Impulso Infinita) para el procesamiento de señales de ECG. Los filtros FIR utilizan una respuesta al impulso finita para filtrar las señales de ECG, mientras que los filtros IIR utilizan una respuesta al impulso infinita para procesar las señales 
+
+<p align="justify">
+Es importante entender las diferencias entre estos dos tipos de filtros y cómo se pueden aplicar de manera efectiva en el procesamiento de señales de ECG.
   
 ## Materiales 
 ---
