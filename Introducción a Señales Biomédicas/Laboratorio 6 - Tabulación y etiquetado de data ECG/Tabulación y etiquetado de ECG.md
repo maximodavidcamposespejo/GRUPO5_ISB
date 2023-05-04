@@ -125,7 +125,7 @@ Para realizar esta clasificación se guió de la siguiente tabla, definida por e
 |**Descripción**|**Categoría**|
 | ------------- | ------------- |
 | Basal 1 | 0 |
-| Post-ejercicio| 1 |
+| Inhalación y exhalación| 1 |
 | Basal 2 | 2 |
 | Reposo 1 | 3 |
 | Reposo 2 | 4 |
@@ -151,7 +151,7 @@ El [código](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Int
   
 - Se identificó y comprendió el proceso tabulación y etiquetación de datos como parte del proceso de tratamiento de señales biomédicas.
   
-- Se logró obtener resultados correctamente clasificados en los diferentes tipos de señal adquiridas (basal, post-ejercicio, basal2, reposo 1 y resposo2) lo que facilita la implementación de técnicas de machine learning en el futuro. 
+- Se logró obtener resultados correctamente clasificados en los diferentes tipos de señal adquiridas (basal, inhalación y exhalación, basal2, reposo 1 y resposo2) lo que facilita la implementación de técnicas de machine learning en el futuro. 
 
   
  ## Bibliografía 
