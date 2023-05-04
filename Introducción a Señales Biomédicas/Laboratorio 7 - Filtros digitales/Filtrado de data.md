@@ -65,7 +65,7 @@ Es importante entender las diferencias entre estos dos tipos de filtros y cómo 
     
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
 
-1. En primer lugar, procedemos a realizar la creacion de los distintos tipos de filtros IIR (Bessel, Butterworth y Chebyshev 1) y FIR (Hamming y blackman) mediante el uso de pyFDA. A continuacion, se observa una grafica ejemplo usando los siguientes parametros: 
+1. En primer lugar, procedemos a realizar la creación de los distintos tipos de filtros IIR (Bessel, Butterworth y Chebyshev 1) y FIR (Hamming y Blackman) mediante el uso de pyFDA. A continuación, se observa una gráfica ejemplo usando los siguientes parámetros:
 
 <p align="center">
   Fc = 20 hz
@@ -77,13 +77,13 @@ Es importante entender las diferencias entre estos dos tipos de filtros y cómo 
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/IIR_BESSEL_2.png" width="100%" height="100%">
 </p>
 
-Algunas consideraciones adicionales tomadas para la creacion de los filtros es el uso del orden minimo requerido para la obtencion de un filtro adecuado. 
+Algunas consideraciones adicionales tomadas para la creación de los filtros es el uso del orden mínimo requerido para la obtención de un filtro adecuado.
 
-2. Posteriormente, procedemos a utilizar los parametros y coeficientes derivados de la creacion del filtro anteriormente mencionado, para el diseño del filtro en python
+2. Posteriormente, procedemos a utilizar los parámetros y coeficientes derivados de la creación del filtro anteriormente mencionado, para el diseño del filtro en python.
   
-3. Luego, usando el laboratorio pasado de etiquetacion y creacion de segmentos de data, procedemos a filtrar la señal ECG obtenida y verificar la diferencia entre la aplicacion de los diferentes filtros FIR e IIR. 
+3. Luego, usando el laboratorio pasado de etiquetación y creación de segmentos de data, procedemos a filtrar la señal ECG obtenida y verificar la diferencia entre la aplicación de los diferentes filtros FIR e IIR. 
 
-4. Finalmente, procedemos a seleccionar unicamente los 2 mejores filtros (Uno FIR y otro IIR) y procedemos a aplicarlo en las  categorias de señales observadas y detalladas en la siguiente imagen (Categorias creadas la anterior sesion de laboratorio)
+4. Finalmente, procedemos a seleccionar únicamente los 2 mejores filtros (Uno FIR y otro IIR) y procedemos a aplicarlo en las categorías de señales observadas y detalladas en la siguiente imagen (Categorías creadas la anterior sesión de laboratorio)
  
 |**Descripción**|**Categoría**|
 | ------------- | ------------- |
