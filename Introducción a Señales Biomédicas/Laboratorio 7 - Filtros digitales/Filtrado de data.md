@@ -65,42 +65,25 @@ Es importante entender las diferencias entre estos dos tipos de filtros y cómo 
     
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
 
-1. En primer lugar, procedemos a realizar la importancion de la data adquirida de ECG durante el laboratorio 4.
+1. En primer lugar, procedemos a realizar la creacion de los distintos tipos de filtros IIR (Bessel, Butterworth y Chebyshev 1) y FIR (Hamming y blackman) mediante el uso de pyFDA. A continuacion, se observa una grafica ejemplo usando los siguientes parametros: 
+
+<p align="center">
+  Fc = 20 hz
+  ; Wp = 94 rad/s
+  ; Ws = 157 rad/s
+</p>
   
 <p align="center">
   <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Importando%20data%20y%20librerias.png" width="100%" height="100%">
 </p>
+
+Algunas consideraciones adicionales tomadas para la creacion de los filtros es el uso del orden minimo requerido para la obtencion de un filtro adecuado. 
+
+2. Posteriormente, procedemos a utilizar los parametros y coeficientes derivados de la creacion del filtro anteriormente mencionado, para el diseño del filtro en python
   
+3. Luego, usando el laboratorio pasado de etiquetacion y creacion de segmentos de data, procedemos a filtrar la señal ECG obtenida y verificar la diferencia entre la aplicacion de los diferentes filtros FIR e IIR. 
 
-2. Posteriormente, procedemos a la lectura de la data y su agrupación en un arreglo único. Ademas, segmentamos la data en grupos dependiendo de la categoria a la que pertenezca
-  
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Lectura%20y%20agrupacion%20de%20datos.png" width="85%" height="85%">
-</p>  
-
-3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG. Se observa un ejemplo correspondiente al estado basal inicial durante los ejercicios realizados en el laboratorio 4
-  
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Primer%20plot.png" width="80%" height="80%">
-</p>
-
-4. Luego, se procede a obtener la señal en funcion del tiempo, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Frecuencia%20tiempo.png" width="80%" height="80%">
-</p>
-
-5. Definimos una serie de etiquetas para la posterior tabulación.
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/etiquetas.png" width="80%" height="80%">
-</p>
-
-6. Finalmente, procedemos a crear la data tabulada y etiquetada en estilo Sklearn.
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/concatenando.png" width="80%" height="80%">
-</p>
+4. Finalmente, procedemos a seleccionar unicamente los 2 mejores filtros (Uno FIR y otro IIR) y procedemos a aplicarlo en las  categorias de señales observadas y detalladas en la siguiente imagen (Categorias creadas la anterior sesion de laboratorio)
   
 ## Resultados y discusión
 ---
