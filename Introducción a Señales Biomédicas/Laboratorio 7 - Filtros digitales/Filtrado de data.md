@@ -86,7 +86,7 @@ Algunas consideraciones adicionales tomadas para la creacion de los filtros es e
 4. Finalmente, procedemos a seleccionar unicamente los 2 mejores filtros (Uno FIR y otro IIR) y procedemos a aplicarlo en las  categorias de señales observadas y detalladas en la siguiente imagen (Categorias creadas la anterior sesion de laboratorio)
  
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/EJERCICIOS.png" width="100%" height="100%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/EJERCICIOS.png" width="70" height="70">
 </p>
   
 ## Resultados y discusión
