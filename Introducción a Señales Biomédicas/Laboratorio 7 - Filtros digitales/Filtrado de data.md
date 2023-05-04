@@ -107,7 +107,7 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 
 ### Señal filtrada
 
-| Campo | Señal cruda | Filtro IIR | Filtro FIR |
+| Campo | Señal cruda | Filtro IIR (Blackman) | Filtro FIR (Butterworth) |
 | :--- | :---: | :---: | :---: |
 | Basal | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg00.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg01.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg02.png"> |
 | Respiración | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg10.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg11.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg12.png"> |
@@ -137,7 +137,7 @@ w(n) = 0.42 - 0.5cos(2*pi*n/M) + 0.08cos(4*pi*n/M)
 <p align="justify">
 En la ecuación anterior, M respresenta la cantidad de elementos de la ventana cuyos valores son definidos por el usuario, los cuales se usaban para aliasing. En la presente actividad logró darse el filtrado, como se ve líneas arriba. Las frecuencias menores lograron ser eliminadas. Para mostrar esto con mayor claridad, se usó la Transformada Rápida de Fourier (FFT). Ahora en el dominio de la frecuencia, se pudo ver que para todas las categorías la frecuencia de corte está alrededor de los 20Hz. Efectivamente, el filtro pasabajas funciona.
   
-Pasando al filtro de Butterworth, su respuesta en magnitud es ligeramente diferente.También descensos menos proununciados. Analizando las imágenes hay un detalle: y es que en la región de aproximadamente 15Hz, hay un pequeño pronunciamiento en la gráfica. Pasando por el dominio de la freucencia, se peude ver que ambos filtros son prácticamente iguales, pero puede notarse que al final de la región de corte (aprox 20 Hz), mientras se balancea a su región normal, el filtro FIR debería dar menú completo? Pero yo cal frente y me dieron la sala para grbaar y no hay más en mis proyectos.
+Pasando al filtro de Butterworth, su respuesta en magnitud es ligeramente diferente.También descensos menos proununciados. Analizando las imágenes hay un detalle: y es que en la región de aproximadamente 15Hz, hay un pequeño pronunciamiento en la gráfica. Pasando por el dominio de la freucencia, se peude ver que ambos filtros son prácticamente iguales, pero puede notarse que al final de la región de corte (aprox 20 Hz), mientras se estabiliza y desciende aparece un rizado ligeramente pronunciado. Esto depende de las características de los diveros dispositivos disponibles que el filtrado de señales digitales.
 </p>
 
 ## Conclusiones 
