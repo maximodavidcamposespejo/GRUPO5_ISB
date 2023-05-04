@@ -126,7 +126,7 @@ El código y datos utilizados para realizar el ploteo pueden ser consultados [aq
 <p align="justify">
 Lo primero que debe comentarse es los tipos de ventanas de los filtros utilizados. Para el filtro FIR se usó la ventana Blackman y para el IIR Butterworth.
   
-En el caso de Blackman esta está regida por la ecuación que se ve abajo y se la consideró para el presente proyecto porque esta puede reducir los lóbulos lateriales y permite en partes el aliasing de la señal, atenuando sus valores. Con esto se puede eliminar eficazmente las frecuencias no deseadas, razón por la cual es ampliante usado en la industria de audio.
+En el caso de Blackman esta está regida por la ecuación que se ve abajo y se la consideró para el presente proyecto porque esta puede reducir los lóbulos laterales y permite en partes el aliasing de la señal, atenuando sus valores. Con esto se puede eliminar eficazmente las frecuencias no deseadas, razón por la cual es ampliamente usado en la industria de audio.
   
 </p>
   
@@ -135,19 +135,22 @@ w(n) = 0.42 - 0.5cos(2*pi*n/M) + 0.08cos(4*pi*n/M)
 </p>
  
 <p align="justify">
-En la ecuación anterior, M respresenta la cantidad de elementos de la ventana cuyos valores son definidos por el usuario, los cuales se usaban para aliasing. En la presente actividad logró darse el filtrado, como se ve líneas arriba. Las frecuencias menores lograron ser eliminadas. Para mostrar esto con mayor claridad, se usó la Transformada Rápida de Fourier (FFT). Ahora en el dominio de la frecuencia, se pudo ver que para todas las categorías la frecuencia de corte está alrededor de los 20Hz. Efectivamente, el filtro pasabajas funciona.
+En la ecuación anterior, M representa la cantidad de elementos de la ventana cuyos valores son definidos por el usuario, los cuales se usaban para aliasing. En la presente actividad logró darse el filtrado, como se ve líneas arriba. Las frecuencias menores lograron ser eliminadas. Para mostrar esto con mayor claridad, se usó la Transformada Rápida de Fourier (FFT). Ahora en el dominio de la frecuencia, se pudo ver que para todas las categorías la frecuencia de corte está alrededor de los 20Hz. Efectivamente, el filtro pasa bajas funciona.
   
-Pasando al filtro de Butterworth, su respuesta en magnitud es ligeramente diferente.También descensos menos proununciados. Analizando las imágenes hay un detalle: y es que en la región de aproximadamente 15Hz, hay un pequeño pronunciamiento en la gráfica. Pasando por el dominio de la freucencia, se peude ver que ambos filtros son prácticamente iguales, pero puede notarse que al final de la región de corte (aprox 20 Hz), mientras se estabiliza y desciende aparece un rizado ligeramente pronunciado. Esto depende de las características de los diveros dispositivos disponibles que el filtrado de señales digitales.
+Pasando al filtro de Butterworth, su respuesta en magnitud es ligeramente diferente. También descensos menos pronunciados. Analizando las imágenes hay un detalle: y es que en la región de aproximadamente 15Hz, hay un pequeño pronunciamiento en la gráfica. Pasando por el dominio de la frecuencia, se puede ver que ambos filtros son prácticamente iguales, pero puede notarse que al final de la región de corte (aproximadamente en 20 Hz), mientras se estabiliza y desciende aparece un rizado ligeramente pronunciado. Esto depende de las características de los diversos dispositivos disponibles que el filtrado de señales digitales.
 </p>
 
 ## Conclusiones 
   
-- Se logró la visualización, clasificación y análisis de un ECG empleando la tabulación y etiquetación de datos a través del notebook jupyter. 
+-  Se logró la creación de filtros IIR y FIR mediante el uso de pyFDA y los parámetros indicados en el laboratorio. 
   
-- Se identificó y comprendió el proceso tabulación y etiquetación de datos como parte del proceso de tratamiento de señales biomédicas.
+-  Se logró la aplicación de técnicas de filtrado de señal para la reducción de ruido de la señal ECG captada en laboratorios previos. Se empleó filtros FIR (Respuesta al Impulso Finita) y los filtros IIR (Respuesta al Impulso Infinita) y se logró comprender la utilidad de cada uno de estos en el procesamiento de señales. 
   
-- Se logró obtener resultados correctamente clasificados en los diferentes tipos de señal adquiridas (basal, post-ejercicio, basal2, reposo 1 y resposo2) lo que facilita la implementación de técnicas de machine learning en el futuro. 
+-  Se visualizó la señal filtrada mediante los dos mejores filtros (Blackman (FIR) y Butterworth (IIR)) y se aplicó en las diferentes categorías de señales observadas. 
 
+-  Para el filtro Blackman, se logró la eliminación de las frecuencias menores en la señal y se comprobó mediante la Transformada Rápida de Fourier (FFT) donde se observó que para todas las categorías la frecuencia de corte está alrededor de los 20Hz. 
+
+-  Para el filtro Butterworth, se logó de igual forma la eliminación de frecuencias, pero se observó un rizado ligeramente pronunciado al término de la región de corte (20 Hz). 
   
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
