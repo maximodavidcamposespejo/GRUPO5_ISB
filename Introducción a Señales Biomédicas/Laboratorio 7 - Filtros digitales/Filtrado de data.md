@@ -74,7 +74,7 @@ Es importante entender las diferencias entre estos dos tipos de filtros y cómo 
 </p>
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Importando%20data%20y%20librerias.png" width="100%" height="100%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/IIR_BESSEL_2.png" width="100%" height="100%">
 </p>
 
 Algunas consideraciones adicionales tomadas para la creacion de los filtros es el uso del orden minimo requerido para la obtencion de un filtro adecuado. 
@@ -84,6 +84,10 @@ Algunas consideraciones adicionales tomadas para la creacion de los filtros es e
 3. Luego, usando el laboratorio pasado de etiquetacion y creacion de segmentos de data, procedemos a filtrar la señal ECG obtenida y verificar la diferencia entre la aplicacion de los diferentes filtros FIR e IIR. 
 
 4. Finalmente, procedemos a seleccionar unicamente los 2 mejores filtros (Uno FIR y otro IIR) y procedemos a aplicarlo en las  categorias de señales observadas y detalladas en la siguiente imagen (Categorias creadas la anterior sesion de laboratorio)
+ 
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/EJERCICIOS.png" width="100%" height="100%">
+</p>
   
 ## Resultados y discusión
 ---
