@@ -130,10 +130,8 @@ Para realizar esta clasificación se guió de la siguiente tabla, definida por e
 | Reposo 1 | 3 |
 | Reposo 2 | 4 |
 
- 
-<p align="justify">
 - **Basal 1**: Primera medición realzada, cuando el sujeto de pruebas está en reposo.
-- **Post-ejercicio**: Ciclo de repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso.
+- **Inhalación y exhalación**: Ciclo de repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso.
 - **Basal 2**: Segunda medición en reposo basal.
 - **Reposo 1**: Medición del reposo inmediatamente después del ejercicio de alta exigencia.
 - **Reposo 2**: Medición del reposo 3 mintos después del ejercicio de alta exigencia.

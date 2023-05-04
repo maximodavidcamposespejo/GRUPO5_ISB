@@ -85,9 +85,19 @@ Algunas consideraciones adicionales tomadas para la creacion de los filtros es e
 
 4. Finalmente, procedemos a seleccionar unicamente los 2 mejores filtros (Uno FIR y otro IIR) y procedemos a aplicarlo en las  categorias de señales observadas y detalladas en la siguiente imagen (Categorias creadas la anterior sesion de laboratorio)
  
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/EJERCICIOS.png" width="60%" height="60%">
-</p>
+|**Descripción**|**Categoría**|
+| ------------- | ------------- |
+| Basal 1 | 0 |
+| Inhalación y exhalación| 1 |
+| Basal 2 | 2 |
+| Reposo 1 | 3 |
+| Reposo 2 | 4 |
+
+- **Basal 1**: Primera medición realzada, cuando el sujeto de pruebas está en reposo.
+- **Inhalación y exhalación**: Ciclo de repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso.
+- **Basal 2**: Segunda medición en reposo basal.
+- **Reposo 1**: Medición del reposo inmediatamente después del ejercicio de alta exigencia.
+- **Reposo 2**: Medición del reposo 3 mintos después del ejercicio de alta exigencia.
   
 ## Resultados y discusión
 ---
