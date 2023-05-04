@@ -111,12 +111,13 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 | Respiración | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft10.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft11.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft12.png"> |
 | Post-Ejercicio | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft20.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft21.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft22.png"> |
 
-<p align="justify">
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/C%C3%B3digo).
 
+<p align="justify">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi tempus. Ac ut consequat semper viverra nam libero. Sed libero enim sed faucibus turpis in eu mi bibendum. At lectus urna duis convallis. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Porttitor rhoncus dolor purus non enim. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Molestie nunc non blandit massa enim nec. Lectus quam id leo in vitae turpis massa sed. Augue mauris augue neque gravida in. Cursus risus at ultrices mi. Eget lorem dolor sed viverra ipsum nunc. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Id interdum velit laoreet id donec. Eleifend donec pretium vulputate sapien nec. Id aliquet risus feugiat in ante metus.
+</p>
+ 
 
-  
 ## Conclusiones 
   
 - Se logró la visualización, clasificación y análisis de un ECG empleando la tabulación y etiquetación de datos a través del notebook jupyter. 
