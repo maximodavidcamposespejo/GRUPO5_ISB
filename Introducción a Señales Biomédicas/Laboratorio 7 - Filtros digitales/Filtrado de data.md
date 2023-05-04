@@ -124,9 +124,21 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/C%C3%B3digo).
 
 <p align="justify">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui accumsan sit amet nulla facilisi morbi tempus. Ac ut consequat semper viverra nam libero. Sed libero enim sed faucibus turpis in eu mi bibendum. At lectus urna duis convallis. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Porttitor rhoncus dolor purus non enim. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Molestie nunc non blandit massa enim nec. Lectus quam id leo in vitae turpis massa sed. Augue mauris augue neque gravida in. Cursus risus at ultrices mi. Eget lorem dolor sed viverra ipsum nunc. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Id interdum velit laoreet id donec. Eleifend donec pretium vulputate sapien nec. Id aliquet risus feugiat in ante metus.
+Lo primero que debe comentarse es los tipos de ventanas de los filtros utilizados. Para el filtro FIR se usó la ventana Blackman y para el IIR Butterworth.
+  
+En el caso de Blackman esta está regida por la ecuación que se ve abajo y se la consideró para el presente proyecto porque esta puede reducir los lóbulos lateriales y permite en partes el aliasing de la señal, atenuando sus valores. Con esto se puede eliminar eficazmente las frecuencias no deseadas, razón por la cual es ampliante usado en la industria de audio.
+  
+</p>
+  
+<p align="center">
+w(n) = 0.42 - 0.5cos(2*pi*n/M) + 0.08cos(4*pi*n/M)
 </p>
  
+<p align="justify">
+En la ecuación anterior, M respresenta la cantidad de elementos de la ventana cuyos valores son definidos por el usuario, los cuales se usaban para aliasing. En la presente actividad logró darse el filtrado, como se ve líneas arriba. Las frecuencias menores lograron ser eliminadas. Para mostrar esto con mayor claridad, se usó la Transformada Rápida de Fourier (FFT). Ahora en el dominio de la frecuencia, se pudo ver que para todas las categorías la frecuencia de corte está alrededor de los 20Hz. Efectivamente, el filtro pasabajas funciona.
+  
+Pasando al filtro de Butterworth, su respuesta en magnitud es ligeramente diferente.También descensos menos proununciados. Analizando las imágenes hay un detalle: y es que en la región de aproximadamente 15Hz, hay un pequeño pronunciamiento en la gráfica. Pasando por el dominio de la freucencia, se peude ver que ambos filtros son prácticamente iguales, pero puede notarse que al final de la región de corte (aprox 20 Hz), mientras se balancea a su región normal, el filtro FIR debería dar menú completo? Pero yo cal frente y me dieron la sala para grbaar y no hay más en mis proyectos.
+</p>
 
 ## Conclusiones 
   
@@ -142,4 +154,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
 
+- DSPrelated, "Use of a Blackman Window," [Online]. Available: https://www.dsprelated.com/freebooks/mdft/Use_Blackman_Window.html
+  
 - “Jupyter Notebook: documentos web para análisis de datos, código en vivo y mucho más,” IONOS Digitalguide, Sep. 11, 2018. https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/jupyter-notebook/
+ 
+- Mathworks, "butter" 
+ 
+- Python, "scipy.signal.windows.blackman" [Online]. Available: https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.windows.blackman.html
