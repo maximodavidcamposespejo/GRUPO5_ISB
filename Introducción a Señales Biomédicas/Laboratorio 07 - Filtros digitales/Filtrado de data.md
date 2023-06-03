@@ -1,7 +1,7 @@
-# Laboratorio 6
+# Laboratorio 7
 ---
 
-*Temática del laboratorio: GUÍA N° 6 – Creación de data tabular a partir de las señales fisiológicas previamente adquiridas*
+*Temática del laboratorio: GUÍA N° 7 – Creación de filtros digitales*
 
 ## Tabla de contenidos:
 ---
@@ -34,14 +34,19 @@
 ## Introducción al laboratorio
 ---
 <p align="justify">
-  La tabulación y etiquetación de data es esencial para la correcta interpretación y análisis de señales biomédicas. En nuestro caso en particular, la tabulación de la data adquirida por un sensor Bitalino en modo ECG nos permitirá visualizar y analizar de forma más precisa y ordenada las señales eléctricas producidas por el corazón.
+  En este laboratorio, nos enfocaremos en el procesamiento de señales de electrocardiograma (ECG) y cómo aplicar técnicas de filtrado para reducir el ruido presente en las señales.
   
 <p align="justify">
-  También, se espera que al tabular y etiquetar de manera más precisa de los datos, esto facilite la aplicación de técnicas de machine learning en el futuro. Ya que esta herramienta es muy beneficiosa y efectiva para el conocimiento de patrones en el diagnostico de enfermedades cardíacas. 
+  En el laboratorio anterior, aprendimos la importancia de la tabulación y etiquetación de los datos de ECG para su posterior análisis. Ahora, utilizaremos los datos organizados y etiquetados para aplicar técnicas de filtrado. 
 
 <p align="justify"> 
-  Por eso, en este laboratorio se tiene como objetivo aprender la importancia de la tabulación y etiquetación de data extraída de sensores biomédicos para aplicarla a la investigación. Para este caso, se utilizará un notebook de jupyter que contendrá la codificación necesaria para organizar y tabular nuestra data.
-  
+ Es importante entender que las señales de ECG pueden contener ruido debido a diversas fuentes, como interferencias electromagnéticas, movimiento del paciente o el propio equipo de medición. Por lo tanto, es crucial aplicar técnicas de filtrado para eliminar este ruido y obtener una señal de ECG más clara y precisa.
+
+<p align="justify"> 
+ En este laboratorio, nos enfocaremos en los filtros FIR (Respuesta al Impulso Finita) y los filtros IIR (Respuesta al Impulso Infinita) para el procesamiento de señales de ECG. Los filtros FIR utilizan una respuesta al impulso finita para filtrar las señales de ECG, mientras que los filtros IIR utilizan una respuesta al impulso infinita para procesar las señales 
+
+<p align="justify">
+Es importante entender las diferencias entre estos dos tipos de filtros y cómo se pueden aplicar de manera efectiva en el procesamiento de señales de ECG.
   
 ## Materiales 
 ---
@@ -60,42 +65,39 @@
     
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
 
-1. En primer lugar, procedemos a realizar la importancion de la data adquirida de ECG durante el laboratorio 4.
-  
+1. En primer lugar, procedemos a realizar la creación de los distintos tipos de filtros IIR (Bessel, Butterworth y Chebyshev 1) y FIR (Hamming y Blackman) mediante el uso de pyFDA. A continuación, se observa una gráfica ejemplo usando los siguientes parámetros:
+
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Importando%20data%20y%20librerias.png" width="100%" height="100%">
+  Fc = 20 hz
+  ; Wp = 94 rad/s
+  ; Ws = 157 rad/s
 </p>
   
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/IIR_BESSEL_2.png" width="100%" height="100%">
+</p>
 
-2. Posteriormente, procedemos a la lectura de la data y su agrupación en un arreglo único. Ademas, segmentamos la data en grupos dependiendo de la categoria a la que pertenezca
+Algunas consideraciones adicionales tomadas para la creación de los filtros es el uso del orden mínimo requerido para la obtención de un filtro adecuado.
+
+2. Posteriormente, procedemos a utilizar los parámetros y coeficientes derivados de la creación del filtro anteriormente mencionado, para el diseño del filtro en python.
   
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Lectura%20y%20agrupacion%20de%20datos.png" width="85%" height="85%">
-</p>  
+3. Luego, usando el laboratorio pasado de etiquetación y creación de segmentos de data, procedemos a filtrar la señal ECG obtenida y verificar la diferencia entre la aplicación de los diferentes filtros FIR e IIR. 
 
-3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG. Se observa un ejemplo correspondiente al estado basal inicial durante los ejercicios realizados en el laboratorio 4
-  
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Primer%20plot.png" width="80%" height="80%">
-</p>
+4. Finalmente, procedemos a seleccionar únicamente los 2 mejores filtros (Uno FIR y otro IIR) y procedemos a aplicarlo en las categorías de señales observadas y detalladas en la siguiente imagen (Categorías creadas la anterior sesión de laboratorio)
+ 
+|**Descripción**|**Categoría**|
+| ------------- | ------------- |
+| Basal 1 | 0 |
+| Inhalación y exhalación| 1 |
+| Basal 2 | 2 |
+| Reposo 1 | 3 |
+| Reposo 2 | 4 |
 
-4. Luego, se procede a obtener la señal en funcion del tiempo, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Frecuencia%20tiempo.png" width="80%" height="80%">
-</p>
-
-5. Definimos una serie de etiquetas para la posterior tabulación.
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/etiquetas.png" width="80%" height="80%">
-</p>
-
-6. Finalmente, procedemos a crear la data tabulada y etiquetada en estilo Sklearn.
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/concatenando.png" width="80%" height="80%">
-</p>
+- **Basal 1**: Primera medición realzada, cuando el sujeto de pruebas está en reposo.
+- **Inhalación y exhalación**: Ciclo de repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso.
+- **Basal 2**: Segunda medición en reposo basal.
+- **Reposo 1**: Medición del reposo inmediatamente después del ejercicio de alta exigencia.
+- **Reposo 2**: Medición del reposo 3 mintos después del ejercicio de alta exigencia.
   
 ## Resultados y discusión
 ---
@@ -103,60 +105,62 @@
 Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tamaño completo):
 </p>
 
-### Ploteo de todos los registros obtenidos con el ECG
+### Señal filtrada
 
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Plots.png" width="80%" height="80%">
-</p>
+| Campo | Señal cruda | Filtro IIR (Blackman) | Filtro FIR (Butterworth) |
+| :--- | :---: | :---: | :---: |
+| Basal | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg00.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg01.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg02.png"> |
+| Respiración | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg10.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg11.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg12.png"> |
+| Post-Ejercicio | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg20.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg21.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/ecg22.png"> |
 
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/plots2.png" width="80%" height="80%">
-</p>
+### FFT
 
-### Tabla construida con los datos clasificados
+| Campo | Señal cruda | Filtro IIR | Filtro FIR |
+| :--- | :---: | :---: | :---: |
+| Basal | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft00.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft01.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft02.png"> |
+| Respiración | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft10.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft11.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft12.png"> |
+| Post-Ejercicio | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft20.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft21.png"> | <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/Im%C3%A1genes/fft22.png"> |
 
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Resultado%20final.png" width="80%" height="80%">
-</p>
-
-<p align="justify">
-Para realizar esta clasificación se guió de la siguiente tabla, definida por el grupo a partir de los cinco tipos de señales adquiridas. Estos tipos y lo que representan se explican a continuación:
-
-|**Descripción**|**Categoría**|
-| ------------- | ------------- |
-| Basal 1 | 0 |
-| Post-ejercicio| 1 |
-| Basal 2 | 2 |
-| Reposo 1 | 3 |
-| Reposo 2 | 4 |
-
- 
-<p align="justify">
-- **Basal 1**: Primera medición realzada, cuando el sujeto de pruebas está en reposo.
-- **Post-ejercicio**: Ciclo de repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso.
-- **Basal 2**: Segunda medición en reposo basal.
-- **Reposo 1**: Medición del reposo inmediatamente después del ejercicio de alta exigencia.
-- **Reposo 2**: Medición del reposo 3 mintos después del ejercicio de alta exigencia.
+El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%207%20-%20Filtros%20digitales/C%C3%B3digo).
 
 <p align="justify">
-Se puede ver que toda la data ha sido clasificada con éxito. Nótese que los grupos 3 y 4 tienen mayor cantidad de elementos que los otros. esto se debe a que estos dos fueron tomadas en una etapa en la que el corazón se estaba recuperando del ejercicio, razón por la que había una frecuencia cardiaca notablemente mayor.</p>
- 
-
-El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab6). 
-
+Lo primero que debe comentarse es los tipos de ventanas de los filtros utilizados. Para el filtro FIR se usó la ventana Blackman y para el IIR Butterworth.
   
+En el caso de Blackman esta está regida por la ecuación que se ve abajo y se la consideró para el presente proyecto porque esta puede reducir los lóbulos laterales y permite en partes el aliasing de la señal, atenuando sus valores. Con esto se puede eliminar eficazmente las frecuencias no deseadas, razón por la cual es ampliamente usado en la industria de audio.
+  
+</p>
+  
+<p align="center">
+w(n) = 0.42 - 0.5cos(2*pi*n/M) + 0.08cos(4*pi*n/M)
+</p>
+ 
+<p align="justify">
+En la ecuación anterior, M representa la cantidad de elementos de la ventana cuyos valores son definidos por el usuario, los cuales se usaban para aliasing. En la presente actividad logró darse el filtrado, como se ve líneas arriba. Las frecuencias menores lograron ser eliminadas. Para mostrar esto con mayor claridad, se usó la Transformada Rápida de Fourier (FFT). Ahora en el dominio de la frecuencia, se pudo ver que para todas las categorías la frecuencia de corte está alrededor de los 20Hz. Efectivamente, el filtro pasa bajas funciona.
+  
+Pasando al filtro de Butterworth, su respuesta en magnitud es ligeramente diferente. También descensos menos pronunciados. Analizando las imágenes hay un detalle: y es que en la región de aproximadamente 15Hz, hay un pequeño pronunciamiento en la gráfica. Pasando por el dominio de la frecuencia, se puede ver que ambos filtros son prácticamente iguales, pero puede notarse que al final de la región de corte (aproximadamente en 20 Hz), mientras se estabiliza y desciende aparece un rizado ligeramente pronunciado. Esto depende de las características de los diversos dispositivos disponibles que el filtrado de señales digitales.
+</p>
+
 ## Conclusiones 
   
-- Se logró la visualización, clasificación y análisis de un ECG empleando la tabulación y etiquetación de datos a través del notebook jupyter. 
+-  Se logró la creación de filtros IIR y FIR mediante el uso de pyFDA y los parámetros indicados en el laboratorio. 
   
-- Se identificó y comprendió el proceso tabulación y etiquetación de datos como parte del proceso de tratamiento de señales biomédicas.
+-  Se logró la aplicación de técnicas de filtrado de señal para la reducción de ruido de la señal ECG captada en laboratorios previos. Se empleó filtros FIR (Respuesta al Impulso Finita) y los filtros IIR (Respuesta al Impulso Infinita) y se logró comprender la utilidad de cada uno de estos en el procesamiento de señales. 
   
-- Se logró obtener resultados correctamente clasificados en los diferentes tipos de señal adquiridas (basal, post-ejercicio, basal2, reposo 1 y resposo2) lo que facilita la implementación de técnicas de machine learning en el futuro. 
+-  Se visualizó la señal filtrada mediante los dos mejores filtros (Blackman (FIR) y Butterworth (IIR)) y se aplicó en las diferentes categorías de señales observadas. 
 
+-  Para el filtro Blackman, se logró la eliminación de las frecuencias menores en la señal y se comprobó mediante la Transformada Rápida de Fourier (FFT) donde se observó que para todas las categorías la frecuencia de corte está alrededor de los 20Hz. 
+
+-  Para el filtro Butterworth, se logó de igual forma la eliminación de frecuencias, pero se observó un rizado ligeramente pronunciado al término de la región de corte (20 Hz). 
   
  ## Bibliografía 
 - “BITalino (r)evolution Lab Guide”, 2020.
 
 - BITalino, “BITalino R-IoT Data Sheet,” 2020. Accessed: Apr. 05, 2023. [Online]. Available: https://www.bitalino.com/storage/uploads/media/datasheet-r-iot---v12.pdf
 
+- DSPrelated, "Use of a Blackman Window," [Online]. Available: https://www.dsprelated.com/freebooks/mdft/Use_Blackman_Window.html
+  
 - “Jupyter Notebook: documentos web para análisis de datos, código en vivo y mucho más,” IONOS Digitalguide, Sep. 11, 2018. https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/jupyter-notebook/
+ 
+- Mathworks, "butter" 
+ 
+- Python, "scipy.signal.windows.blackman" [Online]. Available: https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.windows.blackman.html
