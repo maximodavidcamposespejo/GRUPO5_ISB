@@ -60,6 +60,18 @@
 
 <p align="justify">En la señal EMG obtenida de la mano, se observaron períodos de activación consistentes con la contracción y relajación de los músculos, lo que indica la realización de movimientos. De igual manera con la señal EMG obtenida del tobillo.</p>
 
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2010%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EMG/Im%C3%A1genes/mano.png" alt="Señal obtenida de la mano">
+  <br>
+  <em>Señal obtenida de la mano</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2010%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EMG/Im%C3%A1genes/tobillo.png" alt="Señal obtenida del tobillo">
+  <br>
+  <em>Señal obtenida del tobillo</em>
+</p>
+
 <p align="justify">La detección precisa de los períodos de activación en las señales EMG es fundamental para comprender la actividad muscular y su relación con los movimientos realizados. Este análisis básico proporciona una visión general de la señal EMG y sienta las bases para análisis más avanzados y específicos en el campo de la biomecánica y la fisiología muscular.</p>
 
 ## Conclusiones

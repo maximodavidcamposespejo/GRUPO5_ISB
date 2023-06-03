@@ -35,17 +35,17 @@
 
 <p align="justify">En este laboratorio, se realizó un análisis básico de la señal EEG utilizando dos datasets previamente obtenidos. Se aplicaron filtros pasabanda para identificar los ritmos cerebrales de interés y se analizó la actividad en cada banda de frecuencia. Los resultados obtenidos demostraron la presencia de los ritmos delta, theta, alpha, beta y gamma en las señales EEG analizadas. Este tipo de análisis puede ser útil para estudios posteriores relacionados con la actividad cerebral y sus correlaciones con diferentes estados mentales o trastornos neurológicos.</p>
 
-<p align="justify">El análisis de señales de electroencefalografía (EEG) es una técnica utilizada para estudiar la actividad eléctrica del cerebro. En este laboratorio, se trabajó con dos datasets previamente obtenidos de señales EEG. Uno de ellos fue adquirido utilizando el dispositivo Bitalino, mientras que el otro se obtuvo mediante el dispositivo Ultracortex. El objetivo de esta práctica es realizar un análisis básico de estas señales para identificar los ritmos cerebrales presentes.</p>
+<p align="justify">El análisis de señales de electroencefalografía (EEG) es una técnica utilizada para estudiar la actividad eléctrica del cerebro. En este laboratorio, se trabajó con dos datasets previamente obtenidos de señales EEG. Uno de ellos fue adquirido utilizando el BITalino, mientras que el otro se obtuvo mediante el dispositivo Ultracortex Mark IV. El objetivo de esta práctica es realizar un análisis básico de estas señales para identificar los ritmos cerebrales presentes.</p>
 
 ## Materiales
 
-- Dispositivo Bitalino
-- Dispositivo Ultracortex
+- BITalino
+- Ultracortex Mark IV
 - Jupyter Notebook con la librería biosignalsnotebooks
 
 ## Metodología
 
-<p align="justify">1. Importación de los datasets: Se importaron los dos datasets previamente obtenidos, uno proveniente del dispositivo Bitalino y otro del dispositivo Ultracortex, utilizando la librería biosignalsnotebooks en un entorno de Jupyter Notebook.</p>
+<p align="justify">1. Importación de los datasets: Se importaron los dos datasets previamente obtenidos, uno proveniente del BITalino y otro del dispositivo Ultracortex Mark IV, utilizando la librería biosignalsnotebooks en un entorno de Jupyter Notebook.</p>
 
 <p align="justify">2. Preprocesamiento de las señales: Se realizó un preprocesamiento básico de las señales EEG. Esto incluyó la eliminación de ruido, la corrección de artefactos y la normalización de las señales.</p>
 
@@ -62,6 +62,50 @@
 ## Resultados y discusión
 
 <p align="justify">Los resultados obtenidos mostraron la presencia de distintos ritmos cerebrales en las señales EEG analizadas. A continuación, se presentan los gráficos obtenidos:</p>
+
+### Señales obtenidas del BITalino
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/bit1.png" alt="Ondas delta">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/bit2.png" alt="Ondas theta">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/bit3.png" alt="Ondas alpha">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/bit4.png" alt="Ondas beta">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/bit5.png" alt="Ondas gamma">
+</p>
+
+### Señales obtenidas del Ulrtacortex
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/ultra1.png" alt="Ondas delta">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/ultra2.png" alt="Ondas theta">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/ultra3.png" alt="Ondas alpha">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/ultra4.png" alt="Ondas beta">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2011%20-%20An%C3%A1lisis%20b%C3%A1sico%20de%20la%20se%C3%B1al%20EEG/Im%C3%A1genes/ultra5.png" alt="Ondas gamma">
+</p>
 
 
 ## Conclusiones
