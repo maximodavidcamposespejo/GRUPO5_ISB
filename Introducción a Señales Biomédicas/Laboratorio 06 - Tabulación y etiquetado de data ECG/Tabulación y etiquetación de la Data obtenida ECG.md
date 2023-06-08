@@ -142,7 +142,7 @@ Para realizar esta clasificación se guió de la siguiente tabla, definida por e
 Se puede ver que toda la data ha sido clasificada con éxito. Nótese que los grupos 3 y 4 tienen mayor cantidad de elementos que los otros. esto se debe a que estos dos fueron tomadas en una etapa en la que el corazón se estaba recuperando del ejercicio, razón por la que había una frecuencia cardiaca notablemente mayor.</p>
  
 
-El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab6). 
+El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/C%C3%B3digo). 
 
   
 ## Conclusiones 
