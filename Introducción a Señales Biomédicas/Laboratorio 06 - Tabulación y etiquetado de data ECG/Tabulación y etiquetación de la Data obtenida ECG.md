@@ -63,38 +63,38 @@
 1. En primer lugar, procedemos a realizar la importancion de la data adquirida de ECG durante el laboratorio 4.
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Importando%20data%20y%20librerias.png" width="100%" height="100%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/Importando%20data%20y%20librerias.png" width="100%" height="100%">
 </p>
   
 
 2. Posteriormente, procedemos a la lectura de la data y su agrupación en un arreglo único. Ademas, segmentamos la data en grupos dependiendo de la categoria a la que pertenezca
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Lectura%20y%20agrupacion%20de%20datos.png" width="85%" height="85%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/Lectura%20y%20agrupacion%20de%20datos.png" width="85%" height="85%">
 </p>  
 
 3. Observamos en la gráfica del arreglo el total de todos los datos registrados adquiridos durante el ECG. Se observa un ejemplo correspondiente al estado basal inicial durante los ejercicios realizados en el laboratorio 4
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Primer%20plot.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/Primer%20plot.png" width="80%" height="80%">
 </p>
 
 4. Luego, se procede a obtener la señal en funcion del tiempo, para lo cual procedemos a trabajar con la frecuencia de muestreo del BITalino usado (100Hz).
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Frecuencia%20tiempo.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/Frecuencia%20tiempo.png" width="80%" height="80%">
 </p>
 
 5. Definimos una serie de etiquetas para la posterior tabulación.
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/etiquetas.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/etiquetas.png" width="80%" height="80%">
 </p>
 
 6. Finalmente, procedemos a crear la data tabulada y etiquetada en estilo Sklearn.
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/concatenando.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/concatenando.png" width="80%" height="80%">
 </p>
   
 ## Resultados y discusión
@@ -106,17 +106,17 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 ### Ploteo de todos los registros obtenidos con el ECG
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Plots.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/Plots.png" width="80%" height="80%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/plots2.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/plots2.png" width="80%" height="80%">
 </p>
 
 ### Tabla construida con los datos clasificados
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab6/Resultado%20final.png" width="80%" height="80%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2006%20-%20Tabulaci%C3%B3n%20y%20etiquetado%20de%20data%20ECG/Im%C3%A1genes/Resultado%20final.png" width="80%" height="80%">
 </p>
 
 <p align="justify">

@@ -59,20 +59,20 @@
 | <p align="justify">**PC y participante:** Se requiere de una PC con el software descargado y un participante que actue como el paciente o sujeto de prueba.</p> |<div align="center"> <img src="https://coolboxpe.vtexassets.com/arquivos/ids/226222-1200-auto" width="50%" height="50%"> |
 
 
-##  Metodología @David y @Jhoisymar
+##  Metodología
 ---
 <p align="justify">A continuación, se procede a describir los pasos seguidos para el desarrollo del presente laboratorio: 
   
 1. Se conecta el cable ramal de tres electrodos de medición (positivo, negativo y tierra) junto a sus chupones descartables a la placa BITalino para el registro de las señales ECG. El puerto de conexión se revisó en la hoja de datos del BITalino usado (PUERTO ECG).
 
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab3/Materiales.jpeg" width="25%" height="25%">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2003%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20EMG/Im%C3%A1genes/Materiales.jpeg" width="25%" height="25%">
 </p>
 
 2. Se colocan los electrodos en el paciente en base al manual de medición de BITalino, para el registro de ECG.
   
 <p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ECG.jpeg">
+  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ECG.jpeg">
 </p>
 
 3. Se inicializa la medición de las señales ECG en el SW OpenSignals. Se configura la frecuencia de 100 Hz, ya que esta se encuentra dentro del rango de 1-100 Hz para electrodos superficiales.
@@ -83,14 +83,14 @@
 A. Reposo basal por 30 segundos.
 </p>
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/reposo.gif" width="25%" height="25%">
 </p>
 
 <p align="center">
 B. Ciclo de 3 repeticiones de inhalación y exhalación, con un aguante de 5 segundos por proceso. 
 </p>
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/respiracion.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/respiracion.gif" width="25%" height="25%">
 </p>
   
 <p align="center">
@@ -98,14 +98,14 @@ C. Reposo basal por 30 segundos.
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/reposo.gif">
 </p>
 
 <p align="center"> 
 D. Se retira los electrodos superficiales. Se procede a realizar 20 repeticiones de burpees.
 </p>
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ejercicio.gif">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ejercicio.gif">
 </p>
 
 <p align="center"> 
@@ -118,7 +118,7 @@ F. Luego de 3 minutos de reposo, procedemos a registrar otros 30 segundos de rep
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/reposo.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/reposo.gif" width="25%" height="25%">
 </p>
 
 <p align="center"> 
@@ -126,7 +126,7 @@ G. Finalmente se procede a realizar 2 repeticiones de inhalación y exhalación 
 </p>
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/respiracion.gif" width="25%" height="25%">
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/respiracion.gif" width="25%" height="25%">
 </p>
 
 6. Finalmente, se exportan los canales de medición de electrodo del software OpenSignal para plotear y comparar las graficas en Python.
@@ -141,34 +141,34 @@ Se obtuvieron los siguientes resultados (click sobre la imagen para verla en tam
 
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_2.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg1_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg1_2.png">|
 |La señal inicial muestra pulsos constantes. Se puede ver que en el complejo QRS se llega a picos de 200 mV. Asimismo, las ondas P y T son fácilmente apreciables. Se ve una amplitud mayor en esta última.|Al momento de inhalar y exhalar, la frecuencia de respiración y espiración es diferente. Sin embargo también se ve que esta tiene más ruido, particularmente durante las etapas de exhalación. Asimismo, se ve que en la etapa de exhalación la amplitud es ligeramente mayor.|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg1_0.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg1_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg1_0.png">|
 |En este nuevo reposo, el pulso cardiaco se ha recuperado rápidamente. Tiene apariencia más similar a la señal inicialmente medida.||
 
 ### Ploteo de la señal obtenida después de la actividad física
 
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_2.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg2_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg2_2.png">|
 |Hay diferencias significativas. El pulso es de 124 bpm aproximadamente, tratándose de una situación de taquicardia. Las ondas son mucho más rápidas. Además, la onda T se ha hecho mayor|Habiendo pasado un tiempo de reposo, la onda es más similar a la del reposo inicial. Se puede ver que hay dos amplitudes diferentes: una en las regiones de inhalación (entre 360 y 370 segundos) y otra mayor en las de exhalación, que llega a ser el doble (en 373 segundos)|
 
 <p align="center">
-<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg2_0.png"></p>
+<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg2_0.png"></p>
 <p align="center">Las frecuencias son más variables. Puede verse picos de 6.3 Hz. Y en frecuencias mayores los valores llegan a -25 decibelios aproximadamente.</p>
 
 ### Ploteo de la señal obtenida del ProSim 4
 
 | | |
 | :---: | :---: |
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_2.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg3_1.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg3_2.png">|
 |Señal normal. Puede verse como si fuera en reposo|La frecuencia se ha incrementado ligeramente|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_4.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg3_3.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg3_4.png">|
 |Frecuencia mayor, similar a una etapa de ejercicio físico|La señal se va nivelando|
-|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_5.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_6.png">|
+|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg3_5.png">|<img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg3_6.png">|
 |Señal en recuperación|Señal de vuelta a estado normal. Tras todo este ciclo, el paicente simulado está en reposo otra vez.|
 
-<p align="center"><img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Imagenes/Lab4/ecg3_0.png"></p>
+<p align="center"><img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2004%20-%20Adquisici%C3%B3n%20de%20se%C3%B1ales%20ECG/Im%C3%A1genes/ecg3_0.png"></p>
 <p align="center"></p>
   
 El código y datos utilizados para realizar el ploteo pueden ser consultados [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/tree/main/Software/Lab4). 
