@@ -107,8 +107,10 @@ Se observó que el éxito del modelo depende en gran medida de la calidad de las
 
 ## Bibliografía
 
-- “Arduino nano 33 ble sense,” Arduino Online Shop, [https://store-usa.arduino.cc/products/arduino-nano-33-ble-sense](https://store-usa.arduino.cc/products/arduino-nano-33-ble-sense) (accessed Jun. 23, 2023).
-
-- “Edge impulse,” Edge Impulse, [https://www.edgeimpulse.com/](https://www.edgeimpulse.com/) (accessed Jun. 23, 2023). 
-
 - “Teachable Machine,” Google, [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/) (accessed Jun. 23, 2023). 
+
+- “Edge impulse,” Edge Impulse, [https://www.edgeimpulse.com/](https://www.edgeimpulse.com/) (accessed Jun. 23, 2023).
+
+- “Detect objects with centroids,” Edge Impulse Documentation, [https://docs.edgeimpulse.com/docs/tutorials/detect-objects-using-fomo](https://docs.edgeimpulse.com/docs/tutorials/detect-objects-using-fomo) (accessed Jun. 23, 2023). 
+
+- “Arduino nano 33 ble sense,” Arduino Online Shop, [https://store-usa.arduino.cc/products/arduino-nano-33-ble-sense](https://store-usa.arduino.cc/products/arduino-nano-33-ble-sense) (accessed Jun. 23, 2023).
