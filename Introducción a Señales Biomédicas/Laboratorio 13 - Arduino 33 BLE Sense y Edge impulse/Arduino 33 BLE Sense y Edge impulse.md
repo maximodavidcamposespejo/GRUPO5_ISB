@@ -79,7 +79,7 @@ Los siguientes materiales se utilizaron en esta práctica de laboratorio:
   <img src="./Im%C3%A1genes/06.png" alt="Validación del modelo">
 </p>
 
-6. Exportación del modelo como librería de Arduino.
+6. Exportación del modelo como librería de Arduino (puede edscargarla [aquí](ei-rhuacasi-project-1-arduino.zip)).
 
 <p align="center">
   <img src="./Im%C3%A1genes/07.png" alt="Exportación del modelo">
