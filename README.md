@@ -1,53 +1,42 @@
-# GRUPO5_ISB
----
-Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨ 2023-1, de la carrera de Ingenieria Biomedica, de la Universidad Peruana Cayetano Heredia(UPCH) y la Pontifice Universidad Catolica del Perú (PUCP).
+# Curso: Introducción a Señales Biomédicas
 
-*Proyecto: ANALIZANDO SEÑALES DE ELECTROCARDIOGRAMA (ECG)*
+## Design of a Wearable Electrocardigram with a predictive algorithm based on Machine Learning for Telemonitoring Coronary Heart Diseases in Peru
 
-Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señales de un electrocardiograma (ECG).
-
-
+## Diseño de un electrocardiógrafo wearable con un algoritmo predictivo basado en Machine Learning para el telemonitoreo de enfermedades coronarias del corazón en el Perú
 
 ## Tabla de contenidos:
 ---
 
-- [Materiales](#Materiales)
-- [Metodología](#Metodología)
-- [Temática del proyecto](#Temática-del-proyecto)
+- [Resumen](#Resumen)
+- [Motivación](#Motivación)
+- [Principales Hallazgos](#Principales-Hallazgos)
 - [Participantes](#Participantes)
+- [Referencias](#Referencias)
 
-
-## Materiales 
+## Resumen 
 ---
+<p align="justify"> 
+La Isquemia Miocárdica (IM) se define como una enfemedad que reduce el flujo sanguíneo en las arterias coronarias, generando muerte celular en regiones diferentes del cerebro. Al 2021, la IM registraba 22 728 muertes en el Perú. El objetivo del presente proyecto es desarrollar un algoritmo predictivo y clasificativo basado en Machine Learning para presuntos segmentos anormales en señales de electrocardiograma, que se pueden integrar en un electrocardiógrafo portátil para el telemonitoreo de pacientes on IM. 
 
-|  **Material**  | **Imagen referencial** |
-| --- | --- |
-| <p align="justify">**Arduino nano 33 IoT:** Es una mini placa que se caracteriza principalmente por tener una alta eficiencia energética y baja potencia. Asimismo, integra las capacidades básicas de un procesador de señales y datos</p> |<div align="center"> <img src="http://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00027_03.front_804x603.jpg?v=1626445295" width="50%" height="50%"> |
-| <p align="justify">**Fluke ProSim 4 :** De la marca FLUKE, el ProSim 4 es un simulador de bioseñales humanas tales como: Frecuencia cardiaca, presión arterial y respiración. Se usa principalmente en la validación de equipos médicos, así como en pruebas de desarollo de softwares de procesamiento de bioseñales.</p> |<div align="center"> <img src="http://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png" width="50%" height="50%"> |
-| <p align="justify">**BITalino :** Es un kit de herramientas de bajo costo que cuenta con su propio software open source, diseñado para ambientes educativos. Permite la lectura de bioseñales como electrocardiogramas, electromiogramas y electroencefalogramas.</p> |<div align="center"> <img src="http://upchlabib.com/wp-content/uploads/2023/03/Bitalicio-rotated.jpeg" width="50%" height="50%"> |
-| <p align="justify">**Arduino Tiny Machine Learning Kit :** Es un kit de herramientas de la marca ARDUINO que permite el desarrollo de Machine Learning para el reconocimiento de patrones y bioseñales, asi como su procesamiento.</p> |<div align="center"> <img src="http://cdn.shopify.com/s/files/1/0438/4735/2471/products/AKX00028_02.unbox_804x603.jpg?v=1615313455" width="50%" height="50%"> |
+Para la metodología, se consideraron normativas de diseño nacionales e internacionales  se diseñó una aplicación para dispositivos móviles con la función de conectar el software y hardware y ser interfaz del usuario y personal médico. Señales sinusales y bloqueos de las ramas izquierdas y derecha fueron obtenidas de una base de datos como estados de prueba para entrenar el algoritmo de Machine Learning. 
 
+El modelo final mostró una presición de 97.2% y una pérdida del 1.0% durante el entrnamiento. Subsecuentemente, ensayos fueron realizados para evaluar su funcionamiento con una señal de ECG obtenida de un paciente varón sano de 21 años. En esta etapa, se obtuvo una presición de 95.51%, clasificándola como un ritmo sinusal normal casi completamente, lo cual coincide con la esperado.
 
-##  Metodología 
+##  Motivación 
 ---
-<p align="justify">En el presente proyecto, se busca comprender el procesamiento de señales desde la adquisición hasta el tratamiento digital de la señal. Específicamente, la señal a tratar es la bioseñal producida por el corazón, dicha bioseñal será procesada de modo que se pueda obtener  una representación visual de la actividad eléctrica del corazón en función del tiempo, la cual es conocida como electrocardiograma (ECG).
+<p align="justify"> 
+Una enfermedad isquémica del corazón (EIC) hace referencia al estrechamiento o bloqueo de los vasos sanguíneos debido a la acumulación de una placa grasosa que se espesa y endurece en las paredes arteriales [1]. En otras palabras, una cardiopatía isquémica se produce cuando las arterias que suministran sangre al corazón se obstruyen, de manera parcial o completa, evitando un correcto suministro de sangre a los órganos y tejidos. Si esta obstrucción se da de manera lenta se le denomina angina de pecho, en cambio, si se da de forma rápida se le denomina un infarto [2]. 
 
-<p align="justify">El procesamiento de señales que conlleva un electrocardiograma, inicia con la amplificación de la señal ECG, la cual tiene la finalidad de incrementar el nivel medible de la señal que se obtiene con los electrodos y excluir la interferencia o ruido. Una vez amplificada la señal se procede con la adquisición de la señal ECG, lo cual conlleva un componente hardware. La señal obtenida en esta etapa pasa a ser procesada mediante la aplicación de filtros y algoritmo de detección de complejos QRS para su posterior visualización.
-  
-<p align="justify">Es decir, para realizar con éxito el procesamiento completo de la señal es necesario abarcar 3 ejes importantes:
-  
-1.	Desarrollo del hardware para la etapa de adquisición de la señal
-2.	Uso de sensores ECG
-3.	 Tratamiento digital de la señal
-  
-## Temática del proyecto 
+Según el Repositorio Único Nacional de Información en Salud (REUNIS) en el año 2021, las EIC son la segunda causa de mortalidad nacional con un total de 22,728 defunciones, solo por detrás de la pandemia de COVID-19 con 104,348. Respecto a años anteriores, se observa que las EIC en el 2018 se reportaron 10,011 defunciones, siendo la tercera causa de mortalidad nacional; En el 2019 fueron 11,451 los fallecidos, siendo la segunda causa de mortalidad nacional; Y en el 2020 se disparó los valores a 20,522 defunciones, siendo la segunda causa a nivel nacional [3]. 
+
+Es así que se busca desarrollar un modo de avisarle al paciente que podría tener una cardiopatía de esta índole, con un dispositivo que le muestre recomendaciones de cuando ir al médico a chequearse basado en la señal cardiaca de este.
+
+## Principales Hallazgos
 ---
-<p align="justify">Nos enfocaremos en señales de electrocardiograma. Estas son aquellas que se obtienen a partir del pulso cardiaco. Con esta se puede ver su actividad eléctrica con el paso del tiempo. Esta es una herramienta muy importante para  la detección de enfermedades del corazón, ya que anomalías en estas ondas son una señal de que hay alguna complicación en este órgano.</p>
+<p align="justify"> 
+Se logró desarrollar un algoritmo que, a partir de una señal biológica de un paciente, puede filtrarla y clasificarla. Luego de esto, se segmentó y se puede definir si coincide con un ritmo cardiaco normal o alguna arrtmia, monstrándole al paciente como una sugerencia. Para esta etapa, se casificó ritmo sinusal, bloqueo de rama izquierda y bloqueo de la rama derecha.
 
-
-<p align="center">
-  <img src="https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%201%20-%20Sobre%20Nosotros/Im%C3%A1genes/ecg.gif"/>
-</p>
+La etapa de Machine Learning se realizó en el software Edge Impulse, donde se entrenó el modelo con una base de datos proveniente de Physionet. Se encontró precisión del 95%, un valor significativo. Este puede llegar a implementarse en un microcontrolador para un dispositivo para el paciente, como un Arduino  o ESP32.
 
 ## Participantes
 ---
@@ -57,3 +46,11 @@ Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señal
 * **Josue Daniel Lachira Arellano** - *Collaborator* - [JosueLachira](https://github.com/JosueLachira)
 * **Mariana Leon Prado Martínez** - *Collaborator* - [MarianaLeonPrado](https://github.com/MarianaLeonPrado)
 * **Jhoisymar Eliana Ttito Herrera** - *Collaborator* - [Jhoisymar2402](https://github.com/Jhoisymar2402)
+
+Puede encontrar más información del grupo [aquí](https://github.com/maximodavidcamposespejo/GRUPO5_ISB/blob/main/Introducci%C3%B3n%20a%20Se%C3%B1ales%20Biom%C3%A9dicas/Laboratorio%2001%20-%20Sobre%20Nosotros/Sobre%20el%20equipo.md)
+
+## Referencias
+---
+[1] “Enfermedades cardiovasculares”, Paho.org. [En línea]. Disponible en: https://www.paho.org/es/temas/enfermedades-cardiovasculares. [Consultado: 09-may-2023].
+[2] “Cardiopatía Isquémica”, Clínic Barcelona. [En línea]. Disponible en: https://www.clinicbarcelona.org/asistencia/enfermedades/cardiopatia-isquemica. [Consultado: 09-may-2023].
+[3] Repositorio Único Nacional de Información en Salud. "Tasas de mortalidad." https://www.minsa.gob.pe/reunis/data/tasas_mortalidad.asp (consultado en mayo de 2023)
