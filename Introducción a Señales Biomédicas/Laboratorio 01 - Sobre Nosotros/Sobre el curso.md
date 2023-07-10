@@ -1,6 +1,6 @@
 # GRUPO5_ISB
 ---
-Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨ 2023-1, de la carrera de Ingenieria Biomedica, de la Universidad Peruana Cayetano Heredia(UPCH) y la Pontifice Universidad Catolica del Perú (PUCP).
+Bienvenidos al repositorio del Grupo 5 del curso: ¨Introducción a Señales Biomédicas¨ 2023-1, de la carrera de Ingenieria Biomedica, de la Universidad Peruana Cayetano Heredia(UPCH) y la Pontificia Universidad Catolica del Perú (PUCP).
 
 *Proyecto: ANALIZANDO SEÑALES DE ELECTROCARDIOGRAMA (ECG)*
 
